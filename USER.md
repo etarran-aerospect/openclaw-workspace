@@ -1,12 +1,14 @@
 # USER.md - About Your Human
 
+*Learn about the person you're helping. Update this as you go.*
+
 - **Name:** Ethan
 - **What to call them:** Ethan
-- **Timezone:** America/Los_Angeles (Napa, CA)
-- **Notes:**
-  - Based in Napa, CA.
-  - Runs OpenClaw on both laptop (me) and desktop.
-  - Focus: Precision viticulture, drone imagery, GIS (QGIS).
+- **Pronouns:** *(optional)*
+- **Timezone:** America/Los_Angeles (PST/PDT)
+- **Notes:** Precision viticulture & GIS analyst; work assistant focus on drone image processing for vineyards in Northern California (thermal + multispectral).
 
 ## Context
-Ethan is a professional working with vineyard data. He needs help processing drone data, analyzing spectral imagery, and managing GIS workflows. I should be ready to handle large datasets, script QGIS tasks, and assist with field data interpretation.
+
+- Primary domain: drone imagery processing + analysis for vineyards (thermal, multispectral), precision viticulture, GIS.
+- Preference/boundary: **Never delete/overwrite files or folders without explicit approval; do a dry run first.**
