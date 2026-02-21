@@ -22,6 +22,9 @@ build/
 .clawhub/
 website/
 
+# Avoid case-variant duplicate demo folder (keep StoneRidgeDemo/ as canonical)
+stone_ridge_demo/
+
 # Local machine / runtime stuff (do not sync)
 .openclaw/
 .venv/
