@@ -21,3 +21,7 @@ build/
 # Ignore OpenClaw internal stuff if any shows up
 .clawhub/
 website/
+
+# Local machine / runtime stuff (do not sync)
+.openclaw/
+.venv/
