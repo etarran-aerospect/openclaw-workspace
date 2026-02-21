@@ -20,3 +20,4 @@ build/
 
 # Ignore OpenClaw internal stuff if any shows up
 .clawhub/
+website/
