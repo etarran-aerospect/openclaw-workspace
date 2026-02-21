@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>AeroSpect - Precision Viticulture Solutions</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <style>
+      /* Precision Tech Theme */
+      body { font-family: 'Inter', sans-serif; margin: 0; padding: 0; background-color: #F3F4F6; color: #111827; line-height: 1.6; }
+      .container { max-width: 960px; margin: 0 auto; padding: 0 20px; }
+      h1, h2, h3, h4 { color: #1E293B; font-weight: 700; line-height: 1.2; }
+      h1 { font-size: 3.5em; margin-bottom: 0.5em; }
+      h2 { font-size: 2.5em; margin-bottom: 0.8em; }
+      h3 { font-size: 1.8em; margin-bottom: 0.7em; }
+      h4 { font-size: 1.3em; margin-bottom: 0.6em; }
+      p { margin-bottom: 1em; }
+
+      /* Navigation */
+      nav { background-color: #FFFFFF; border-bottom: 1px solid #E5E7EB; padding: 6px 0; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 2px rgba(15,23,42,0.04); position: sticky; top: 0; z-index: 1000; }
+      nav .logo { height: 28px; margin-left: 12px; }
+      nav .nav-links a { color: #4B5563; text-decoration: none; margin: 0 14px; font-weight: 500; transition: color 0.2s ease; }
+      nav .nav-links a:hover { color: #16A34A; /* Green accent */ }
+      .button { background-color: #16A34A; color: #FFFFFF; padding: 8px 18px; border-radius: 999px; text-decoration: none; margin-right: 16px; font-weight: 600; transition: background-color 0.2s ease, box-shadow 0.2s ease; display: inline-block; box-shadow: 0 1px 2px rgba(15,23,42,0.08); }
+      .button:hover { background-color: #15803D; box-shadow: 0 2px 4px rgba(15,23,42,0.12); }
+      .button.outline { background-color: transparent; border: 1px solid #16A34A; color: #166534; box-shadow: none; }
+      .button.outline:hover { background-color: rgba(22,163,74,0.06); }
+
+      /* Sections */
+      section { padding: 80px 0; text-align: center; }
+      section:nth-of-type(even) { background-color: #E5E7EB; /* Light gray */}
+
+      /* Hero Section */
+      .hero { background-color: #F9FAFB; padding-top: 96px; padding-bottom: 72px; }
+      .hero .tagline { background-color: #E5F9EB; /* Soft green */ color: #166534; padding: 6px 16px; border-radius: 999px; display: inline-block; margin-bottom: 20px; font-weight: 600; font-size: 0.9em; }
+      .hero p { font-size: 1.25em; color: #4A5568; max-width: 700px; margin: 0 auto 40px; }
+      .hero .cta-buttons a { margin: 0 15px; display: inline-flex; align-items: center; justify-content: center; }
+
+      /* Grid Layouts */
+      .grid-3-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; margin-top: 50px; }
+      .grid-item { background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 8px; padding: 30px; text-align: left; box-shadow: 0 4px 6px rgba(0,0,0,0.05); transition: transform 0.3s ease, box-shadow 0.3s ease; }
+      .grid-item:hover { transform: translateY(-5px); box-shadow: 0 6px 12px rgba(0,0,0,0.1); }
+      .grid-item .icon { height: 40px; width: 40px; color: #16A34A; margin-bottom: 20px; }
+      .grid-item p { color: #4A5568; font-size: 0.95em; }
+      
+      /* Summary Cards for Homepage */
+      .summary-card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px; margin-top: 50px; }
+      .summary-card { background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 10px; padding: 30px; text-align: left; box-shadow: 0 5px 15px rgba(0,0,0,0.08); transition: transform 0.3s ease, box-shadow 0.3s ease; }
+      .summary-card:hover { transform: translateY(-7px); box-shadow: 0 8px 20px rgba(0,0,0,0.12); }
+      .summary-card h3 { color: #1E293B; margin-bottom: 15px; }
+      .summary-card p { color: #4A5568; margin-bottom: 20px; }
+      .summary-card .learn-more { color: #16A34A; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 5px; }
+      .summary-card .learn-more:hover { text-decoration: underline; }
+
+      /* Contact Section */
+      .contact-section { background-color: #F0FDF4; /* Pale green */ padding: 72px 0; }
+      .contact-section h2 { color: #166534; }
+      .contact-section p { color: #166534; max-width: 700px; margin: 0 auto 40px; font-size: 1.1em; }
+      .contact-links a { background-color: #FFFFFF; border: 1px solid #16A34A; color: #166534; padding: 10px 22px; border-radius: 999px; text-decoration: none; margin: 0 10px; display: inline-flex; align-items: center; justify-content: center; gap: 10px; font-weight: 600; transition: background-color 0.2s ease, border-color 0.2s ease; }
+      .contact-links a:hover { background-color: #E5F9EB; border-color: #15803D; }
+      .contact-section .location { color: #166534; margin-top: 24px; font-weight: 500; }
+
+      /* Footer */
+      footer { background-color: #1E293B; color: #E2E8F0; padding: 30px 0; text-align: center; font-size: 0.9em; }
+      footer .logo { height: 30px; filter: brightness(0) invert(1); /* Makes logo white */ margin-right: 15px; }
+      footer .container { display: flex; justify-content: space-between; align-items: center; }
+      footer p { margin: 0; color: #A0AEC0; }
+
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+        h1 { font-size: 2.5em; }
+        h2 { font-size: 2em; }
+        .hero { padding-top: 90px; padding-bottom: 60px; }
+        .hero p { font-size: 1em; }
+        .hero .cta-buttons a { display: block; margin: 10px auto; max-width: 250px; }
+        nav .nav-links { display: none; /* Hide for mobile, consider a hamburger menu in React */ }
+        nav .button { margin-right: 10px; }
+        section { padding: 50px 0; }
+        .summary-card-grid { grid-template-columns: 1fr; }
+        .contact-links a { margin: 10px auto; max-width: 300px; display: flex; }
+        footer .container { flex-direction: column; }
+        footer .logo { margin: 0 0 10px 0; }
+        footer p { text-align: center; }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="root">
+      <nav class="container">
+        <a href="index_v3.html"><img src="/AeroSpect-blue-logo-dark.png" alt="AeroSpect Logo" class="logo" /></a>
+        <div class="nav-links">
+          <a href="approach.html">Our Approach</a>
+          <a href="year_round_services.html">Year-Round Services</a>
+          <a href="solutions.html">Our Solutions</a>
+          <a href="pricing.html">Pricing</a>
+          <a href="contact.html">Contact Us</a>
+        </div>
+        <a href="contact.html" class="button">Get Assessment</a>
+      </nav>
+
+      <section class="hero">
+        <div class="container">
+          <div class="tagline">
+            Data-Driven Insights for Optimal Vineyard Management
+          </div>
+          <h1>Elevate Your Vineyard with Aerial Intelligence</h1>
+          <p>
+            AeroSpect combines the power of aerial drones equipped with sophisticated sensors and AI to deliver actionable intelligence that transforms vineyard management.
+            From real-time monitoring to predictive analytics, our solutions empower winegrowers to make smarter decisions, improve grape quality, and maximize yields.
+          </p>
+          <div class="cta-buttons">
+            <a href="contact.html" class="button">Free Assessment &rarr;</a>
+            <a href="year_round_services.html" class="button outline">Explore Year-Round Value</a>
+          </div>
+          <!-- Placeholder for Hero Image: Aerial shot of a vibrant vineyard with subtle data overlays. -->
+        </div>
+      </section>
+
+      <section id="main-content-summary">
+        <div class="container">
+          <h2>Unlock Your Vineyard's Full Potential</h2>
+          <p style="font-size: 1.1em; color: #4A5568; max-width: 800px; margin: 0 auto 50px;">
+            AeroSpect brings together drone imagery, advanced sensors, and AI to give winegrowers a clearer, earlier view of what’s happening in the field.
+            From stress and vigor to water use and ripening, we turn complex data into practical guidance so you can protect quality, reduce risk, and get more out of every block.
+          </p>
+
+          <div class="summary-card-grid">
+            <div class="summary-card">
+              <h3>Our Approach: Transforming Data into Decisions</h3>
+              <p>
+                Aerial imagery on its own isn’t enough. AeroSpect handles flight, processing, and analysis, then delivers clean, easy-to-read maps and summaries that highlight where to act and why.
+                You get clear priorities and recommendations, not raw data to decipher.
+              </p>
+              <a href="approach.html" class="learn-more">Learn More &rarr;</a>
+            </div>
+
+            <div class="summary-card">
+              <h3>Year-Round Value: Seasonal Intelligence</h3>
+              <p>
+                Vineyards don’t have one “data moment” each year. From budbreak to post-harvest, AeroSpect tailors flights and analysis to each stage of the season—early vigor, mid-season stress, pre-harvest uniformity, and post-harvest review—so you’re always making decisions with current, block-level insight.
+              </p>
+              <a href="year_round_services.html" class="learn-more">Explore Seasonal Insights &rarr;</a>
+            </div>
+
+            <div class="summary-card">
+              <h3>Our Specialized Solutions</h3>
+              <p>
+                Large ranches and premium blocks each have their own challenges. AeroSpect offers targeted solutions for vigor and stress zoning, irrigation evaluation, redevelopment planning, and block comparisons,
+                helping you focus labor and inputs where they have the biggest impact.
+              </p>
+              <a href="solutions.html" class="learn-more">View All Solutions &rarr;</a>
+            </div>
+
+            <div class="summary-card">
+              <h3>Transparent, Value-Based Pricing</h3>
+              <p>
+                Our pricing is built around flights and deliverables that matter to your operation, not generic “per-acre” numbers.
+                Together we scope the blocks, timing, and depth of analysis so you’re investing in specific outcomes: fewer passes, smarter water use, and protected yield and quality.
+              </p>
+              <a href="pricing.html" class="learn-more">Understand Our Value &rarr;</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="contact-section">
+        <div class="container">
+          <h2>Ready for Actionable Vineyard Insights?</h2>
+          <p>
+            The wine industry is under real financial pressure. AeroSpect helps vineyard teams see exactly where to act first by revealing stress, variability, and opportunity across their blocks.
+            Get in touch to walk through a vineyard or block you're concerned about and see what aerial intelligence can unlock for your operation.
+          </p>
+          <div class="contact-links">
+            <a href="tel:707-819-6961">📞 707-819-6961</a>
+            <a href="mailto:ethan@aerospectinc.com">✉️ ethan@aerospectinc.com</a>
+          </div>
+          <p class="location">Wine Country, CA</p>
+          <!-- Placeholder for Contact Section Image: A drone landing in a vineyard, or a handshake over a tablet showing vineyard data. -->
+        </div>
+      </section>
+
+      <footer>
+        <div class="container">
+          <img src="/AeroSpect-blue-logo-text.png" alt="AeroSpect" class="logo" />
+          <p>© 2025 AeroSpect Inc. All rights reserved.</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+
+</html>

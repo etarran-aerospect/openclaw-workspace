@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>AeroSpect - Year-Round Services</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <style>
+      /* Precision Tech Theme */
+      body { font-family: 'Inter', sans-serif; margin: 0; padding: 0; background-color: #F4F6F8; color: #1E293B; line-height: 1.6; }
+      .container { max-width: 960px; margin: 0 auto; padding: 0 20px; }
+      h1, h2, h3, h4 { color: #1E293B; font-weight: 700; line-height: 1.2; }
+      h1 { font-size: 3.5em; margin-bottom: 0.5em; }
+      h2 { font-size: 2.5em; margin-bottom: 0.8em; }
+      h3 { font-size: 1.8em; margin-bottom: 0.7em; }
+      h4 { font-size: 1.3em; margin-bottom: 0.6em; }
+      p { margin-bottom: 1em; }
+
+      /* Navigation */
+      nav { background-color: #FFFFFF; border-bottom: 1px solid #E2E8F0; padding: 10px 0; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); position: sticky; top: 0; z-index: 1000; }
+      nav .logo { height: 35px; margin-left: 20px; }
+      nav .nav-links a { color: #4A5568; text-decoration: none; margin: 0 15px; font-weight: 500; transition: color 0.3s ease; }
+      nav .nav-links a:hover { color: #14B8A6; /* Vibrant Teal */ }
+      .button { background-color: #14B8A6; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; margin-right: 20px; font-weight: 600; transition: background-color 0.3s ease; display: inline-block; }
+      .button:hover { background-color: #0F9E8C; }
+      .button.outline { background-color: transparent; border: 2px solid #14B8A6; color: #14B8A6; }
+      .button.outline:hover { background-color: rgba(20, 184, 166, 0.1); }
+
+      /* Sections */
+      section { padding: 80px 0; text-align: center; }
+      section:nth-of-type(even) { background-color: #E2E8F0; /* Light Gray for alternating sections */}
+
+      /* Grid Layouts */
+      .grid-3-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; margin-top: 50px; }
+      .grid-item { background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 8px; padding: 30px; text-align: left; box-shadow: 0 4px 6px rgba(0,0,0,0.05); transition: transform 0.3s ease, box-shadow 0.3s ease; }
+      .grid-item:hover { transform: translateY(-5px); box-shadow: 0 6px 12px rgba(0,0,0,0.1); }
+      .grid-item .icon { height: 40px; width: 40px; color: #14B8A6; margin-bottom: 20px; }
+      .grid-item p { color: #4A5568; font-size: 0.95em; }
+      
+      /* Seasonal Services Specifics */
+      .season-section { margin-top: 50px; }
+      .season-card { background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 8px; padding: 30px; margin-bottom: 20px; text-align: left; box-shadow: 0 2px 4px rgba(0,0,0,0.03); }
+      .season-card h3 { color: #14B8A6; margin-bottom: 10px; }
+      .season-card h4 { font-size: 1.1em; color: #1E293B; margin-bottom: 10px; }
+      .season-card p { color: #4A5568; font-size: 0.9em; }
+
+      /* Contact Section (minimal for subpages) */
+      .contact-section-mini { padding: 40px 0; background-color: #D1FAE5; /* Light Teal */ text-align: center; }
+      .contact-section-mini h2 { color: #065F46; font-size: 1.8em; margin-bottom: 20px; }
+      .contact-section-mini .button { margin: 0 auto; }
+
+      /* Footer */
+      footer { background-color: #1E293B; color: #E2E8F0; padding: 30px 0; text-align: center; font-size: 0.9em; }
+      footer .logo { height: 30px; filter: brightness(0) invert(1); /* Makes logo white */ margin-right: 15px; }
+      footer .container { display: flex; justify-content: space-between; align-items: center; }
+      footer p { margin: 0; color: #A0AEC0; }
+
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+        h1 { font-size: 2.5em; }
+        h2 { font-size: 2em; }
+        section { padding: 50px 0; }
+        .grid-3-cols { grid-template-columns: 1fr; }
+        nav .nav-links { display: none; /* Hide for mobile, consider a hamburger menu in React */ }
+        nav .button { margin-right: 10px; }
+        footer .container { flex-direction: column; }
+        footer .logo { margin: 0 0 10px 0; }
+        footer p { text-align: center; }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="root">
+      <nav class="container">
+        <img src="/AeroSpect-blue-logo-dark.png" alt="AeroSpect Logo" class="logo" />
+        <div class="nav-links">
+          <a href="index_v3.html">Home</a>
+          <a href="approach.html">Our Approach</a>
+          <a href="year_round_services.html">Year-Round Services</a>
+          <a href="solutions.html">Our Solutions</a>
+          <a href="pricing.html">Pricing</a>
+          <a href="contact.html">Contact Us</a>
+        </div>
+        <a href="contact.html" class="button">Get Assessment</a>
+      </nav>
+
+      <section class="hero">
+        <div class="container">
+          <h1>Year-Round Value: Seasonal Aerial Intelligence</h1>
+          <p style="font-size: 1.25em; color: #4A5568; max-width: 700px; margin: 0 auto 40px;">
+            AeroSpect provides critical, actionable insights tailored to each unique
+            phase of your vineyard's annual cycle, ensuring optimal management
+            from dormancy through harvest.
+          </p>
+          <!-- Placeholder for Section Header Image: A beautiful, wide aerial shot showcasing all four seasons in a vineyard. -->
+        </div>
+      </section>
+
+      <section>
+        <div class="container">
+          <div class="grid-3-cols season-section">
+            <div class="season-card">
+              <h3>Winter (Dec – Feb)</h3>
+              <p class="text-teal-600 font-semibold mb-4">Focus: Pruning, Tying & Site Preparation</p>
+              <h4>Actionable Insights:</h4>
+              <ul>
+                <li><strong>Structural Mapping:</strong> High-resolution RGB imagery precisely maps trellis systems and identifies broken posts or wires, guiding efficient winter repairs and pruning strategies.</li>
+                <li><strong>Cover Crop Vigor:</strong> Multispectral analysis monitors cover crop establishment and vigor, providing insights for maintaining soil health during dormancy.</li>
+                <li><strong>Drainage Analysis:</strong> Thermal imagery identifies drainage issues or soil moisture pooling, critical for planning erosion control or regrading.</li>
+              </ul>
+              <!-- Placeholder for Winter Image: Drone flying over a dormant vineyard, or a close-up of a well-pruned vine. -->
+            </div>
+            <div class="season-card">
+              <h3>Spring (Mar – May)</h3>
+              <p class="text-teal-600 font-semibold mb-4">Focus: Canopy Management, Nutrients & Frost Protection</p>
+              <h4>Actionable Insights:</h4>
+              <ul>
+                <li><strong>Vigor & Nutrient Zoning:</strong> Multispectral imagery provides early-season vigor mapping, identifying hot spots or weak zones to guide precise nutrient application strategies.</li>
+                <li><strong>Frost Risk & Efficacy:</strong> Thermal monitoring tracks temperature inversions and assesses the real-time efficiency of wind fans or sprinklers for effective frost protection.</li>
+                <li><strong>Pest & Disease Scouting:</strong> High-resolution RGB maps detail early pest and disease outbreaks, enabling targeted and reduced-input spray programs.</li>
+              </ul>
+              <!-- Placeholder for Spring Image: Young vine shoots emerging, or a thermal map showing temperature variations. -->
+            </div>
+            <div class="season-card">
+              <h3>Summer (Jun – Aug)</h3>
+              <p class="text-teal-600 font-semibold mb-4">Focus: Irrigation, Veraison & Canopy Thinning</p>
+              <h4>Actionable Insights:</h4>
+              <ul>
+                <li><strong>Water Stress Detection:</strong> Thermal imagery accurately detects water stress in individual vines *before* visible wilting, optimizing irrigation schedules and water conservation.</li>
+                <li><strong>Veraison Uniformity:</strong> Multispectral analysis tracks the uniformity of veraison, monitoring leaf color and canopy health to identify sections ripening at different rates.</li>
+                <li><strong>Canopy Management Guidance:</strong> RGB vigor maps highlight areas requiring targeted leaf removal or thinning to optimize sunlight exposure and airflow.</li>
+              </ul>
+              <!-- Placeholder for Summer Image: Lush vineyard canopy from above, or multispectral image highlighting differences. -->
+            </div>
+            <div class="season-card">
+              <h3>Fall (Sep – Nov)</h3>
+              <p class="text-teal-600 font-semibold mb-4">Focus: Harvest & Erosion Control</p>
+              <h4>Actionable Insights:</h4>
+              <ul>
+                <li><strong>Selective Harvest Maps:</strong> Combined Multispectral & RGB data create precise maps, identifying areas with consistent sugar/acid levels for optimal, quality-driven picking.</li>
+                <li><strong>Soil Stability for Harvest:</strong> Thermal imagery monitors soil moisture to ensure ground stability for heavy harvest equipment, preventing compaction and facilitating smooth operations.</li>
+                <li><strong>Post-Harvest Planning:</strong> High-resolution RGB maps aid in planning erosion control and cover crop seeding, setting the stage for a productive upcoming winter.</li>
+              </ul>
+              <!-- Placeholder for Fall Image: Vineyard during harvest, or a drone flying over ripe grapes. -->
+            </div>
+          </div>
+          <!-- Placeholder for Year-Round Services Section Background Image: A subtle, abstract pattern resembling data flow or vineyard rows. -->
+        </div>
+      </section>
+
+      <section class="contact-section-mini">
+        <div class="container">
+          <h2>Ready to Unlock Year-Round Vineyard Potential?</h2>
+          <a href="contact.html" class="button">Contact AeroSpect &rarr;</a>
+        </div>
+      </section>
+
+      <footer>
+        <div class="container">
+          <img src="/AeroSpect-blue-logo-text.png" alt="AeroSpect" class="logo" />
+          <p>© 2025 AeroSpect Inc. All rights reserved.</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+
+</html>

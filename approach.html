@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>AeroSpect - Our Approach</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <style>
+      /* Precision Tech Theme */
+      body { font-family: 'Inter', sans-serif; margin: 0; padding: 0; background-color: #F4F6F8; color: #1E293B; line-height: 1.6; }
+      .container { max-width: 960px; margin: 0 auto; padding: 0 20px; }
+      h1, h2, h3, h4 { color: #1E293B; font-weight: 700; line-height: 1.2; }
+      h1 { font-size: 3.5em; margin-bottom: 0.5em; }
+      h2 { font-size: 2.5em; margin-bottom: 0.8em; }
+      h3 { font-size: 1.8em; margin-bottom: 0.7em; }
+      h4 { font-size: 1.3em; margin-bottom: 0.6em; }
+      p { margin-bottom: 1em; }
+
+      /* Navigation */
+      nav { background-color: #FFFFFF; border-bottom: 1px solid #E2E8F0; padding: 10px 0; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); position: sticky; top: 0; z-index: 1000; }
+      nav .logo { height: 35px; margin-left: 20px; }
+      nav .nav-links a { color: #4A5568; text-decoration: none; margin: 0 15px; font-weight: 500; transition: color 0.3s ease; }
+      nav .nav-links a:hover { color: #14B8A6; /* Vibrant Teal */ }
+      .button { background-color: #14B8A6; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; margin-right: 20px; font-weight: 600; transition: background-color 0.3s ease; display: inline-block; }
+      .button:hover { background-color: #0F9E8C; }
+      .button.outline { background-color: transparent; border: 2px solid #14B8A6; color: #14B8A6; }
+      .button.outline:hover { background-color: rgba(20, 184, 166, 0.1); }
+
+      /* Sections */
+      section { padding: 80px 0; text-align: center; }
+      section:nth-of-type(even) { background-color: #E2E8F0; /* Light Gray for alternating sections */}
+
+      /* Hero Section for sub-pages (smaller, focused) */
+      .subpage-hero { background-color: #F4F6F8; padding-top: 80px; padding-bottom: 60px; }
+      .subpage-hero h1 { font-size: 3em; margin-bottom: 0.5em; }
+      .subpage-hero p { font-size: 1.15em; color: #4A5568; max-width: 700px; margin: 0 auto 30px; }
+
+      /* Grid Layouts */
+      .grid-3-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; margin-top: 50px; }
+      .grid-item { background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 8px; padding: 30px; text-align: left; box-shadow: 0 4px 6px rgba(0,0,0,0.05); transition: transform 0.3s ease, box-shadow 0.3s ease; }
+      .grid-item:hover { transform: translateY(-5px); box-shadow: 0 6px 12px rgba(0,0,0,0.1); }
+      .grid-item .icon { height: 40px; width: 40px; color: #14B8A6; margin-bottom: 20px; }
+      .grid-item p { color: #4A5568; font-size: 0.95em; }
+      
+      /* Content specific styles for approach.html */
+      .approach-intro { max-width: 800px; margin: 0 auto 60px; font-size: 1.15em; color: #4A5568; }
+      .approach-detail-block { background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 8px; padding: 40px; margin-bottom: 40px; text-align: left; box-shadow: 0 4px 10px rgba(0,0,0,0.04); }
+      .approach-detail-block h3 { color: #14B8A6; margin-bottom: 15px; font-size: 1.6em; }
+      .approach-detail-block p { color: #4A5568; margin-bottom: 15px; }
+      .approach-detail-block ul { list-style: none; padding: 0; margin-top: 20px; }
+      .approach-detail-block li { background-color: #F8F9FA; border: 1px solid #E9EDF2; border-radius: 5px; padding: 15px; margin-bottom: 10px; text-align: left; }
+      .approach-detail-block li strong { color: #1E293B; }
+
+      /* Contact Section (minimal for subpages) */
+      .contact-section-mini { padding: 40px 0; background-color: #D1FAE5; /* Light Teal */ text-align: center; }
+      .contact-section-mini h2 { color: #065F46; font-size: 1.8em; margin-bottom: 20px; }
+      .contact-section-mini .button { margin: 0 auto; }
+
+      /* Footer */
+      footer { background-color: #1E293B; color: #E2E8F0; padding: 30px 0; text-align: center; font-size: 0.9em; }
+      footer .logo { height: 30px; filter: brightness(0) invert(1); /* Makes logo white */ margin-right: 15px; }
+      footer .container { display: flex; justify-content: space-between; align-items: center; }
+      footer p { margin: 0; color: #A0AEC0; }
+
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+        h1 { font-size: 2.5em; }
+        h2 { font-size: 2em; }
+        .subpage-hero { padding-top: 60px; padding-bottom: 40px; }
+        .subpage-hero p { font-size: 1em; }
+        section { padding: 50px 0; }
+        .grid-3-cols { grid-template-columns: 1fr; }
+        nav .nav-links { display: none; /* Hide for mobile, consider a hamburger menu in React */ }
+        nav .button { margin-right: 10px; }
+        footer .container { flex-direction: column; }
+        footer .logo { margin: 0 0 10px 0; }
+        footer p { text-align: center; }
+        .approach-detail-block { padding: 25px; }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="root">
+      <nav class="container">
+        <a href="index_v3.html"><img src="/AeroSpect-blue-logo-dark.png" alt="AeroSpect Logo" class="logo" /></a>
+        <div class="nav-links">
+          <a href="approach.html">Our Approach</a>
+          <a href="year_round_services.html">Year-Round Services</a>
+          <a href="solutions.html">Our Solutions</a>
+          <a href="pricing.html">Pricing</a>
+          <a href="contact.html">Contact Us</a>
+        </div>
+        <a href="contact.html" class="button">Get Assessment</a>
+      </nav>
+
+      <section class="subpage-hero">
+        <div class="container">
+          <h1>Our Approach: Transforming Data into Decisions</h1>
+          <p>
+            At AeroSpect, we go beyond mere imagery. We extract precise data from
+            drone captures – including RGB, thermal, and multispectral – and
+            translate it into **actionable insights** that empower vineyard
+            managers to make strategic, data-driven decisions year-round.
+          </p>
+        </div>
+      </section>
+
+      <section>
+        <div class="container">
+          <p class="approach-intro">
+            In an industry where every detail matters, AeroSpect brings a new level of precision and insight to vineyard management.
+            Unlike traditional methods that offer limited scope or manual data collection,
+            our drone-powered intelligence provides comprehensive, accurate, and timely information
+            to optimize every aspect of your vineyard.
+          </p>
+
+          <div class="approach-detail-block">
+            <h3>Beyond Imagery: The Power of Actionable Data</h3>
+            <p>
+              Many solutions provide maps (NDVI, RGB), but AeroSpect takes it a crucial step further.
+              We meticulously process raw drone data to extract quantifiable metrics and
+              predictive analytics. This means you don't just see problems; you understand their
+              root causes and receive clear, data-driven recommendations for targeted action.
+            </p>
+            <ul>
+              <li>
+                <strong>Precision Data Extraction:</strong> We analyze drone captures from RGB, thermal,
+                and multispectral sensors to identify specific plant health indicators, soil
+                moisture variations, and structural anomalies.
+              </li>
+              <li>
+                <strong>Actionable Insights, Not Just Maps:</strong> Our reports highlight critical areas
+                requiring attention, offering direct recommendations for irrigation adjustments,
+                pest management, nutrient application, and more. This saves you valuable time and resources.
+              </li>
+              <li>
+                <strong>Proactive Management:</strong> Identify issues *before* they become visible problems.
+                Our predictive analytics allow for early intervention, minimizing potential crop loss
+                and maximizing vineyard longevity.
+              </li>
+            </ul>
+            <!-- Placeholder for Image: A split image showing raw drone data on one side and a clear, actionable dashboard/report on the other. -->
+          </div>
+
+          <div class="approach-detail-block">
+            <h3>Why AeroSpect's Drone-Based Approach Excels</h3>
+            <p>
+              Traditional ground-based scouting is labor-intensive, time-consuming, and prone to human error,
+              often missing early signs of stress or disease across vast acreage.
+              Aerial imagery (without advanced analysis) provides a broad view but lacks the depth and precision
+              to deliver truly actionable strategies.
+            </p>
+            <ul>
+              <li>
+                <strong>Unmatched Precision & Coverage:</strong> Drones cover large areas rapidly,
+                capturing high-resolution data that reveals details invisible to the naked eye
+                or traditional ground surveys. Every vine can be assessed.
+              </li>
+              <li>
+                <strong>Significant Labor & Cost Savings:</strong> By automating data collection and providing
+                targeted insights, we drastically reduce the need for manual scouting, freeing up your
+                labor for active vineyard management. This also minimizes equipment costs and fuel usage.
+              </li>
+              <li>
+                <strong>Optimal Resource Utilization:</strong> Our insights enable precise application of
+                water, fertilizers, and pesticides. This means less waste, lower input costs,
+                and a more sustainable vineyard operation.
+              </li>
+              <li>
+                <strong>Comprehensive Year-Round Intelligence:</strong> From dormancy management to harvest planning,
+                our seasonal insights ensure you make the best decisions at every stage of the growth cycle.
+              </li>
+            </ul>
+            <!-- Placeholder for Image: A split image comparing traditional scouting (person walking rows) vs. a drone flying over a vineyard. -->
+          </div>
+        </div>
+      </section>
+
+      <section class="contact-section-mini">
+        <div class="container">
+          <h2>Ready to Refine Your Vineyard Strategy?</h2>
+          <a href="contact.html" class="button">Get a Free Assessment &rarr;</a>
+        </div>
+      </section>
+
+      <footer>
+        <div class="container">
+          <img src="/AeroSpect-blue-logo-text.png" alt="AeroSpect" class="logo" />
+          <p>© 2025 AeroSpect Inc. All rights reserved.</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+
+</html>

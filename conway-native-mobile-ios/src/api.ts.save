@@ -1,0 +1,192 @@
+const API = "http://<YOUR-WINDOWS-LAN-IP>:8787/api"; // e.g. http://192.168.1.12:8787/api
+
+export async function login(email: string) {
+  const r = await fetch(`${API}/login`, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({ email })
+  });
+ mu if (!r.ok) throw new Error(`login failed ${r.status}`);
+  return r.json() as Promise<{ token: string; userId: string }>;
+}
+
+export async function validateReceipt(email: string, amountCents: number) {
+  const r = await fetch(`${API}/validate-receipt`, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({ email, platform: "apple", receipt: "TEST_RECEIPT", amountCents })
+  });
+  if (!r.ok) throw new Error(`receipt failed ${r.status}`);
+  return r.json() as Promise<{ userId: string; balanceCents: number }>;
+}
+
+export async function getBalance(userId: string) {
+  const r = await fetch(`${API}/credits/balance?userId=${encodeURIComponent(userId)}`);
+  if (!r.ok) throw new Error(`balance failed ${r.status}`);
+  return r.json() as Promise<{ balanceCents: number }>;
+}
+
+export async function birthAgent(userId: string, templateId?: string) {
+  const r = await fetch(`${API}/agents`, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({ userId, templateId, birthFeeCents: 200 })
+  });
+  const json = await r.json();
+  if (!r.ok) throw new Error(json?.error ?? `birth failed ${r.status}`);
+  return json as { birthTicket: string; balanceCents: number };
+}
+
+export async function registerAgent(birthTicket: string, walletAddress: string, sandboxId: string) {
+  const r = await fetch(`${API}/agents/register`, {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify({ birthTicket, walletAddress, sandboxId })
+  });
+  const json = await r.json();
+  if (!r.ok) throw new Error(json?.error ?? `register failed ${r.status}`);
+  return json as { agent: any };
+}
+
+export async function listAgents(userId: string) {
+  const r = await fetch(`${API}/users/${userId}/agents`);
+  if (!r.ok) throw new Error(`list agents failed ${r.status}`);
+  return r.json() as Promise<{ agents: any[] }>;
+}
+Replace <YOUR-WINDOWS-LAN-IP> with the IP from ipconfig (same one you used earlier).
+
+Save and exit.
+
+2) Replace app/index.tsx with your screen
+Now open the root screen file:
+
+nano app/index.tsx
+Replace its contents with:
+
+import React, { useMemo, useState } from "react";
+import { SafeAreaView, View, Text, TextInput, Pressable, FlatList } from "react-native";
+import * as api from "../src/api";
+
+export default function Index() {
+  const [email, setEmail] = useState("ethan@example.com");
+  const [userId, setUserId] = useState<string | null>(null);
+  const [balance, setBalance] = useState<number>(0);
+  const [birthTicket, setBirthTicket] = useState<string | null>(null);
+  const [walletAddress, setWalletAddress] = useState("0xDEMO_WALLET");
+  const [sandboxId, setSandboxId] = useState("demo_sandbox");
+  const [agents, setAgents] = useState<any[]>([]);
+  const [err, setErr] = useState<string | null>(null);
+
+  const dollars = useMemo(() => (balance / 100).toFixed(2), [balance]);
+
+  async function doLogin() {
+    setErr(null);
+    const r = await api.login(email);
+    setUserId(r.userId);
+    const b = await api.getBalance(r.userId);
+    setBalance(b.balanceCents);
+    const a = await api.listAgents(r.userId);
+    setAgents(a.agents);
+  }
+
+  async function buyCredits() {
+    if (!userId) return;
+    setErr(null);
+    const r = await api.validateReceipt(email, 500); // $5
+    setBalance(r.balanceCents);
+  }
+
+  async function birth() {
+    if (!userId) return;
+    setErr(null);
+    try {
+      const r = await api.birthAgent(userId, "template_basic");
+      setBirthTicket(r.birthTicket);
+      setBalance(r.balanceCents);
+    } catch (e: any) {
+      setErr(e.message);
+    }
+  }
+
+  async function register() {
+    if (!birthTicket || !userId) return;
+    setErr(null);
+    try {
+      await api.registerAgent(birthTicket, walletAddress, sandboxId);
+      setBirthTicket(null);
+      const a = await api.listAgents(userId);
+      setAgents(a.agents);
+    } catch (e: any) {
+      setErr(e.message);
+    }
+  }
+
+  return (
+    <SafeAreaView style={{ flex: 1, padding: 16, gap: 12 }}>
+      <Text style={{ fontSize: 22, fontWeight: "700" }}>Conway-Native Prototype</Text>
+
+      {!userId ? (
+        <View style={{ gap: 8 }}>
+          <Text>Email</Text>
+          <TextInput
+            value={email}
+            onChangeText={setEmail}
+            style={{ borderWidth: 1, padding: 10, borderRadius: 10 }}
+          />
+          <Pressable onPress={doLogin} style={{ padding: 12, borderRadius: 12, borderWidth: 1 }}>
+            <Text>Login</Text>
+          </Pressable>
+        </View>
+      ) : (
+        <>
+          <Text>User: {userId}</Text>
+          <Text>Balance: ${dollars}</Text>
+
+          <View style={{ flexDirection: "row", gap: 10 }}>
+            <Pressable onPress={buyCredits} style={{ padding: 12, borderRadius: 12, borderWidth: 1 }}>
+              <Text>Buy $5 Credits (Mock)</Text>
+            </Pressable>
+            <Pressable onPress={birth} style={{ padding: 12, borderRadius: 12, borderWidth: 1 }}>
+              <Text>Birth Agent ($2)</Text>
+            </Pressable>
+          </View>
+
+          {birthTicket && (
+            <View style={{ gap: 8, padding: 12, borderRadius: 12, borderWidth: 1 }}>
+              <Text style={{ fontWeight: "700" }}>Register newborn</Text>
+              <TextInput
+                value={walletAddress}
+                onChangeText={setWalletAddress}
+                style={{ borderWidth: 1, padding: 10, borderRadius: 10 }}
+              />
+              <TextInput
+                value={sandboxId}
+                onChangeText={setSandboxId}
+                style={{ borderWidth: 1, padding: 10, borderRadius: 10 }}
+              />
+              <Pressable onPress={register} style={{ padding: 12, borderRadius: 12, borderWidth: 1 }}>
+                <Text>Register</Text>
+              </Pressable>
+            </View>
+          )}
+
+          {err && <Text style={{ color: "red" }}>{err}</Text>}
+
+          <Text style={{ fontSize: 18, fontWeight: "700", marginTop: 12 }}>Agents</Text>
+          <FlatList
+            data={agents}
+            keyExtractor={(x) => x.id}
+            renderItem={({ item }) => (
+              <View style={{ padding: 12, borderRadius: 12, borderWidth: 1, marginBottom: 10 }}>
+                <Text style={{ fontWeight: "700" }}>{item.walletAddress}</Text>
+                <Text>Status: {item.status}</Text>
+                <Text>Sandbox: {item.sandboxId ?? "-"}</Text>
+                <Text>Created: {new Date(item.createdAt).toLocaleString()}</Text>
+              </View>
+            )}
+          />
+        </>
+      )}
+    </SafeAreaView>
+  );
+}

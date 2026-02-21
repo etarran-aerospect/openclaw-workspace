@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>AeroSpect - Contact Us</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <style>
+      /* Precision Tech Theme */
+      body { font-family: 'Inter', sans-serif; margin: 0; padding: 0; background-color: #F4F6F8; color: #1E293B; line-height: 1.6; }
+      .container { max-width: 960px; margin: 0 auto; padding: 0 20px; }
+      h1, h2, h3, h4 { color: #1E293B; font-weight: 700; line-height: 1.2; }
+      h1 { font-size: 3.5em; margin-bottom: 0.5em; }
+      h2 { font-size: 2.5em; margin-bottom: 0.8em; }
+      h3 { font-size: 1.8em; margin-bottom: 0.7em; }
+      h4 { font-size: 1.3em; margin-bottom: 0.6em; }
+      p { margin-bottom: 1em; }
+
+      /* Navigation */
+      nav { background-color: #FFFFFF; border-bottom: 1px solid #E2E8F0; padding: 10px 0; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); position: sticky; top: 0; z-index: 1000; }
+      nav .logo { height: 35px; margin-left: 20px; }
+      nav .nav-links a { color: #4A5568; text-decoration: none; margin: 0 15px; font-weight: 500; transition: color 0.3s ease; }
+      nav .nav-links a:hover { color: #14B8A6; /* Vibrant Teal */ }
+      .button { background-color: #14B8A6; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; margin-right: 20px; font-weight: 600; transition: background-color 0.3s ease; display: inline-block; }
+      .button:hover { background-color: #0F9E8C; }
+      .button.outline { background-color: transparent; border: 2px solid #14B8A6; color: #14B8A6; }
+      .button.outline:hover { background-color: rgba(20, 184, 166, 0.1); }
+
+      /* Sections */
+      section { padding: 80px 0; text-align: center; }
+      section:nth-of-type(even) { background-color: #E2E8F0; /* Light Gray for alternating sections */}
+
+      /* Hero Section for sub-pages (smaller, focused) */
+      .subpage-hero { background-color: #F4F6F8; padding-top: 80px; padding-bottom: 60px; }
+      .subpage-hero h1 { font-size: 3em; margin-bottom: 0.5em; }
+      .subpage-hero p { font-size: 1.15em; color: #4A5568; max-width: 700px; margin: 0 auto 30px; }
+
+      /* Contact Page Specific Styles */
+      .contact-page-content { background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 10px; padding: 60px 40px; margin-top: 50px; text-align: center; box-shadow: 0 5px 15px rgba(0,0,0,0.08); max-width: 700px; margin-left: auto; margin-right: auto; }
+      .contact-page-content h3 { color: #14B8A6; margin-bottom: 30px; font-size: 2em; }
+      .contact-page-content p { font-size: 1.1em; color: #4A5568; margin-bottom: 25px; }
+      .contact-page-content .contact-info a { display: flex; align-items: center; justify-content: center; gap: 10px; background-color: #F8F9FA; border: 1px solid #E9EDF2; color: #1E293B; padding: 15px 25px; border-radius: 8px; text-decoration: none; margin: 15px auto; max-width: 350px; font-weight: 600; transition: background-color 0.3s ease; }
+      .contact-page-content .contact-info a:hover { background-color: #ECFDF5; }
+      .contact-page-content .location { color: #4A5568; margin-top: 30px; font-weight: 500; font-size: 1em; }
+
+      /* Footer */
+      footer { background-color: #1E293B; color: #E2E8F0; padding: 30px 0; text-align: center; font-size: 0.9em; }
+      footer .logo { height: 30px; filter: brightness(0) invert(1); /* Makes logo white */ margin-right: 15px; }
+      footer .container { display: flex; justify-content: space-between; align-items: center; }
+      footer p { margin: 0; color: #A0AEC0; }
+
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+        h1 { font-size: 2.5em; }
+        h2 { font-size: 2em; }
+        .subpage-hero { padding-top: 60px; padding-bottom: 40px; }
+        .subpage-hero p { font-size: 1em; }
+        section { padding: 50px 0; }
+        nav .nav-links { display: none; /* Hide for mobile, consider a hamburger menu in React */ }
+        nav .button { margin-right: 10px; }
+        footer .container { flex-direction: column; }
+        footer .logo { margin: 0 0 10px 0; }
+        footer p { text-align: center; }
+        .contact-page-content { padding: 30px 20px; }
+        .contact-page-content .contact-info a { max-width: 100%; }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="root">
+      <nav class="container">
+        <a href="index_v3.html"><img src="/AeroSpect-blue-logo-dark.png" alt="AeroSpect Logo" class="logo" /></a>
+        <div class="nav-links">
+          <a href="approach.html">Our Approach</a>
+          <a href="year_round_services.html">Year-Round Services</a>
+          <a href="solutions.html">Our Solutions</a>
+          <a href="pricing.html">Pricing</a>
+          <a href="contact.html">Contact Us</a>
+        </div>
+        <a href="contact.html" class="button">Get Assessment</a>
+      </nav>
+
+      <section class="subpage-hero">
+        <div class="container">
+          <h1>Get in Touch with AeroSpect</h1>
+          <p>
+            Ready to transform your vineyard with precision aerial intelligence?
+            We're here to answer your questions and help you get started.
+          </p>
+        </div>
+      </section>
+
+      <section>
+        <div class="container">
+          <div class="contact-page-content">
+            <h3>Let's Discuss Your Vineyard's Potential</h3>
+            <p>
+              Whether you're looking to optimize irrigation, reduce labor costs,
+              or enhance grape quality, AeroSpect has the actionable insights you need.
+            </p>
+            <div class="contact-info">
+              <a href="tel:707-819-6961">📞 Call Us: 707-819-6961</a>
+              <a href="mailto:ethan@aerospectinc.com">✉️ Email Us: ethan@aerospectinc.com</a>
+            </div>
+            <p class="location">Serving Wine Country, CA</p>
+            <!-- Placeholder for Image: Professional image of vineyard owner/manager consulting with AeroSpect representative, or a stylized map with contact points. -->
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="container">
+          <img src="/AeroSpect-blue-logo-text.png" alt="AeroSpect" class="logo" />
+          <p>© 2025 AeroSpect Inc. All rights reserved.</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+
+</html>

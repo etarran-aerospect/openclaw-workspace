@@ -1,0 +1,22 @@
+# Ignore nested repos / projects
+aerospect-simplified/
+aerospect-website-manus/
+
+# Ignore node_modules and build artifacts if they exist
+node_modules/
+dist/
+build/
+
+# Ignore OpenClaw internal stuff if any shows up
+.clawhub/
+# Ignore nested repos / projects
+aerospect-simplified/
+aerospect-website-manus/
+
+# Ignore node_modules and build artifacts if they exist
+node_modules/
+dist/
+build/
+
+# Ignore OpenClaw internal stuff if any shows up
+.clawhub/

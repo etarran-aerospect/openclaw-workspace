@@ -1,0 +1,96 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id          String   @id @default(uuid())
+  email       String   @unique
+  createdAt   DateTime @default(now())
+
+  agents      Agent[]
+  ledger      CreditsLedger[]
+}
+
+model CreditsLedger {
+  id               String   @id @default(uuid())
+  userId           String
+  type             String
+  amountCents      Int
+  balanceAfterCents Int
+  metadata         Json?
+  createdAt        DateTime @default(now())
+
+  user             User     @relation(fields: [userId], references: [id])
+}
+
+model Agent {
+  id            String   @id @default(uuid())
+  userId        String
+  walletAddress String
+  sandboxId     String?
+  status        String   @default("running")
+  templateId    String?
+  parentAgentId String?
+  ruleHash      String?
+  createdAt     DateTime @default(now())
+  lastSeen      DateTime?
+
+  user          User     @relation(fields: [userId], references: [id])
+  parent        Agent?   @relation("ParentChild", fields: [parentAgentId], references: [id])
+  children      Agent[]  @relation("ParentChild")
+  rules         ReplicationRule[]
+  permits       ReplicationPermit[] @relation("PermitParent")
+  events        AgentEvent[]
+  lineageAsParent LineageRecord[] @relation("LineageParent")
+  lineageAsChild  LineageRecord[] @relation("LineageChild")
+}
+
+model ReplicationRule {
+  id        String   @id @default(uuid())
+  agentId   String
+  ruleJson  Json
+  ruleHash  String
+  createdAt DateTime @default(now())
+
+  agent     Agent    @relation(fields: [agentId], references: [id])
+}
+
+model ReplicationPermit {
+  id            String   @id @default(uuid())
+  parentAgentId String
+  maxSeedCents  Int
+  expiresAt     DateTime
+  used          Boolean  @default(false)
+  createdAt     DateTime @default(now())
+
+  parent        Agent    @relation("PermitParent", fields: [parentAgentId], references: [id])
+  lineage       LineageRecord?
+}
+
+model LineageRecord {
+  id            String   @id @default(uuid())
+  parentAgentId String
+  childAgentId  String
+  permitId      String   @unique
+  genesisHash   String
+  createdAt     DateTime @default(now())
+
+  parent        Agent    @relation("LineageParent", fields: [parentAgentId], references: [id])
+  child         Agent    @relation("LineageChild", fields: [childAgentId], references: [id])
+  permit        ReplicationPermit @relation(fields: [permitId], references: [id])
+}
+
+model AgentEvent {
+  id        String   @id @default(uuid())
+  agentId   String
+  type      String
+  payload   Json
+  createdAt DateTime @default(now())
+
+  agent     Agent    @relation(fields: [agentId], references: [id])
+}

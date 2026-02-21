@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>AeroSpect - Pricing</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <style>
+      /* Precision Tech Theme */
+      body { font-family: 'Inter', sans-serif; margin: 0; padding: 0; background-color: #F4F6F8; color: #1E293B; line-height: 1.6; }
+      .container { max-width: 960px; margin: 0 auto; padding: 0 20px; }
+      h1, h2, h3, h4 { color: #1E293B; font-weight: 700; line-height: 1.2; }
+      h1 { font-size: 3.5em; margin-bottom: 0.5em; }
+      h2 { font-size: 2.5em; margin-bottom: 0.8em; }
+      h3 { font-size: 1.8em; margin-bottom: 0.7em; }
+      h4 { font-size: 1.3em; margin-bottom: 0.6em; }
+      p { margin-bottom: 1em; }
+
+      /* Navigation */
+      nav { background-color: #FFFFFF; border-bottom: 1px solid #E2E8F0; padding: 10px 0; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05); position: sticky; top: 0; z-index: 1000; }
+      nav .logo { height: 35px; margin-left: 20px; }
+      nav .nav-links a { color: #4A5568; text-decoration: none; margin: 0 15px; font-weight: 500; transition: color 0.3s ease; }
+      nav .nav-links a:hover { color: #14B8A6; /* Vibrant Teal */ }
+      .button { background-color: #14B8A6; color: #fff; padding: 10px 20px; border-radius: 6px; text-decoration: none; margin-right: 20px; font-weight: 600; transition: background-color 0.3s ease; display: inline-block; }
+      .button:hover { background-color: #0F9E8C; }
+      .button.outline { background-color: transparent; border: 2px solid #14B8A6; color: #14B8A6; }
+      .button.outline:hover { background-color: rgba(20, 184, 166, 0.1); }
+
+      /* Sections */
+      section { padding: 80px 0; text-align: center; }
+      section:nth-of-type(even) { background-color: #E2E8F0; /* Light Gray for alternating sections */}
+
+      /* Hero Section for sub-pages (smaller, focused) */
+      .subpage-hero { background-color: #F4F6F8; padding-top: 80px; padding-bottom: 60px; }
+      .subpage-hero h1 { font-size: 3em; margin-bottom: 0.5em; }
+      .subpage-hero p { font-size: 1.15em; color: #4A5568; max-width: 700px; margin: 0 auto 30px; }
+
+      /* Pricing Specific Styles */
+      .pricing-intro { max-width: 800px; margin: 0 auto 60px; font-size: 1.15em; color: #4A5568; }
+      .pricing-details { background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 10px; padding: 40px; margin-top: 50px; text-align: left; box-shadow: 0 5px 15px rgba(0,0,0,0.08); }
+      .pricing-details h3 { color: #14B8A6; margin-bottom: 20px; font-size: 1.6em; }
+      .pricing-details ul { list-style: none; padding: 0; margin-bottom: 30px; }
+      .pricing-details li { background-color: #F8F9FA; border: 1px solid #E9EDF2; border-radius: 5px; padding: 15px; margin-bottom: 10px; text-align: left; font-size: 1.05em; color: #4A5568; }
+      .pricing-details li strong { color: #1E293B; }
+
+      /* Contact Section (minimal for subpages) */
+      .contact-section-mini { padding: 40px 0; background-color: #D1FAE5; /* Light Teal */ text-align: center; }
+      .contact-section-mini h2 { color: #065F46; font-size: 1.8em; margin-bottom: 20px; }
+      .contact-section-mini .button { margin: 0 auto; }
+
+      /* Footer */
+      footer { background-color: #1E293B; color: #E2E8F0; padding: 30px 0; text-align: center; font-size: 0.9em; }
+      footer .logo { height: 30px; filter: brightness(0) invert(1); /* Makes logo white */ margin-right: 15px; }
+      footer .container { display: flex; justify-content: space-between; align-items: center; }
+      footer p { margin: 0; color: #A0AEC0; }
+
+      /* Responsive adjustments */
+      @media (max-width: 768px) {
+        h1 { font-size: 2.5em; }
+        h2 { font-size: 2em; }
+        .subpage-hero { padding-top: 60px; padding-bottom: 40px; }
+        .subpage-hero p { font-size: 1em; }
+        section { padding: 50px 0; }
+        nav .nav-links { display: none; /* Hide for mobile, consider a hamburger menu in React */ }
+        nav .button { margin-right: 10px; }
+        footer .container { flex-direction: column; }
+        footer .logo { margin: 0 0 10px 0; }
+        footer p { text-align: center; }
+        .pricing-details { padding: 25px; }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="root">
+      <nav class="container">
+        <a href="index_v3.html"><img src="/AeroSpect-blue-logo-dark.png" alt="AeroSpect Logo" class="logo" /></a>
+        <div class="nav-links">
+          <a href="approach.html">Our Approach</a>
+          <a href="year_round_services.html">Year-Round Services</a>
+          <a href="solutions.html">Our Solutions</a>
+          <a href="pricing.html">Pricing</a>
+          <a href="contact.html">Contact Us</a>
+        </div>
+        <a href="contact.html" class="button">Get Assessment</a>
+      </nav>
+
+      <section class="subpage-hero">
+        <div class="container">
+          <h1>Transparent, Value-Based Pricing</h1>
+          <p>
+            At AeroSpect, your investment directly correlates with the **actionable deliverables**
+            and measurable value we provide. We focus on insights that enhance your
+            vineyard's profitability and operational efficiency, not just hours spent.
+          </p>
+        </div>
+      </section>
+
+      <section>
+        <div class="container">
+          <p class="pricing-intro">
+            We understand that every vineyard is unique, with distinct needs and challenges.
+            Our flexible pricing model ensures you receive a solution perfectly tailored
+            to deliver maximum impact for your specific goals.
+          </p>
+
+          <div class="pricing-details">
+            <h3>How We Determine Your Value</h3>
+            <ul>
+              <li>
+                <strong>Deliverable-Centered Approach:</strong> Your pricing is based on the specific
+                actionable insights, maps, and reports you receive, directly tied to your desired outcomes.
+                We prioritize results that drive your vineyard's success.
+              </li>
+              <li>
+                <strong>Key Factors for Tailored Quotes:</strong>
+                <ul>
+                  <li><strong>Vineyard Size & Complexity:</strong> Larger or more intricate vineyards may require additional resources.</li>
+                  <li><strong>Specific Data Requirements:</strong> The type and depth of aerial data collected (RGB, thermal, multispectral) impact costs.</li>
+                  <li><strong>Analytical Depth:</strong> From raw data delivery to advanced predictive modeling and tailored recommendations.</li>
+                </ul>
+              </li>
+              <li>
+                <strong>Transparent & Collaborative Process:</strong> We work closely with you to understand
+                your needs and budget. You'll receive a clear breakdown of costs and alternative options
+                to ensure the best value and return on your investment.
+              </li>
+              <li>
+                <strong>Measurable Return:</strong> Our services are designed to save you money on labor and water,
+                optimize equipment usage, and improve grape quality, leading to a compelling return on your investment.
+              </li>
+            </ul>
+            <!-- Placeholder for Image: Infographic showing value vs. cost, or a chart demonstrating ROI. -->
+          </div>
+        </div>
+      </section>
+
+      <section class="contact-section-mini">
+        <div class="container">
+          <h2>Ready to See Your Return on Investment?</h2>
+          <a href="contact.html" class="button">Get Your Free Assessment &rarr;</a>
+        </div>
+      </section>
+
+      <footer>
+        <div class="container">
+          <img src="/AeroSpect-blue-logo-text.png" alt="AeroSpect" class="logo" />
+          <p>© 2025 AeroSpect Inc. All rights reserved.</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+
+</html>
