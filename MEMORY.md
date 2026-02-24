@@ -6,5 +6,9 @@
 ## Preferences / Boundaries
 - Never delete/overwrite files or folders without explicit approval; do a dry run first.
 
+## Workflow
+- OpenClaw workspace is synced via git repo `git@github.com:etarran-aerospect/openclaw-workspace.git`.
+- Habit: `git pull --rebase` before starting work; commit + push after sessions so both machines stay in sync.
+
 ## Setup notes
 - Primary chat surface: Telegram DM.
