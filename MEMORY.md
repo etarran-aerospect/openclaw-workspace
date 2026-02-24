@@ -12,3 +12,4 @@
 
 ## Setup notes
 - Primary chat surface: Telegram DM.
+- This machine is named `Ethans-Laptop`.
