@@ -12,4 +12,4 @@
 
 ## Setup notes
 - Primary chat surface: Telegram DM.
-- This machine is named `Ethans-Laptop`.
+- This machine is named `Ethans-Laptop` and this agent identity is `Claw-Laptop` (renamed from `Claw-Desktop`).
