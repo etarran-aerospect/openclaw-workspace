@@ -31,3 +31,6 @@ stone_ridge_demo/
 
 # Secrets / local MCP configs (do not sync)
 config/
+
+# Scratch / experiments (do not sync)
+x402-sim/
