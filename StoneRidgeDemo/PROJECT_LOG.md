@@ -75,7 +75,7 @@ Even though grid overlays are no longer central to UX, we built the plumbing for
 - Note: this **should not** be labeled as treatment in client-facing UI.
 
 ## Scripts created/modified (WSL workspace)
-Workspace root: `/home/seanc/.openclaw/workspace/stone_ridge_demo`
+Workspace root: `/home/ethan/.openclaw/workspace/stone_ridge_demo`
 
 Key scripts:
 - `build_demo_a02_2025-08-04.py` — report generator (pins, thumbnails, HTML)

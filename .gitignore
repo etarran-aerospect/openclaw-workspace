@@ -28,3 +28,6 @@ stone_ridge_demo/
 # Local machine / runtime stuff (do not sync)
 .openclaw/
 .venv/
+
+# Secrets / local MCP configs (do not sync)
+config/
