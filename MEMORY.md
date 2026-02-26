@@ -12,5 +12,6 @@
 
 ## Setup notes
 - Primary chat surface: Telegram DM.
-- This machine is named `Ethans-Laptop` and this agent identity is `Claw-Laptop` (renamed from `Claw-Desktop`).
+- Desktop: agent identity `Claw-Desktop`.
+- Laptop: separate OpenClaw instance named `Claw-Laptop`.
 - Conway integration for this setup uses `mcporter` + `conway-terminal` (not `mcpServers` in `openclaw.json` on current tested builds).
