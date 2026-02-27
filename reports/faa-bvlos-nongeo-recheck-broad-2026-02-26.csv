@@ -1,0 +1,772 @@
+issue_date,waiver_id,company,pdf_url,class,hits,has_single,extract_status,text_len
+2022-02-08,107W-2022-00025,Christopher Duncan,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00025_Christopher_Duncan_CoW.pdf,geo_single,,True,ok,13793
+2022-02-16,107W-2022-00256,Iris Automation,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00256_Cheryl_Contreras_CoW.pdf,geo_single,,True,ok,14975
+2022-03-25,107W-2022-00359,Zipline (Delivery Ops),https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00359_Joseph_Marshall_CoW.pdf,exclude,,False,ok,18810
+2022-03-29,107W-2022-00323,Iris Automation,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00323_Cheryl_Contreras_CoW.pdf,geo_single,,True,ok,12117
+2022-04-04,107W-2022-00214,Massachusetts Dept of Transportation - Aeronautics Division UAS,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00214_Jeffrey_DeCarlo_CoW.pdf,geo_single,,True,ok,14197
+2022-04-07,107W-2022-00254,Unmanned Safety Institute,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00254_Devin_Allen_CoW.pdf,geo_single,,True,ok,13854
+2022-04-12,107W-2022-00078,Jason Beim,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00078_Jason_Beim_CoW.pdf,exclude,,False,ok,18648
+2022-04-13,107W-2022-00133,Treeswift,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00133_Ian_Cameron_CoW.pdf,exclude,,False,ok,13849
+2022-04-20,107W-2022-00623,Northern Plains UAS Test Site,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00623_Erin_Roesler_CoW.pdf,geo_single,,True,ok,13840
+2022-05-03,107W-2022-00219,SkyBridge Tactical,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00219_Bryan_Andrews_CoW.pdf,geo_single,,True,ok,13837
+2022-05-10,107W-2022-00350,Asylon,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00350_Brent_McLaughlin_CoW.pdf,non_geo,plural_locations_described,False,ok,20318
+2022-05-13,107W-2022-00607,New Jersey Transit Corporation,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00607_Andrew_Schwartz_CoW.pdf,geo_single,,True,ok,13849
+2022-05-24,107W-2022-00538,"Delek US Holdings, Inc.",https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00538_Grigor_Bambekov_CoW.pdf,exclude,,False,ok,16652
+2022-05-24,107W-2022-00539,"Delek US Holdings, Inc.",https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00539_Grigor_Bambekov_CoW.pdf,exclude,,False,ok,16651
+2022-07-01,107W-2022-01172,42air,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01172_Russell_Randol_CoW.pdf,geo_single,,True,ok,16686
+2022-07-01,107W-2022-01204,Kansas State University,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01204_Spencer_Schrader_CoW.pdf,geo_single,,True,ok,16535
+2022-07-07,107W-2022-01103,American Water,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01103_Christopher_Kahn_CoW.pdf,geo_single,,True,ok,16429
+2022-07-18,107W-2022-00970,Asylon,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00970_Brent_McLaughlin_CoW.pdf,geo_single,,True,ok,17732
+2022-07-18,107W-2022-01031,Evergy,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01031_Michael_Kelly_CoW.pdf,geo_single,,True,ok,16491
+2022-07-18,107W-2022-01129,Thomas Walls,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01129_Thomas_Walls_CoW.pdf,geo_single,,True,ok,16473
+2022-07-18,107W-2022-01194,Weather Modification LLC,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01194_Alex_Sailsbury_CoW.pdf,geo_single,,True,ok,16731
+2022-07-19,107W-2022-01284,Davey Resource Group,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01284_Rachel_Miller_CoW.pdf,non_geo,plural_locations_described,False,ok,16480
+2022-07-29,107W-2022-01308,Valmont,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01308_Joseph_George_CoW.pdf,exclude,,False,ok,52424
+2022-08-12,107W-2022-01705,The MITRE Corporation,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01705_Carrie_Rebhuhn_CoW.pdf,geo_single,,True,ok,17279
+2022-09-01,107W-2022-01798,Soaring Eagle Technologies,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01798_Noah_Ruiz_CoW.pdf,geo_single,,True,ok,16465
+2022-09-06,107W-2022-01785,Southern Company Services INC,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01785_Johnathan_Hitchcock_CoW.pdf,geo_single,,True,ok,16559
+2022-09-14,107W-2022-01839,"Alliance Engineering + Planning, LLC",https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01839_Robert_Wilhite_CoW.pdf,geo_single,,True,ok,16765
+2022-09-22,107W-2022-01841,Valmont,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01841_Joseph_George_CoW.pdf,geo_single,,True,ok,16570
+2022-10-17,107W-2022-01952,Koch Industries Inc,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01952_Tim_Shanfelt_CoW.pdf,geo_single,,True,ok,13972
+2022-10-17,107W-2022-02050,Iris Automation,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-02050_Cheryl_Contreras_CoW.pdf,geo_single,,True,ok,16091
+2022-10-19,107W-2022-01953,Koch Industries Inc,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01953_Tim_Shanfelt_CoW.pdf,geo_single,,True,ok,13972
+2022-10-20,107W-2022-01958,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2022-01958_Nicole_Bonk_CoW.pdf,geo_single,,True,ok,16716
+2022-10-25,107W-2022-02032,Electric Power Board of Chattanooga,https://www.faa.gov/sites/faa.gov/files/107W-2022-02032_Gregory_Phillips_CoW.pdf,geo_single,,True,ok,16567
+2022-10-25,107W-2022-02164,"Hoverfly Technologies Inc,",https://www.faa.gov/sites/faa.gov/files/107W-2022-02164_Michael_Miranda_CoW.pdf,geo_single,,True,ok,16780
+2022-10-26,107W-2022-02126,AviSight,https://www.faa.gov/sites/faa.gov/files/107W-2022-02126_William_Odonnell_CoW.pdf,geo_single,,True,ok,14050
+2022-10-27,107W-2022-02234,Pacific Gas and Electric,https://www.faa.gov/sites/faa.gov/files/107W-2022-02234_Kellen_Kirk_CoW.pdf,geo_single,,True,ok,16628
+2022-11-01,107W-2022-01849,DRL,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01849_Laura_MacFie_CoW.pdf,exclude,,False,ok,10808
+2022-11-01,107W-2022-02235,Pacific Gas and Electric,https://www.faa.gov/sites/faa.gov/files/107W-2022-02235_Kellen_Kirk_CoW.pdf,geo_single,,True,ok,16572
+2022-11-03,107W-2022-02312,Asylon,https://www.faa.gov/sites/faa.gov/files/107W-2022-02312_Brent_McLaughlin_CoW.pdf,geo_single,,True,ok,17390
+2022-11-17,107W-2022-02062,Thomas Swoyer,https://www.faa.gov/sites/faa.gov/files/107W-2022-02062_Thomas_Swoyer_CoW.pdf,geo_single,,True,ok,16748
+2022-12-02,107W-2022-01736,A-Cam Aerials,https://www.faa.gov/sites/faa.gov/files/107W-2022-01736_Thomas_Sugahara_CoW.pdf,exclude,,False,ok,13285
+2022-12-02,107W-2022-01836,Troy Havens,https://www.faa.gov/sites/faa.gov/files/107W-2022-01836_Troy_Havens_CoW.pdf,exclude,,False,ok,13076
+2022-12-14,107W-2022-00386,InDro Robotics Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2022-00386_Philip_Reece_CoW.pdf,non_geo,plural_locations_described,False,ok,16575
+2023-01-11,107W-2023-00045,"American Robotics, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2023-00045_Vijay_Somandepalli_CoW.pdf,non_geo,plural_locations_described,False,ok,17501
+2023-02-06,107W-2022-01685,Swiflite Aircraft Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2022-01685_Dylan_Allen_CoW.pdf,exclude,,False,ok,12939
+2023-02-06,107W-2022-02838,Moss Photography,https://www.faa.gov/sites/faa.gov/files/107W-2022-02838_Victor_Moss_CoW_0.pdf,exclude,,False,ok,12686
+2023-02-06,107W-2022-02838,Moss Photography,https://www.faa.gov/sites/faa.gov/files/107W-2022-02838_Victor_Moss_CoW.pdf,exclude,,False,ok,12686
+2023-02-07,107W-2022-02628,Aims Community College,https://www.faa.gov/sites/faa.gov/files/107W-2022-02628_Jacob_Marshall_CoW.pdf,non_geo,plural_locations_described,False,ok,16478
+2023-02-07,107W-2023-00048,Jason Colip,https://www.faa.gov/sites/faa.gov/files/107W-2023-00048_Jason_Colip_CoW.pdf,exclude,,False,ok,12481
+2023-02-07,107W-2023-00074,Areion UAS,https://www.faa.gov/sites/faa.gov/files/107W-2023-00074_John_Huguley_CoW.pdf,geo_single,,True,ok,16503
+2023-02-08,107W-2023-00001,Asylon,https://www.faa.gov/sites/faa.gov/files/107W-2023-00001_Brent_McLaughlin_CoW.pdf,geo_single,,True,ok,17422
+2023-03-01,107W-2023-00112,Erin R Radford,https://www.faa.gov/sites/faa.gov/files/107W-2023-00112_Joseph_Ghiorso_CoW.pdf,exclude,,False,ok,12520
+2023-03-06,107W-2023-00071,SkyBridge Tactical,https://www.faa.gov/sites/faa.gov/files/107W-2023-00071_Bryan_Andrews_CoW.pdf,geo_single,,True,ok,16531
+2023-03-28,107W-2023-00403,Tesla Inc,https://www.faa.gov/sites/faa.gov/files/107W-2023-00403_Alistair_Weddell_CoW.pdf,geo_single,,True,ok,16439
+2023-03-30,107W-2023-00258,Aerodyne Measure,https://www.faa.gov/sites/faa.gov/files/107W-2023-00258_Andy_Justicia_CoW.pdf,geo_single,,True,ok,16460
+2023-04-12,107W-2023-00170,Julia Leidholt,https://www.faa.gov/sites/faa.gov/files/107W-2023-00170_Julia_Leidholt_CoW.pdf,exclude,,False,ok,15288
+2023-04-18,107W-2023-00310,Southern Company Services INC,https://www.faa.gov/sites/faa.gov/files/107W-2023-00310_Daniel_Humphries_CoW.pdf,non_geo,location_s_described,False,ok,16729
+2023-04-28,107W-2023-00278,BGE UAS,https://www.faa.gov/sites/faa.gov/files/107W-2023-00278_Andrew_McCauley_CoW.pdf,geo_single,,True,ok,16440
+2023-04-28,107W-2023-00458,Nicholas Smith,https://www.faa.gov/sites/faa.gov/files/107W-2023-00458_Nicholas_Smith_CoW.pdf,exclude,,False,ok,12489
+2023-04-28,107W-2023-00465,Phillip A.B. McCoy,https://www.faa.gov/sites/faa.gov/files/107W-2023-00465_Phillip_McCoy_CoW.pdf,non_geo,plural_locations_described,False,ok,16535
+2023-05-18,107W-2023-00595,Mark Murry,https://www.faa.gov/sites/faa.gov/files/107W-2023-00595_Mark_Murry_CoW.pdf,exclude,,False,ok,12466
+2023-05-25,107W-2023-00847,Xcel Energy,https://www.faa.gov/sites/faa.gov/files/107W-2023-00847_Thomas_Stegge_CoW.pdf,geo_single,,True,ok,13338
+2023-05-25,107W-2023-00993,Xcel Energy,https://www.faa.gov/sites/faa.gov/files/107W-2023-00993_Thomas_Stegge_CoW.pdf,exclude,,False,ok,13370
+2023-05-25,107W-2023-01262,Asylon,https://www.faa.gov/sites/faa.gov/files/107W-2023-01262_Brent_McLaughlin_CoW.pdf,non_geo,plural_locations_described,False,ok,17432
+2023-06-05,107W-2023-00812,Austin Seback,https://www.faa.gov/sites/faa.gov/files/107W-2023-00812_Austin_Seback_CoW.pdf,geo_single,,True,ok,16471
+2023-06-06,107W-2023-00882,Daniel Puebla,https://www.faa.gov/sites/faa.gov/files/107W-2023-00882_Daniel_Puebla_CoW.pdf,exclude,,False,ok,12457
+2023-06-06,107W-2023-01236,Areion UAS,https://www.faa.gov/sites/faa.gov/files/107W-2023-01236_John_Huguley_CoW.pdf,geo_single,,True,ok,16704
+2023-06-07,107W-2023-00899,"Skydio, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2023-00899_Rodney_Murray_CoW.pdf,exclude,,False,ok,12926
+2023-06-08,107W-2023-00875,BNSF Railway,https://www.faa.gov/sites/faa.gov/files/107W-2023-00875_Brent_York_CoW.pdf,non_geo,plural_locations_described,False,ok,15898
+2023-06-13,107W-2023-00584,Phillip Spiess,https://www.faa.gov/sites/faa.gov/files/107W-2023-00584_Phillip_Spiess_CoW.pdf,geo_single,,True,ok,15959
+2023-06-28,107W-2023-01352,Aerodyne Measure,https://www.faa.gov/sites/faa.gov/files/107W-2023-01352_Andres_Justicia_CoW.pdf,geo_single,,True,ok,13477
+2023-06-29,107W-2023-00674,"Westwood Professional Services, Inc",https://www.faa.gov/sites/faa.gov/files/107W-2023-00674_Mark_Treon_CoW.pdf,exclude,,False,ok,16498
+2023-07-03,107W-2023-00866,Texas Department of Public Safety,https://www.faa.gov/sites/faa.gov/files/107W-2023-00866_Jason_Day_CoW.pdf,geo_single,,True,ok,16049
+2023-07-03,107W-2023-00867,Texas Department of Public Safety,https://www.faa.gov/sites/faa.gov/files/107W-2023-00867_Jason_Day_CoW.pdf,geo_single,,True,ok,16477
+2023-07-11,107W-2023-01268,"Birdstop, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2023-01268_Keith_Miao_CoW.pdf,exclude,,False,ok,13175
+2023-07-12,107W-2023-01367,Jose Leandro,https://www.faa.gov/sites/faa.gov/files/107W-2023-01367_Jose_Leandro_CoW.pdf,geo_single,,True,ok,16550
+2023-07-13,107W-2023-00822,ERAU UAS-S Research,https://www.faa.gov/sites/faa.gov/files/107W-2023-00822_Nickolas_Macchiarella_CoW.pdf,geo_single,,True,ok,16622
+2023-07-18,107W-2023-01254,Flock Safety,https://www.faa.gov/sites/faa.gov/files/107W-2023-01254_Cameron_Whiteman_CoW.pdf,exclude,,False,ok,13094
+2023-07-21,107W-2023-01476,Influential Drones LLC,https://www.faa.gov/sites/faa.gov/files/107W-2023-01476_David_Krause_CoW.pdf,exclude,,False,ok,13163
+2023-07-27,107W-2023-00973,JOSEPH,https://www.faa.gov/sites/faa.gov/files/107W-2023-00973_Joseph_Ghiorso_CoW.pdf,exclude,,False,ok,12599
+2023-07-27,107W-2023-01341,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2023-01341_Nicole_Bonk_CoW.pdf,exclude,,False,ok,13024
+2023-07-27,107W-2023-01800,North Carolina Department of Transportation,https://www.faa.gov/sites/faa.gov/files/107W-2023-01800_Thomas_Walls_CoW.pdf,exclude,,False,ok,13100
+2023-07-28,107W-2023-01441,Washington State Department of Corrections,https://www.faa.gov/sites/faa.gov/files/107W-2023-01441_Jamison_Roberts_CoW.pdf,exclude,,False,ok,12744
+2023-07-28,107W-2023-01602,Caltrans DOC,https://www.faa.gov/sites/faa.gov/files/107W-2023-01602_Aaron_Chamberlin_CoW.pdf,geo_single,,True,ok,16479
+2023-07-28,107W-2023-01641,Florida Power & Light Company,https://www.faa.gov/sites/faa.gov/files/107W-2023-01641_Eric_Schwartz_CoW.pdf,geo_single,,True,ok,16508
+2023-07-30,107W-2023-01075,ComEd,https://www.faa.gov/sites/faa.gov/files/107W-2023-01075_Victor_Migliore_CoW.pdf,geo_single,,True,ok,16661
+2023-07-31,107W-2023-01131,Davey Resource Group,https://www.faa.gov/sites/faa.gov/files/107W-2023-01131_Rachel_Miller_CoW.pdf,exclude,,False,ok,16776
+2023-08-02,107W-2023-01290,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2023-01290_Nicole_Bonk_CoW.pdf,geo_single,,True,ok,16696
+2023-08-04,107W-2023-01567,BGE UAS,https://www.faa.gov/sites/faa.gov/files/107W-2023-01567_Andrew_McCauley_CoW.pdf,exclude,,False,ok,13555
+2023-08-04,107W-2023-01907,Areion UAS,https://www.faa.gov/sites/faa.gov/files/107W-2023-01907_John_Huguley_CoW.pdf,geo_single,,True,ok,16710
+2023-08-07,107W-2023-01196,Keith Howard,https://www.faa.gov/sites/faa.gov/files/107W-2023-01196_Keith_Howard_CoW.pdf,exclude,,False,ok,20328
+2023-08-22,107W-2023-01737,Pilot Institute,https://www.faa.gov/sites/faa.gov/files/107W-2023-01737_Jason_Wood_CoW.pdf,geo_single,,True,ok,16848
+2023-08-23,107W-2023-01909,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2023-01909_Nicole_Bonk_CoW.pdf,exclude,,False,ok,13982
+2023-10-02,107W-2023-01500,University of Alaska Fairbanks,https://www.faa.gov/sites/faa.gov/files/107W-2023-01500_Nicholas_Adkins_CoW.pdf,geo_single,,True,ok,15611
+2023-10-02,107W-2023-02020,"RDARS, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2023-02020_Jason_Braverman_CoW.pdf,exclude,,False,ok,13362
+2023-10-03,107W-2023-01991,"AECOM Technical Services, Inc",https://www.faa.gov/sites/faa.gov/files/107W-2023-01991_Matthew_Nanney_CoW.pdf,exclude,,False,ok,16840
+2023-10-03,107W-2023-02551,Pacific Gas and Electric,https://www.faa.gov/sites/faa.gov/files/107W-2023-02551_Kellen_Kirk_CoW.pdf,exclude,,False,ok,13532
+2023-10-19,107W-2023-02605,Choctaw Nation of Oklahoma,https://www.faa.gov/sites/faa.gov/files/107W-2023-02605_Marcus_Hartman_CoW.pdf,geo_single,,True,ok,16982
+2023-10-25,107W-2023-02015,EpiSci,https://www.faa.gov/sites/faa.gov/files/107W-2023-02015_Rohit_Pillai_CoW.pdf,geo_single,,True,ok,16693
+2023-10-30,107W-2023-02493,Xcel Energy,https://www.faa.gov/sites/faa.gov/files/107W-2023-02493_Thomas_Stegge_CoW.pdf,exclude,,False,ok,16492
+2023-11-03,107W-2023-02725,"ReadyMonitor, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2023-02725_Jesse_Stepler_CoW.pdf,non_geo,multi_location|non_geo_term,False,ok,14149
+2023-11-08,107W-2023-02016,"Percheron Professional Services, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2023-02016_Jeff_Wilkie_CoW.pdf,exclude,,False,ok,16969
+2023-11-08,107W-2023-02142,Pacific Gas and Electric,https://www.faa.gov/sites/faa.gov/files/107W-2023-02142_Kellen_Kirk_CoW.pdf,exclude,,False,ok,17547
+2023-11-08,107W-2023-02213,Anthony Simek,https://www.faa.gov/sites/faa.gov/files/107W-2023-02213_Anthony_Simek_CoW.pdf,exclude,,False,ok,12234
+2023-11-09,107W-2023-02192,Manifold Robotics,https://www.faa.gov/sites/faa.gov/files/107W-2023-02192_Jeffrey_Laut_CoW.pdf,exclude,,False,ok,13395
+2023-11-14,107W-2023-02703,BNSF Railway,https://www.faa.gov/sites/faa.gov/files/107W-2023-02703_Brent_York_CoW.pdf,exclude,,False,ok,13627
+2023-11-22,107W-2023-03200,"Matador UAS Logistics, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2023-03200_Catherine_Self_CoW.pdf,exclude,,False,ok,16795
+2023-12-01,107W-2023-02259,American Water,https://www.faa.gov/sites/faa.gov/files/107W-2023-02259_Christopher_Kahn_CoW.pdf,exclude,,False,ok,13750
+2023-12-01,107W-2023-03214,Live Nation Entertainment,https://www.faa.gov/sites/faa.gov/files/107W-2023-03214_John_Nieman_CoW.pdf,exclude,,False,ok,15776
+2023-12-04,107W-2023-02999,Xcel Energy,https://www.faa.gov/sites/faa.gov/files/107W-2023-02999_Thomas_Stegge_CoW.pdf,exclude,,False,ok,15390
+2023-12-12,107W-2023-03130,Percepto Robotics Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2023-03130_Raviv_Raz_CoW.pdf,exclude,,False,ok,14024
+2023-12-13,107W-2023-02586,Nucor Steel West Virginia,https://www.faa.gov/sites/faa.gov/files/107W-2023-02586_James_Siler_CoW.pdf,geo_single,,True,ok,13786
+2023-12-15,107W-2023-02588,Valmont,https://www.faa.gov/sites/faa.gov/files/107W-2023-02588_Brad_Wood_CoW.pdf,exclude,,False,ok,17025
+2024-01-02,107W-2023-02693,SHPR Co. (dba Fliteworks),https://www.faa.gov/sites/faa.gov/files/107W-2023-02693_George_Moe_CoW.pdf,exclude,,False,ok,15585
+2024-01-10,107W-2024-00078,Zipline International Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-00078_Eugene_McGuinness_CoW.pdf,non_geo,plural_locations_described,False,ok,20302
+2024-01-12,107W-2023-02400,Eversource Energy,https://www.faa.gov/sites/faa.gov/files/107W-2023-02400_Stephen_Michna_CoW_1.pdf,exclude,,False,ok,18153
+2024-01-12,107W-2023-02401,Eversource Energy,https://www.faa.gov/sites/faa.gov/files/107W-2023-02401_Stephen_Michna_CoW.pdf,exclude,,False,ok,16927
+2024-01-18,107W-2023-03430,The Ohio Department of Transportation,https://www.faa.gov/sites/faa.gov/files/107W-2023-03430_Daniel_Kammer_CoW.pdf,exclude,,False,ok,19528
+2024-01-22,107W-2023-02724,"Hawkinson Aerial Photography, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2023-02724_Bridger_Hawkinson_CoW.pdf,exclude,,False,ok,10205
+2024-01-22,107W-2023-02748,Caltrans Division of Construction,https://www.faa.gov/sites/faa.gov/files/107W-2023-02748_Aaron_Chamberlin_CoW.pdf,exclude,,False,ok,13368
+2024-01-29,107W-2023-03484,Choctaw Nation of Oklahoma,https://www.faa.gov/sites/faa.gov/files/107W-2023-03484_Marcus_Hartman_CoW.pdf,geo_single,,True,ok,17265
+2024-01-29,107W-2024-00050,NUAIR Alliance,https://www.faa.gov/sites/faa.gov/files/107W-2024-00050_Tony_Basile_CoW.pdf,geo_single,,True,ok,16507
+2024-01-31,107W-2023-02566,Data Blanket,https://www.faa.gov/sites/faa.gov/files/107W-2023-02566_Gur_Kimchi_CoW.pdf,geo_single,,True,ok,16729
+2024-02-09,107W-2023-03455,ADT Mobile Security,https://www.faa.gov/sites/faa.gov/files/107W-2023-03455_Sebastian_Voges_CoW.pdf,exclude,,False,ok,17390
+2024-02-09,107W-2024-00333,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-00333_Gregory_Bushey_CoW.pdf,exclude,,False,ok,18107
+2024-02-16,107W-2023-02282,"Westwood Professional Services, Inc",https://www.faa.gov/sites/faa.gov/files/107W-2023-02282_Mark_Treon_CoW.pdf,exclude,,False,ok,18056
+2024-02-20,107W-2024-00297,"Robotics 88, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-00297_Erin_Linebarger_CoW.pdf,exclude,,False,ok,16050
+2024-02-21,107W-2024-00418,"American Robotics, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-00418_Brian_Grant_CoW.pdf,exclude,,False,ok,17659
+2024-02-27,107W-2023-03385,Frontier Precision UAS,https://www.faa.gov/sites/faa.gov/files/107W-2023-03385_Wyatt_Robbins_CoW.pdf,exclude,,False,ok,13155
+2024-02-27,107W-2023-03407,"American Robotics, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2023-03407_James_Gonzalez_CoW.pdf,geo_single,,True,ok,16831
+2024-02-28,107W-2023-03427,Duke Energy Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2023-03427_Patrick_Nemecek_CoW.pdf,exclude,,False,ok,13393
+2024-02-28,107W-2023-03494,Big Sky Aerial Solutions,https://www.faa.gov/sites/faa.gov/files/107W-2023-03494_Austin_Seback_CoW.pdf,geo_single,,True,ok,16797
+2024-02-29,107W-2023-03403,HighPoint AeroTechnologies,https://www.faa.gov/sites/faa.gov/files/107W-2023-03403_John_McClelland_CoW.pdf,geo_single,,True,ok,16529
+2024-03-05,107W-2023-03372,Pilot Institute,https://www.faa.gov/sites/faa.gov/files/107W-2023-03372_Jason_Wood_CoW.pdf,geo_single,,True,ok,17099
+2024-03-05,107W-2024-00007,Asylon,https://www.faa.gov/sites/faa.gov/files/107W-2024-00007_Brent_McLaughlin_CoW.pdf,exclude,,False,ok,13242
+2024-03-07,107W-2023-03310,East Central Energy,https://www.faa.gov/sites/faa.gov/files/107W-2023-03310_Kyle_Palmer_CoW.pdf,exclude,,False,ok,15791
+2024-03-08,107W-2023-03270,New York Power Authority,https://www.faa.gov/sites/faa.gov/files/107W-2023-03270_Peter_Kalaitzidis_CoW.pdf,exclude,,False,ok,16725
+2024-03-13,107W-2024-00023,COLSA,https://www.faa.gov/sites/faa.gov/files/107W-2024-00023_Christopher_Cline_CoW.pdf,geo_single,,True,ok,17157
+2024-03-15,107W-2023-03012A,TVA UAS,https://www.faa.gov/sites/faa.gov/files/107W-2023-03012A_Zackary_Whittle_CoW.pdf,exclude,,False,ok,18717
+2024-03-15,107W-2024-00344A,Zipline International Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-00344A_Eugene_McGuinness_CoW.pdf,exclude,,False,ok,21551
+2024-03-20,107W-2024-00051,Maurilio Espinoza,https://www.faa.gov/sites/faa.gov/files/107W-2024-00051_John_Julius_CoW.pdf,exclude,,False,ok,13477
+2024-03-21,107W-2024-00244,Davey Resource Group,https://www.faa.gov/sites/faa.gov/files/107W-2024-00244_Rachel_Miller_CoW.pdf,exclude,,False,ok,17005
+2024-03-22,107W-2024-00265,DroneUp LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-00265_Sky_Andrew_CoW.pdf,non_geo,locations_identified,False,ok,18706
+2024-03-29,107W-2024-00045,ComEd,https://www.faa.gov/sites/faa.gov/files/107W-2024-00045_Victor_Migliore_CoW.pdf,exclude,,False,ok,14793
+2024-04-04,107W-2024-00490,DJI,https://www.faa.gov/sites/faa.gov/files/107W-2024-00490_Javier_Caina_CoW.pdf,exclude,,False,ok,16232
+2024-04-08,107W-2024-00843,Electric Power Research Institute (EPRI),https://www.faa.gov/sites/faa.gov/files/107W-2024-00843_Dexter_Lewis_CoW.pdf,exclude,,False,ok,15291
+2024-04-12,107W-2024-00455,Seiler Instrument,https://www.faa.gov/sites/faa.gov/files/107W-2024-00455_Travis_LeMoine_CoW.pdf,exclude,,False,ok,13228
+2024-04-12,107W-2024-00556,Frontier Precision UAS,https://www.faa.gov/sites/faa.gov/files/107W-2024-00556_Wyatt_Robbins_CoW.pdf,geo_single,,True,ok,13162
+2024-04-15,107W-2024-00821,PJ Helicopters,https://www.faa.gov/sites/faa.gov/files/107W-2024-00821_Jesse_Gibbon_CoW.pdf,exclude,,False,ok,16578
+2024-04-17,107W-2024-00582,Big Sky Aerial Solutions,https://www.faa.gov/sites/faa.gov/files/107W-2024-00582_Austin_Seback_CoW.pdf,exclude,,False,ok,15042
+2024-04-22,107W-2024-00619,University of Alaska Fairbanks,https://www.faa.gov/sites/faa.gov/files/107W-2024-00619_Nicholas_Adkins_CoW.pdf,exclude,,False,ok,16176
+2024-04-24,107W-2024-00599,HAWK Photogrammetry Record Technologies Inc,https://www.faa.gov/sites/faa.gov/files/107W-2024-00599_Stephen_Philip_CoW.pdf,exclude,,False,ok,12871
+2024-04-24,107W-2024-00605,SHPR Co.,https://www.faa.gov/sites/faa.gov/files/107W-2024-00605_George_Moe_CoW.pdf,geo_single,,True,ok,13068
+2024-04-24,107W-2024-01077,CDM Smith,https://www.faa.gov/sites/faa.gov/files/107W-2024-01077_Brendan_Brown_CoW.pdf,exclude,,False,ok,17850
+2024-04-25,107W-2024-00598,TrainND,https://www.faa.gov/sites/faa.gov/files/107W-2024-00598_Kenley_Nebeker_CoW.pdf,exclude,,False,ok,16508
+2024-05-01,107W-2024-00782,A-Cam Aerials,https://www.faa.gov/sites/faa.gov/files/107W-2024-00782_Thomas_Sugahara_CoW.pdf,exclude,,False,ok,16524
+2024-05-01,107W-2024-01095,American Bird Conservancy,https://www.faa.gov/sites/faa.gov/files/107W-2024-01095_Adam_Knox_CoW.pdf,exclude,,False,ok,17095
+2024-05-02,107W-2024-00828,Florida Power & Light Company,https://www.faa.gov/sites/faa.gov/files/107W-2024-00828_Eric_Schwartz_CoW.pdf,exclude,,False,ok,16403
+2024-05-03,107W-2024-00795,EpiSci,https://www.faa.gov/sites/faa.gov/files/107W-2024-00795_Rohit_Pillai_CoW.pdf,geo_single,,True,ok,16509
+2024-05-07,107W-2024-00783,Department of Aviation,https://www.faa.gov/sites/faa.gov/files/107W-2024-00783_Thomas_Sugahara_CoW.pdf,exclude,,False,ok,16551
+2024-05-07,107W-2024-00818,Ryzein LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-00818_Finn_Johnson_CoW.pdf,geo_single,,True,ok,13195
+2024-05-08,107W-2024-00585,American Electric Power,https://www.faa.gov/sites/faa.gov/files/107W-2024-00585_Kenner_Prillaman_CoW.pdf,exclude,,False,ok,16035
+2024-05-08,107W-2024-00753,Cyberhawk Inc,https://www.faa.gov/sites/faa.gov/files/107W-2024-00753_Scott_Lashmit_CoW.pdf,exclude,,False,ok,13220
+2024-05-13,107W-2024-01201,AgriBugs LLC.,https://www.faa.gov/sites/faa.gov/files/107W-2024-01201_Darren_Rajendranath_CoW.pdf,exclude,,False,ok,17351
+2024-05-16,107W-2024-01315,"Birdstop, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-01315_Keith_Miao_CoW.pdf,non_geo,plural_locations_described,False,ok,13211
+2024-05-20,107W-2024-00551,Warren County Community College,https://www.faa.gov/sites/faa.gov/files/107W-2024-00551_William_Austin_CoW.pdf,exclude,,False,ok,18633
+2024-05-23,107W-2024-01149,Pilot Institute,https://www.faa.gov/sites/faa.gov/files/107W-2024-01149_Jason_Wood_CoW.pdf,exclude,,False,ok,16973
+2024-05-23,107W-2024-01230,Unmanned Vehicle Technologies,https://www.faa.gov/sites/faa.gov/files/107W-2024-01230_Matthew_Rybar_CoW.pdf,exclude,,False,ok,14959
+2024-05-28,107W-2024-00799,Unmanned Vehicle Technologies,https://www.faa.gov/sites/faa.gov/files/107W-2024-00799_Matthew_Rybar_CoW.pdf,exclude,,False,ok,16254
+2024-05-30,107W-2024-01288,Ryzein LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-01288_Finn_Johnson_CoW.pdf,geo_single,,True,ok,13197
+2024-05-30,107W-2024-01293,FirstEnergy,https://www.faa.gov/sites/faa.gov/files/107W-2024-01293_Todd_Fite_CoW.pdf,geo_single,,True,ok,15662
+2024-05-31,107W-2024-01454,Southern Company Services INC,https://www.faa.gov/sites/faa.gov/files/107W-2024-01454_Cody_Michaux_CoW.pdf,geo_single,,True,ok,16226
+2024-06-03,107W-2024-01266,"Nine Ten Drones, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2024-01266_Paul_Rossi_CoW.pdf,exclude,,False,ok,16746
+2024-06-06,107W-2024-00973,James Tracy,https://www.faa.gov/sites/faa.gov/files/107W-2024-00973_James_Tracy_CoW.pdf,exclude,,False,ok,16720
+2024-06-06,107W-2024-01384,Pasco County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2024-01384_John_Kuch_CoW.pdf,exclude,,False,ok,15693
+2024-06-07,107W-2024-00700,SEAKdrones LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-00700_Dennis_Sylvia_CoW.pdf,geo_single,,True,ok,16383
+2024-06-07,107W-2024-01307,Nightingale Security,https://www.faa.gov/sites/faa.gov/files/107W-2024-01307_Kyle_Roh_CoW.pdf,exclude,,False,ok,15662
+2024-06-24,107W-2024-01882,Southern Company Services INC,https://www.faa.gov/sites/faa.gov/files/107W-2024-01882_Cody_Michaux_CoW.pdf,exclude,,False,ok,13509
+2024-06-25,107W-2024-01279,Hawaiian Electric Companies,https://www.faa.gov/sites/faa.gov/files/107W-2024-01279_Cullen_Chong_CoW.pdf,exclude,,False,ok,16413
+2024-06-25,107W-2024-01725,"American Robotics, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-01725_Brian_Grant_CoW.pdf,exclude,,False,ok,16511
+2024-06-25,107W-2024-01928,Turner Construction,https://www.faa.gov/sites/faa.gov/files/107W-2024-01928_Gary_Chapman_CoW.pdf,exclude,,False,ok,17541
+2024-07-01,107W-2024-01562,Sunflower Labs,https://www.faa.gov/sites/faa.gov/files/107W-2024-01562_Alex_Pachikov_CoW.pdf,exclude,,False,ok,16743
+2024-07-08,107W-2024-02166,UPS Flight Forward Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-02166_Michael_Ralich_CoW.pdf,exclude,,False,ok,17017
+2024-07-22,107W-2024-01490,City of El Paso,https://www.faa.gov/sites/faa.gov/files/107W-2024-01490_Juan_Nevarez_CoW.pdf,exclude,,False,ok,15774
+2024-07-23,107W-2024-01564,Xcel Energy,https://www.faa.gov/sites/faa.gov/files/107W-2024-01564%20Thomas%20Stegge%20-%20CoW.pdf,exclude,,False,ok,16777
+2024-07-24,107W-2024-01380,"ReadyMonitor, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2024-01380_Jesse_Stepler%20-%20CoW.pdf,exclude,,False,ok,17069
+2024-07-25,107W-2024-02687,Alaska Remote Imaging,https://www.faa.gov/sites/faa.gov/files/107W-2024-02687%20Oliver%20Cotter%20Nannestad%20-%20CoW.pdf,exclude,,False,ok,17619
+2024-07-29,107W-2024-01814,Caltrans Division of Construction,https://www.faa.gov/sites/faa.gov/files/107W-2024-01814%20Aaron%20Chamberlin%20-%20CoW.pdf,exclude,,False,ok,19602
+2024-07-31,107W-2024-01783,Ryan Rash,https://www.faa.gov/sites/faa.gov/files/107W-2024-01783%20Ryan%20Rash%20-%20CoW.pdf,exclude,,False,ok,17674
+2024-08-01,107W-2024-02351,SHPR Co. (dba Fliteworks),https://www.faa.gov/sites/faa.gov/files/107W-2024-02351%20George%20Moe%20-%20CoW.pdf,exclude,,False,ok,15808
+2024-08-06,107W-2024-01934,Keith Aubin,https://www.faa.gov/sites/faa.gov/files/107W-2024-01934%20Keith%20Aubin%20-%20CoW.pdf,exclude,,False,ok,18634
+2024-08-07,107W-2024-01995,Flying Lion Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-01995%20James%20Richardson%20-%20CoW.pdf,exclude,,False,ok,14922
+2024-08-08,107W-2024-02025,Archer Daniels Midland,https://www.faa.gov/sites/faa.gov/files/107W-2024-02025%20Alex%20Powers%20-%20CoW.pdf,exclude,,False,ok,17556
+2024-08-14,107W-2024-01606A,Max Moerles,https://www.faa.gov/sites/faa.gov/files/Signed%20107W-2024-01606A_Max_Moerles_CoW.pdf,exclude,,False,ok,14759
+2024-08-19,107W-2024-02304,Live Nation Entertainment,https://www.faa.gov/sites/faa.gov/files/107W-2024-02304%20John%20Nieman%20-%20CoW.pdf,exclude,,False,ok,16362
+2024-08-19,107W-2024-02326,Omaha Public Power District,https://www.faa.gov/sites/faa.gov/files/107W-2024-02326%20Jordan%20Boetcher%20-%20CoW.pdf,exclude,,False,ok,16038
+2024-08-27,107W-2024-02302,Boeing sUAS Operations,https://www.faa.gov/sites/faa.gov/files/107W-2024-02302%20Richard%20Bratt%20-%20CoW.pdf,exclude,,False,ok,18633
+2024-08-28,107W-2024-01890,Verizon Aviation,https://www.faa.gov/sites/faa.gov/files/107W-2024-01890%20Todd%20Davis%20-%20CoW.pdf,exclude,,False,ok,17058
+2024-08-29,107W-2024-02612,Dominion Energy,https://www.faa.gov/sites/faa.gov/files/107W-2024-02612%20Tom%20Butler%20-%20CoW.pdf,exclude,,False,ok,18313
+2024-09-04,107W-2024-02592,American Electric Power,https://www.faa.gov/sites/faa.gov/files/107W-2024-02592%20Randy%20Lowe%20CoW.pdf,exclude,,False,ok,13341
+2024-09-06,107W-2024-03224,FAA Flight Program Operations,https://www.faa.gov/sites/faa.gov/files/107W-2024-03224%20Autumn%20Alderdice%20-%20CoW.pdf,exclude,,False,ok,17911
+2024-09-09,107W-2024-03069,BGE UAS,https://www.faa.gov/sites/faa.gov/files/107W-2024-03069%20Andrew%20McCauley%20-%20CoW.pdf,exclude,,False,ok,16635
+2024-09-10,107W-2024-02017,Chad Studer,https://www.faa.gov/sites/faa.gov/files/107W-2024-02017%20Chad%20Studer%20-%20CoW.pdf,exclude,,False,ok,16011
+2024-09-10,107W-2024-02068,Censys Technologies,https://www.faa.gov/sites/faa.gov/files/107W-2024-02068%20Rob%20Knochenhauer%20-%20CoW.pdf,exclude,,False,ok,18517
+2024-09-11,107W-2024-02356,Dylan Collins,https://www.faa.gov/sites/faa.gov/files/107W-2024-02356%20Dylan%20Collins%20-%20CoW.pdf,exclude,,False,ok,17678
+2024-09-12,107W-2024-02377,Northwestern Michigan College,https://www.faa.gov/sites/faa.gov/files/107W-2024-02377%20Tony%20Sauerbrey%20-%20CoW.pdf,exclude,,False,ok,16920
+2024-09-13,107W-2024-02438,LJA,https://www.faa.gov/sites/faa.gov/files/107W-2024-02438%20Robert%20Wilhite%20-%20CoW.pdf,exclude,,False,ok,18233
+2024-09-16,107W-2024-02467,Dylan Collins,https://www.faa.gov/sites/faa.gov/files/107W-2024-02467%20Dylan%20Collins%20-%20CoW.pdf,exclude,,False,ok,17678
+2024-09-25,107W-2024-03194,Sunflower Labs,https://www.faa.gov/sites/faa.gov/files/107W-2024-03194%20Alex%20Pachikov%20-%20CoW.pdf,exclude,,False,ok,18582
+2024-09-27,107W-2024-02874,BE&K Building Group,https://www.faa.gov/sites/faa.gov/files/107W-2024-02874%20Christopher%20Champion%20-%20CoW.pdf,exclude,,False,ok,18065
+2024-09-30,107W-2024-02406,Oregon State Police,https://www.faa.gov/sites/faa.gov/files/107W-2024-02406%20William%20Bush%20CoW.pdf,exclude,,False,ok,11242
+2024-10-01,107W-2024-02593,American Electric Power,https://www.faa.gov/sites/faa.gov/files/107W-2024-02593%20Randy%20Lowe%20-%20CoW.pdf,exclude,,False,ok,17787
+2024-10-07,107W-2024-02318,Distro 10 Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-02318%20Alan%20Shamoun%20-%20CoW.pdf,exclude,,False,ok,15967
+2024-10-07,107W-2024-03422,"Phoenix Air Unmanned, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2024-03422%20William%20Lovett%20-%20CoW.pdf,exclude,,False,ok,19842
+2024-10-07,107W-2024-03793,Datapoint,https://www.faa.gov/sites/faa.gov/files/107W-2024-03793%20Michael%20Wight%20-%20CoW.pdf,exclude,,False,ok,19103
+2024-10-08,107W-2024-02755,Zeitview,https://www.faa.gov/sites/faa.gov/files/107W-2024-02755%20Jesus%20Caballero%20-%20CoW.pdf,exclude,,False,ok,16093
+2024-10-08,107W-2024-02758,Troy Sakihara,https://www.faa.gov/sites/faa.gov/files/107W-2024-02758%20Troy%20Sakihara%20-%20CoW.pdf,exclude,,False,ok,17486
+2024-10-08,107W-2024-02766,RTX BBN,https://www.faa.gov/sites/faa.gov/files/107W-2024-02766%20Aaron%20Adler%20-%20CoW.pdf,exclude,,False,ok,18981
+2024-10-09,107W-2024-02776,Unmanned Vehicle Technologies,https://www.faa.gov/sites/faa.gov/files/107W-2024-02776%20Matthew%20Rybar%20-%20CoW.pdf,exclude,,False,ok,18713
+2024-10-15,107W-2024-02822,Christopher Swiatek,https://www.faa.gov/sites/faa.gov/files/107W-2024-02822%20Christopher%20Swiatek%20-%20CoW.pdf,exclude,,False,ok,17269
+2024-10-16,107W-2024-02474,Valentine Brand,https://www.faa.gov/sites/faa.gov/files/107W-2024-02474%20Robert%20Valentine%20-%20CoW.pdf,exclude,,False,ok,19381
+2024-10-16,107W-2024-02617,Alare Technologies LLC.,https://www.faa.gov/sites/faa.gov/files/107W-2024-02617%20Patrick%20Ailes%20-%20CoW.pdf,exclude,,False,ok,17320
+2024-10-16,107W-2024-03468,Orchard Park Fire District,https://www.faa.gov/sites/faa.gov/files/107W-2024-03468%20Wilhelm%20Aubrecht%20-%20CoW.pdf,exclude,,False,ok,11291
+2024-10-16,107W-2024-03537,Pender EMS and Fire,https://www.faa.gov/sites/faa.gov/files/107W-2024-03537%20Noah%20Hoffer%20-%20CoW.pdf,exclude,,False,ok,11266
+2024-10-16,107W-2024-03607,Montgomery County Emergency Management Agency,https://www.faa.gov/sites/faa.gov/files/107W-2024-03607%20Brian%20Hamman%20-%20CoW.pdf,exclude,,False,ok,11322
+2024-10-16,107W-2024-03671,North Middleton Fire Company,https://www.faa.gov/sites/faa.gov/files/107W-2024-03671%20Garth%20Fanus%20-%20CoW.pdf,exclude,,False,ok,11283
+2024-10-16,107W-2024-03831,East Madison Fire Territory,https://www.faa.gov/sites/faa.gov/files/107W-2024-03831%20Josh%20Hendrick%20-%20CoW.pdf,exclude,,False,ok,11281
+2024-10-17,107W-2024-02884,Frontier Precision UAS,https://www.faa.gov/sites/faa.gov/files/107W-2024-02884%20Wyatt%20Robbins%20-%20CoW.pdf,exclude,,False,ok,16429
+2024-10-21,107W-2024-02859,"Titan Monitoring, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-02859%20Ryan%20Smith%20-%20CoW.pdf,exclude,,False,ok,16279
+2024-10-21,107W-2024-02970,ExxonMobil,https://www.faa.gov/sites/faa.gov/files/107W-2024-02970%20Jonathan%20Cain%20-%20CoW.pdf,exclude,,False,ok,16350
+2024-10-21,107W-2024-03092,Caltrans Division of Construction,https://www.faa.gov/sites/faa.gov/files/107W-2024-03092%20Aaron%20Chamberlin%20-%20CoW.pdf,exclude,,False,ok,16395
+2024-10-22,107W-2024-03020,COLSA,https://www.faa.gov/sites/faa.gov/files/107W-2024-03020%20Christopher%20Cline%20-%20CoW.pdf,exclude,,False,ok,18923
+2024-10-23,107W-2024-03062,Alare Technologies LLC.,https://www.faa.gov/sites/faa.gov/files/107W-2024-03062%20Patrick%20Ailes%20-%20CoW.pdf,exclude,,False,ok,16488
+2024-10-23,107W-2024-03074,Pacific Gas and Electric,https://www.faa.gov/sites/faa.gov/files/107W-2024-03074%20Kellen%20Kirk%20-%20CoW.pdf,exclude,,False,ok,15508
+2024-10-24,107W-2024-03129,Gresco,https://www.faa.gov/sites/faa.gov/files/107W-2024-03129%20Jim%20Baker%20-%20CoW.pdf,exclude,,False,ok,17483
+2024-10-24,107W-2024-03752,ReadyMonitor Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-03752%20Jesse%20Stepler%20-%20CoW.pdf,exclude,,False,ok,16215
+2024-10-28,107W-2024-03166,"ArgenTech Solutions, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-03166%20Rita%20Castonguay-Hunt%20-%20CoW.pdf,exclude,,False,ok,17605
+2024-10-28,107W-2024-03266A,Cooperative Energy,https://www.faa.gov/sites/faa.gov/files/107W-2024-03266A%20Stephen%20McCain%20-%20CoW.pdf,exclude,,False,ok,17913
+2024-10-30,107W-2024-03969,Alaska Remote Imaging,https://www.faa.gov/sites/faa.gov/files/107W-2024-03969%20Matthew%20Gutacker%20-%20CoW.pdf,exclude,,False,ok,16341
+2024-11-01,107W-2024-03930,PJ Helicopters,https://www.faa.gov/sites/faa.gov/files/107W-2024-03930%20Andrew%20Thayer%20-%20CoW.pdf,exclude,,False,ok,15599
+2024-11-04,107W-2024-02464,David Risner,https://www.faa.gov/sites/faa.gov/files/107W-2024-02464%20David%20Risner%20-%20CoW.pdf,exclude,,False,ok,17551
+2024-11-05,107W-2024-03576-Ronald,North Central Pennsylvania Unmanned Emergency Services (Dept. 50),https://www.faa.gov/sites/faa.gov/files/107W-2024-03576-Ronald%20Warren%20-%20CoW.pdf,exclude,,False,ok,11368
+2024-11-05,107W-2024-03753,New York Power Authority,https://www.faa.gov/sites/faa.gov/files/107W-2024-03753%20Peter%20Kalaitzidis%20-%20CoW.pdf,exclude,,False,ok,16392
+2024-11-05,107W-2024-03890,Shell International E&P Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-03890%20Ross%20Doak%20-%20CoW.pdf,exclude,,False,ok,16377
+2024-11-06,107W-2024-04031,Aerius Focus LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-04031%20Suzanne%20Herring%20-%20CoW.pdf,exclude,,False,ok,18539
+2024-11-07,107W-2024-02841,Alaska Remote Imaging,https://www.faa.gov/sites/faa.gov/files/107W-2024-02841%20Oliver%20Cotter%20Nannestad%20-%20CoW.pdf,exclude,,False,ok,16679
+2024-11-08,107W-2024-04194,MAGEN Chicago,https://www.faa.gov/sites/faa.gov/files/107W-2024-04194%20Hiam%20Naiditch%20-%20CoW.pdf,exclude,,False,ok,11270
+2024-11-12,107W-2024-02900,Joseph Lankford,https://www.faa.gov/sites/faa.gov/files/107W-2024-02900%20Joseph%20Lankford%20-%20CoW.pdf,exclude,,False,ok,18344
+2024-11-12,107W-2024-03322,Marc Wrolsen,https://www.faa.gov/sites/faa.gov/files/107W-2024-03322%20Marc%20Wrolsen%20-%20CoW.pdf,exclude,,False,ok,17903
+2024-11-12,107W-2024-03415,Devon Energy,https://www.faa.gov/sites/faa.gov/files/107W-2024-03415%20Jared%20Markes%20-%20CoW.pdf,exclude,,False,ok,16087
+2024-11-13,107W-2024-04248,Town of Warrenton Virginia Emergency Management,https://www.faa.gov/sites/faa.gov/files/107W-2024-04248%20Johnny%20Switzer%20-%20CoW.pdf,exclude,,False,ok,11298
+2024-11-14,107W-2024-03506,Paul Shepard,https://www.faa.gov/sites/faa.gov/files/107W-2024-03506%20Paul%20Shepard%20-%20CoW.pdf,exclude,,False,ok,18075
+2024-11-14,107W-2024-03763,Muskingum County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2024-03763%20Tanner%20Morton%20-%20CoW.pdf,exclude,,False,ok,11273
+2024-11-14,107W-2024-03787,Rockland Fire & EMS Department,https://www.faa.gov/sites/faa.gov/files/107W-2024-03787%20William%20Pendleton%20-%20CoW.pdf,exclude,,False,ok,11270
+2024-11-15,107W-2024-03490,Remnant Technology Inc,https://www.faa.gov/sites/faa.gov/files/107W-2024-03490%20Joel%20Jones%20-%20CoW.pdf,exclude,,False,ok,18127
+2024-11-15,107W-2024-04275,Prince George’s County Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2024-04275%20-%20Edwin%20Robertson%20-%20CoW.pdf,exclude,,False,ok,11306
+2024-11-20,107W-2024-04214,Airspace Link,https://www.faa.gov/sites/faa.gov/files/107W-2024-04214%20Alberto%20Post%20-%20CoW.pdf,exclude,,False,ok,18196
+2024-11-20,107W-2024-04287,Rensselaer County Public Safety/Sheriff’s Department,https://www.faa.gov/sites/faa.gov/files/107W-2024-04287%20Todd%20Smith%20-%20CoW.pdf,exclude,,False,ok,11304
+2024-11-21,107W-2024-04298,GulfSar,https://www.faa.gov/sites/faa.gov/files/107W-2024-04298%20Robbyn%20Ketner%20-%20CoW.pdf,exclude,,False,ok,11221
+2024-11-21,107W-2024-04350,Chesterfield County Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2024-04350%20Blaine%20Davis%20-%20CoW.pdf,exclude,,False,ok,11288
+2024-11-21,107W-2024-04352,Oklahoma Highway Patrol,https://www.faa.gov/sites/faa.gov/files/107W-2024-04352%20Scott%20Patton%20-%20CoW.pdf,exclude,,False,ok,11271
+2024-11-25,107W-2024-03701,"Carotene, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2024-03701%20Marcell%20Haywood%20-%20CoW.pdf,exclude,,False,ok,19263
+2024-11-25,107W-2024-04320,"LandSkyAI, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2024-04320%20Tuvi%20Cohen%20-%20CoW.pdf,exclude,,False,ok,18264
+2024-11-26,107W-2024-04131,Hex Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-04131%20Curtis%20Lary%20-%20CoW.pdf,exclude,,False,ok,16285
+2024-11-27,107W-2024-04442,City of Fort Wayne Police Department Air Support Unit,https://www.faa.gov/sites/faa.gov/files/107W-2024-04442%20Michael%20Hickman%20-%20CoW.pdf,exclude,,False,ok,19682
+2024-12-02,107W-2024-02949,Liberty University,https://www.faa.gov/sites/faa.gov/files/107W-2024-02949%20Brayden%20Johnson%20-%20CoW.pdf,exclude,,False,ok,18297
+2024-12-02,107W-2024-04145,Zipline International Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-04145%20Eugene%20McGuinness%20-%20CoW.pdf,exclude,,False,ok,19350
+2024-12-04,107W-2024-03946,Palm Springs Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2024-03946%20Gary%20Zito%20-%20%20CoW.pdf,exclude,,False,ok,11265
+2024-12-04,107W-2024-04354,Dakota County Sheriff,https://www.faa.gov/sites/faa.gov/files/107W-2024-04354%20Sean%20Qualy%20-%20CoW.pdf,exclude,,False,ok,11255
+2024-12-04,107W-2024-04398,Cherokee Nation,https://www.faa.gov/sites/faa.gov/files/107W-2024-04398%20Cory%20Keele%20-%20CoW.pdf,exclude,,False,ok,11238
+2024-12-04,107W-2024-04400,Vayu Aerospace,https://www.faa.gov/sites/faa.gov/files/107W-2024-04400%20Gregory%20Gillette%20-%20CoW.pdf,exclude,,False,ok,17480
+2024-12-04,107W-2024-04403,Vayu Aerospace,https://www.faa.gov/sites/faa.gov/files/107W-2024-04403%20Gregory%20Gillette%20-%20CoW.pdf,exclude,,False,ok,17481
+2024-12-04,107W-2024-04409,University of Illinois Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2024-04409%20Robert%20Benoit%20-%20CoW.pdf,exclude,,False,ok,11288
+2024-12-04,107W-2024-04451,Newberry Township Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2024-04451%20Braxton%20Ditty%20-%20CoW.pdf,exclude,,False,ok,11275
+2024-12-05,107W-2024-03529,Florida Highway Patrol,https://www.faa.gov/sites/faa.gov/files/107W-2024-03529%20Robert%20Dooley%20-%20CoW.pdf,exclude,,False,ok,18829
+2024-12-05,107W-2024-03578,"American Robotics, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-03578%20Brian%20Grant%20-%20CoW.pdf,exclude,,False,ok,19949
+2024-12-05,107W-2024-04286,Choctaw Nation of Oklahoma,https://www.faa.gov/sites/faa.gov/files/107W-2024-04286%20Marcus%20Hartman%20-%20CoW.pdf,exclude,,False,ok,21268
+2024-12-09,107W-2024-04382,Bison Aviation LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-04382%20John%20Atkin%20-%20CoW.pdf,exclude,,False,ok,11241
+2024-12-09,107W-2024-04410,Anne Arundel County Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2024-04410%20Jeffrey%20Wilson%20-%20CoW.pdf,exclude,,False,ok,11283
+2024-12-09,107W-2024-04532,Churchill Five Forks Volunteer Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2024-04532%20Stanley%20Brothers%20-%20CoW.pdf,exclude,,False,ok,11300
+2024-12-10,107W-2024-04165,City of El Paso,https://www.faa.gov/sites/faa.gov/files/107W-2024-04165%20Juan%20Nevarez%20-%20CoW.pdf,exclude,,False,ok,11231
+2024-12-11,107W-2024-03822,Avista Utilities,https://www.faa.gov/sites/faa.gov/files/107W-2024-03822%20Nick%20Lasko%20-%20CoW.pdf,exclude,,False,ok,17081
+2024-12-12,107W-2024-03397,Sunflower Labs,https://www.faa.gov/sites/faa.gov/files/107W-2024-03397%20Jeff%20Dickerson%20-%20CoW.pdf,exclude,,False,ok,19085
+2024-12-12,107W-2024-03826,Texas Drone Company,https://www.faa.gov/sites/faa.gov/files/107W-2024-03826%20Jared%20Janacek%20-%20CoW.pdf,exclude,,False,ok,16417
+2024-12-12,107W-2024-03833,HighPoint AeroTechnologies,https://www.faa.gov/sites/faa.gov/files/107W-2024-03833%20Christopher%20Lucas%20-%20CoW.pdf,exclude,,False,ok,19039
+2024-12-13,107W-2024-04609,Buchanan County Sheriff’s Office,https://www.faa.gov/sites/faa.gov/files/107W-2024-04609%20Jason%20Lowe%20-%20CoW.pdf,exclude,,False,ok,11271
+2024-12-13,107W-2024-04620,Pima County Sheriff's Department,https://www.faa.gov/sites/faa.gov/files/107W-2024-04620%20Troy%20Kranz%20-%20CoW.pdf,exclude,,False,ok,11266
+2024-12-16,107W-2024-04476A,"Birdstop, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-04476A%20Keith%20Miao%20-%20CoW.pdf,exclude,,False,ok,18143
+2024-12-18,107W-2024-04237,Pogue Construction,https://www.faa.gov/sites/faa.gov/files/107W-2024-04237%20Jonathon%20Gruenewald%20-%20CoW.pdf,exclude,,False,ok,16144
+2024-12-19,107W-2024-04692,Granite Construction NV,https://www.faa.gov/sites/faa.gov/files/107W-2024-04692%20Donald%20McMurtrey%20-%20CoW.pdf,exclude,,False,ok,16288
+2025-01-02,107W-2024-04592,Anduril Industies,https://www.faa.gov/sites/faa.gov/files/107W-2024-04592%20Brad%20Burnett%20-%20CoW.pdf,exclude,,False,ok,21737
+2025-01-02,107W-2024-04761,East Greenbush Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2024-04761%20Edward%20Ashley%20-%20CoW.pdf,exclude,,False,ok,11275
+2025-01-04,107W-2025-00010,Colorado Springs Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00010%20Matthew%20McLain%20-%20CoW.pdf,exclude,,False,ok,11281
+2025-01-06,107W-2024-03972,Robert H Haskell Jr,https://www.faa.gov/sites/faa.gov/files/107W-2024-03972%20Robert%20Haskell%20-%20CoW.pdf,exclude,,False,ok,18624
+2025-01-06,107W-2024-04638,Flagler County BOCC,https://www.faa.gov/sites/faa.gov/files/107W-2024-04638%20Seth%20Cribben%20-%20CoW.pdf,exclude,,False,ok,19787
+2025-01-07,107W-2024-04146,Jacob Herzog,https://www.faa.gov/sites/faa.gov/files/107W-2024-04146%20Jacob%20Herzog%20-%20CoW.pdf,exclude,,False,ok,17310
+2025-01-07,107W-2024-04170,Christian Stallings,https://www.faa.gov/sites/faa.gov/files/107W-2024-04170%20Christian%20Stallings%20-%20CoW.pdf,exclude,,False,ok,18365
+2025-01-07,107W-2024-04362,Devon Energy,https://www.faa.gov/sites/faa.gov/files/107W-2024-04362%20Jared%20Markes%20-%20CoW.pdf,exclude,,False,ok,15644
+2025-01-08,107W-2024-04181,Archer Daniels Midland,https://www.faa.gov/sites/faa.gov/files/107W-2024-04181%20Alex%20Powers%20-%20CoW.pdf,exclude,,False,ok,16378
+2025-01-08,107W-2025-00069,Thomas Kirk,https://www.faa.gov/sites/faa.gov/files/107W-2025-00069%20Thomas%20Kirk%20-%20CoW.pdf,exclude,,False,ok,18425
+2025-01-10,107W-2024-04032,University of North Dakota,https://www.faa.gov/sites/faa.gov/files/107W-2024-04032%20Paul%20Snyder%20-%20CoW.pdf,exclude,,False,ok,17285
+2025-01-10,107W-2024-04359,Fairfax County Police,https://www.faa.gov/sites/faa.gov/files/107W-2024-04359%20Brad%20Woehrlen%20-%20CoW.pdf,exclude,,False,ok,11258
+2025-01-10,107W-2025-00048,Mobile Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00048%20Paul%20Callegari%20-%20CoW.pdf,exclude,,False,ok,11254
+2025-01-10,107W-2025-00060,Brookings Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00060%20Austin%20Kreutner%20-%20CoW.pdf,exclude,,False,ok,11256
+2025-01-13,107W-2024-03336,Leidos Inc,https://www.faa.gov/sites/faa.gov/files/107W-2024-03336%20Clarence%20Shockley%20-%20CoW.pdf,exclude,,False,ok,18542
+2025-01-13,107W-2024-04263,RIT Public Safety,https://www.faa.gov/sites/faa.gov/files/107W-2024-04263%20John%20Potega%20-%20CoW.pdf,exclude,,False,ok,16420
+2025-01-13,107W-2024-04268,New York Power Authority,https://www.faa.gov/sites/faa.gov/files/107W-2024-04268%20Peter%20Kalaitzidis%20-%20CoW.pdf,exclude,,False,ok,18177
+2025-01-13,107W-2025-00100,Capon Springs Volunteer Fire & Resuce,https://www.faa.gov/sites/faa.gov/files/107W-2025-00100%20-%20Jacob%20Kirk%20-%20CoW.pdf,exclude,,False,ok,11273
+2025-01-15,107W-2024-03655A,Grand Sky Airfield Operations LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-03655A%20Dillon%20Gilmore%20-%20CoW.pdf,exclude,,False,ok,21391
+2025-01-15,107W-2024-04361,Duke Energy Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2024-04361%20Patrick%20Nemecek%20-%20CoW.pdf,exclude,,False,ok,16673
+2025-01-15,107W-2024-04363,Duke Energy Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2024-04363%20Patrick%20Nemecek%20-%20CoW.pdf,exclude,,False,ok,16650
+2025-01-16,107W-2024-04385,Reveille Peak Ranch LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-04385%20Aimee%20Woolsey%20-%20CoW.pdf,exclude,,False,ok,16197
+2025-01-17,107W-2025-00033,Matternet,https://www.faa.gov/sites/faa.gov/files/107W-2025-00033%20Alexander%20Norman-Elvenich%20-%20CoW.pdf,exclude,,False,ok,19247
+2025-01-21,107W-2024-04282A,CDM Smith,https://www.faa.gov/sites/faa.gov/files/107W-2024-04282A%20Michael%20Lemme%20-%20CoW.pdf,exclude,,False,ok,15593
+2025-01-21,107W-2025-00151,Mount Airy Police Dept.,https://www.faa.gov/sites/faa.gov/files/107W-2025-00151%20Brandon%20Wright%20-%20CoW.pdf,exclude,,False,ok,11260
+2025-01-22,107W-2024-04417,Southern Company Services INC,https://www.faa.gov/sites/faa.gov/files/107W-2024-04417%20Cody%20Michaux%20-%20CoW.pdf,exclude,,False,ok,16775
+2025-01-23,107W-2025-00198,"AKDRONE, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2025-00198%20Thomas%20Tapp%20-%20CoW.pdf,exclude,,False,ok,18683
+2025-01-24,107W-2025-00193,Denver Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00193%20Kyle%20McConnell%20-%20CoW.pdf,exclude,,False,ok,11245
+2025-01-25,107W-2025-00164,Conway Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00164%20Shawn%20Baldwin%20-%20CoW.pdf,exclude,,False,ok,11256
+2025-01-29,107W-2024-04472,Chris Mullins,https://www.faa.gov/sites/faa.gov/files/107W-2024-04472%20Chris%20Mullins%20-%20CoW.pdf,exclude,,False,ok,22652
+2025-01-29,107W-2025-00219,Manuel Amador,https://www.faa.gov/sites/faa.gov/files/107W-2025-00219%20Manuel%20Amador%20%20-%20CoW.pdf,exclude,,False,ok,15643
+2025-02-03,107W-2025-00127,Oregon Ohio Police Division,https://www.faa.gov/sites/faa.gov/files/107W-2025-00127%20Eric%20Weis%20-%20CoW.pdf,exclude,,False,ok,11252
+2025-02-05,107W-2024-04600,"Clayco, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-04600%20Antoine%20Tissier%20%20-%20CoW.pdf,exclude,,False,ok,16412
+2025-02-05,107W-2024-04602,"Clayco, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-04602%20Antoine%20Tissier%20-%20CoW.pdf,exclude,,False,ok,16411
+2025-02-06,107W-2024-04021,CSX Technology,https://www.faa.gov/sites/faa.gov/files/107W-2024-04021%20Patrick%20Barnett%20-%20CoW.pdf,exclude,,False,ok,17551
+2025-02-07,107W-2025-00297,Tooele County Major Crimes,https://www.faa.gov/sites/faa.gov/files/107W-2025-00297%20Nicholas%20Yale%20-%20CoW.pdf,exclude,,False,ok,11258
+2025-02-07,107W-2025-00312,Calloway County Sheriffs Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-00312%20Nicky%20Knight%20-%20CoW.pdf,exclude,,False,ok,11267
+2025-02-10,107W-2024-03816,Eye-bot Aerial Solutions,https://www.faa.gov/sites/faa.gov/files/107W-2024-03816%20Chris%20Dolly%20-%20CoW.pdf,exclude,,False,ok,18702
+2025-02-10,107W-2024-04300,Flying Lion Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-04300%20James%20Richardson%20-%20CoW.pdf,exclude,,False,ok,15618
+2025-02-10,107W-2025-00406,El Paso County Search and Rescue UAS,https://www.faa.gov/sites/faa.gov/files/107W-2025-00406%20Patrick%20Kerscher%20-%20CoW.pdf,exclude,,False,ok,11292
+2025-02-11,107W-2024-04607,"Clayco, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-04607%20Antoine%20Tissier%20-%20CoW.pdf,exclude,,False,ok,16412
+2025-02-11,107W-2024-04608,"Clayco, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-04608%20Antoine%20Tissier%20-%20CoW.pdf,exclude,,False,ok,16412
+2025-02-12,107W-2025-00327,DJI,https://www.faa.gov/sites/faa.gov/files/107W-2025-00327%20Javier%20Caina%20-%20CoW.pdf,exclude,,False,ok,16462
+2025-02-14,107W-2025-00290,Delaware State Police,https://www.faa.gov/sites/faa.gov/files/107W-2025-00290%20Brett%20Creasey%20-CoW.pdf,exclude,,False,ok,11248
+2025-02-17,107W-2025-00129,West York Borough Police Dept.,https://www.faa.gov/sites/faa.gov/files/107W-2025-00129%20David%20Kahley%20-%20CoW.pdf,exclude,,False,ok,11263
+2025-02-18,107W-2024-04536,Legacy Restoration LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-04536%20Kyle%20Lautz%20-%20CoW.pdf,exclude,,False,ok,20841
+2025-02-20,107W-2024-04491,New York Power Authority,https://www.faa.gov/sites/faa.gov/files/107W-2024-04491%20Peter%20Kalaitzidis%20-%20CoW.pdf,exclude,,False,ok,15713
+2025-02-21,107W-2024-04702,Avol,https://www.faa.gov/sites/faa.gov/files/107W-2024-04702%20Nathan%20Poon%20-%20CoW.pdf,exclude,,False,ok,20159
+2025-02-24,107W-2024-04585,Unmanned Vehicle Technologies,https://www.faa.gov/sites/faa.gov/files/107W-2024-04585%20Matthew%20Rybar%20-%20CoW.pdf,exclude,,False,ok,18593
+2025-02-24,107W-2024-04639,Pogue Construction,https://www.faa.gov/sites/faa.gov/files/107W-2024-04639%20Jonathon%20Gruenewald%20-%20CoW.pdf,exclude,,False,ok,18765
+2025-02-24,107W-2024-04640,Pogue Construction,https://www.faa.gov/sites/faa.gov/files/107W-2024-04640%20Jonathon%20Gruenewald%20-%20CoW.pdf,exclude,,False,ok,18722
+2025-02-24,107W-2025-00393,NUAIR Alliance,https://www.faa.gov/sites/faa.gov/files/107W-2025-00393%20Eric%20Fleckten%20-%20CoW.pdf,exclude,,False,ok,19009
+2025-02-25,107W-2025-00051,Westminster Schools,https://www.faa.gov/sites/faa.gov/files/107W-2025-00051%20Antoinette%20Boyd%20-%20CoW.pdf,exclude,,False,ok,16308
+2025-02-26,107W-2025-00046,FedEx Express,https://www.faa.gov/sites/faa.gov/files/107W-2025-00046%20Joel%20Murdock%20-%20CoW.pdf,exclude,,False,ok,20716
+2025-02-26,107W-2025-00062,"Aerial Pet Recovery, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-00062%20Stuart%20Stakoff%20-%20CoW.pdf,exclude,,False,ok,18177
+2025-02-26,107W-2025-00557,AERIALOOP,https://www.faa.gov/sites/faa.gov/files/107W-2025-00557%20Jorge%20Sanchez%20Hidalgo%20-%20CoW.pdf,exclude,,False,ok,18486
+2025-02-28,107W-2024-04615,University of Maryland UAS Test Site,https://www.faa.gov/sites/faa.gov/files/107W-2024-04615%20Grant%20Williams%20-%20CoW.pdf,exclude,,False,ok,19026
+2025-03-01,107W-2025-00025,Frontier Precision UAS,https://www.faa.gov/sites/faa.gov/files/107W-2025-00025%20Wyatt%20Robbins%20-%20CoW.pdf,exclude,,False,ok,17758
+2025-03-03,107W-2025-00322,N. Tonawanda Police Dept.,https://www.faa.gov/sites/faa.gov/files/107W-2025-00322%20Bradley%20Janzen%20-%20CoW.pdf,exclude,,False,ok,11255
+2025-03-03,107W-2025-00399,"Harkins Builders, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-00399%20Carlos%20Zuluaga%20-%20CoW.pdf,exclude,,False,ok,20800
+2025-03-03,107W-2025-00569,Charlottesville Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00569%20Chad%20Bingler%20-%20CoW.pdf,exclude,,False,ok,11272
+2025-03-03,107W-2025-00573,Elmore County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-00573%20Joshua%20Inman%20-%20CoW.pdf,exclude,,False,ok,11260
+2025-03-03,107W-2025-00601,Folsom Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00601%20Kyle%20Rader%20-%20CoW.pdf,exclude,,False,ok,11239
+2025-03-04,107W-2025-00071,American Electric Power,https://www.faa.gov/sites/faa.gov/files/107W-2025-00071%20Randy%20Lowe%20-%20CoW.pdf,exclude,,False,ok,21231
+2025-03-04,107W-2025-00163,Sean Qualy,https://www.faa.gov/sites/faa.gov/files/107W-2025-00163%20Sean%20Qualy%20-%20CoW.pdf,exclude,,False,ok,16486
+2025-03-05,107W-2025-00115,EDM International,https://www.faa.gov/sites/faa.gov/files/107W-2025-00115%20James%20Dwyer%20-%20CoW.pdf,exclude,,False,ok,18264
+2025-03-05,107W-2025-00417,Santaquin Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00417%20Braydon%20Golding%20-%20CoW.pdf,exclude,,False,ok,11256
+2025-03-05,107W-2025-00420,Owasso Police,https://www.faa.gov/sites/faa.gov/files/107W-2025-00420%20Travis%20Harris%20-%20CoW.pdf,exclude,,False,ok,11229
+2025-03-05,107W-2025-00435,"Lee County, Florida",https://www.faa.gov/sites/faa.gov/files/107W-2025-00435%20Dominick%20Boyd%20-%20CoW.pdf,exclude,,False,ok,11237
+2025-03-05,107W-2025-00455,SkySense AI Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-00455%20Justin%20Clune%20-%20CoW.pdf,exclude,,False,ok,16567
+2025-03-05,107W-2025-00458,City of Hilliard,https://www.faa.gov/sites/faa.gov/files/107W-2025-00458%20Duane%20Powell%20-%20CoW.pdf,exclude,,False,ok,11234
+2025-03-05,107W-2025-00464,City of Charleston Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00464%20Scott%20Newsome%20-%20CoW.pdf,exclude,,False,ok,11275
+2025-03-10,107W-2025-00619,"Lexicon, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-00619%20Andrew%20Ertzberger%20-%20CoW.pdf,exclude,,False,ok,16502
+2025-03-11,107W-2024-04704,Levi Johnson,https://www.faa.gov/sites/faa.gov/files/107W-2024-04704%20Levi%20Johnson%20-%20CoW.pdf,exclude,,False,ok,18465
+2025-03-11,107W-2025-00244,Dept. of the Army Criminal Investigation Division,https://www.faa.gov/sites/faa.gov/files/107W-2025-00244%20Michal%20Pirog%20-%20CoW.pdf,exclude,,False,ok,19190
+2025-03-13,107W-2024-04499,Christian Ojala,https://www.faa.gov/sites/faa.gov/files/107W-2024-04499%20Christian%20Ojala%20-%20CoW.pdf,exclude,,False,ok,20619
+2025-03-13,107W-2025-00728,Rainmaker Technology Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-00728%20Sam%20Kim%20-%20CoW.pdf,exclude,,False,ok,20364
+2025-03-14,107W-2025-00686,GBR Drone and Robotics Team (DART),https://www.faa.gov/sites/faa.gov/files/107W-2025-00686%20Noel%20Silva%20-%20CoW.pdf,exclude,,False,ok,19546
+2025-03-15,107W-2024-04711A,American Electric Power,https://www.faa.gov/sites/faa.gov/files/107W-2024-04711A%20Randy%20Lowe%20-%20CoW.pdf,exclude,,False,ok,17188
+2025-03-17,107W-2025-00303,Clayco Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-00303%20Antoine%20Tissier%20-%20CoW.pdf,exclude,,False,ok,16743
+2025-03-17,107W-2025-00501,Campus Sentinel,https://www.faa.gov/sites/faa.gov/files/107W-2025-00501%20Eric%20Grile%20-%20CoW.pdf,exclude,,False,ok,11226
+2025-03-17,107W-2025-00692,Clatsop County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-00692%20Bruce%20Scott%20-%20CoW.pdf,exclude,,False,ok,11261
+2025-03-17,107W-2025-00753,Pittston City Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00753%20Samuel%20DeSimone%20-%20CoW.pdf,exclude,,False,ok,11264
+2025-03-17,107W-2025-00754,Luzerne County District Attorney's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-00754%20Neil%20Murphy%20-%20CoW.pdf,exclude,,False,ok,11287
+2025-03-17,107W-2025-00811,Todd County Sheriffs Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-00811%20Kyle%20Drum%20-%20CoW.pdf,exclude,,False,ok,11253
+2025-03-17,107W-2025-00862,North Salt Lake Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00862%20Randon%20Carter%20-%20CoW.pdf,exclude,,False,ok,11273
+2025-03-20,107W-2025-00224,Axon Enterprise,https://www.faa.gov/sites/faa.gov/files/107W-2025-00224%20William%20Sallee%20-%20CoW.pdf,exclude,,False,ok,16233
+2025-03-20,107W-2025-00370,Devon Energy,https://www.faa.gov/sites/faa.gov/files/107W-2025-00370%20Jared%20Markes%20-%20CoW.pdf,exclude,,False,ok,15641
+2025-03-21,107W-2025-00867,Vernon Hills Police Drone Unit,https://www.faa.gov/sites/faa.gov/files/107W-2025-00867%20Andrew%20Gillespie%20-%20CoW.pdf,exclude,,False,ok,11269
+2025-03-27,107W-2025-01008,New Hampshire Department of Corrections,https://www.faa.gov/sites/faa.gov/files/107W-2025-01008%20Christopher%20Ward%20-%20CoW.pdf,exclude,,False,ok,11287
+2025-03-28,107W-2025-00168A,MFE Inspection Solutions,https://www.faa.gov/sites/faa.gov/files/107W-2025-00168A%20Cody%20Menchaca%20-%20CoW.pdf,exclude,,False,ok,17676
+2025-03-31,107W-2025-00059,Intellition LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-00059%20Sam%20Cutler%20-%20CoW.pdf,exclude,,False,ok,19581
+2025-04-01,107W-2025-00453,Osmose Utilities Services,https://www.faa.gov/sites/faa.gov/files/107W-2025-00453%20Jonathan%20Harris%20-%20CoW.pdf,exclude,,False,ok,16129
+2025-04-01,107W-2025-00559,Choctaw Nation of Oklahoma,https://www.faa.gov/sites/faa.gov/files/107W-2025-00559%20Marcus%20Hartman%20-%20CoW.pdf,exclude,,False,ok,18517
+2025-04-01,107W-2025-01012,7th Judicial Major Crimes Unit,https://www.faa.gov/sites/faa.gov/files/107W-2025-01012%20James%20Harrington%20-%20CoW.pdf,exclude,,False,ok,11260
+2025-04-01,107W-2025-01016,Monroe County Sheriff's Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01016%20James%20Kirkpatrick%20-%20CoW.pdf,exclude,,False,ok,11272
+2025-04-01,107W-2025-01017,Ocean County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-01017%20Kevin%20Fennessy%20-%20CoW.pdf,exclude,,False,ok,11295
+2025-04-01,107W-2025-01081,City of Wayland Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01081%20Jordan%20Cadahia%20-%20CoW.pdf,exclude,,False,ok,11271
+2025-04-01,107W-2025-01084,Huron Clinton Metroparks Police,https://www.faa.gov/sites/faa.gov/files/107W-2025-01084%20-%20Matthew%20Rybar%20-%20CoW.pdf,exclude,,False,ok,11264
+2025-04-02,107W-2025-00564,Drones Made Easy,https://www.faa.gov/sites/faa.gov/files/107W-2025-00564%20Brian%20Yates%20-%20CoW.pdf,exclude,,False,ok,18484
+2025-04-02,107W-2025-01122,Dallas Township Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01122%20Brian%20Feeney%20-%20CoW.pdf,exclude,,False,ok,11275
+2025-04-03,107W-2025-00329,SAM LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-00329%20Gary%20Niemeyer%20-%20CoW.pdf,exclude,,False,ok,18731
+2025-04-03,107W-2025-00334,Big Sky Aerial Solutions,https://www.faa.gov/sites/faa.gov/files/107W-2025-00334%20Austin%20Seback%20-%20CoW.pdf,exclude,,False,ok,17498
+2025-04-03,107W-2025-00377,Massachusetts Dept of Transportation - Aeronautics Division UAS,https://www.faa.gov/sites/faa.gov/files/107W-2025-00377%20Christopher%20Bailey%20-%20CoW.pdf,exclude,,False,ok,17200
+2025-04-03,107W-2025-00409,Southern Company Services INC,https://www.faa.gov/sites/faa.gov/files/107W-2025-00409%20Slade%20Bridges%20-%20CoW.pdf,exclude,,False,ok,17749
+2025-04-04,107W-2025-00391,Ameren,https://www.faa.gov/sites/faa.gov/files/107W-2025-00391%20James%20Pierce%20-%20CoW.pdf,exclude,,False,ok,16662
+2025-04-07,107W-2025-00608,SAN DIEGO GAS & ELECTRIC,https://www.faa.gov/sites/faa.gov/files/107W-2025-00608%20Christine%20Asaro%20-%20CoW.pdf,exclude,,False,ok,18473
+2025-04-07,107W-2025-00620,Consumers Energy,https://www.faa.gov/sites/faa.gov/files/107W-2025-00620%20Benjamin%20Strandskov%20-%20CoW.pdf,exclude,,False,ok,17069
+2025-04-10,107W-2025-00939,Montgomery County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-00939%20Samuel%20Harrison%20-%20CoW.pdf,exclude,,False,ok,11288
+2025-04-10,107W-2025-01244,Concordia Parish Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-01244%20Randall%20Gohn%20-%20CoW.pdf,exclude,,False,ok,11266
+2025-04-10,107W-2025-01245,New England K9 Search & Rescue,https://www.faa.gov/sites/faa.gov/files/107W-2025-01245%20Jocelyn%20Stohl%20-%20CoW.pdf,exclude,,False,ok,11273
+2025-04-10,107W-2025-01253,El Reno Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01253%20David%20Beaty%20-%20CoW.pdf,exclude,,False,ok,11249
+2025-04-11,107W-2025-00630,Shell International E&P Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-00630%20Ross%20Doak%20-%20CoW.pdf,exclude,,False,ok,16802
+2025-04-14,107W-2025-00714,Embry-Riddle Aeronautical University,https://www.faa.gov/sites/faa.gov/files/107W-2025-00714%20Joseph%20Cerreta%20-%20CoW.pdf,exclude,,False,ok,18372
+2025-04-15,107W-2025-00517,Dronescape,https://www.faa.gov/sites/faa.gov/files/107W-2025-00517%20Joe%20Valasquez%20-%20CoW.pdf,exclude,,False,ok,12346
+2025-04-16,107W-2025-00358,AASO,https://www.faa.gov/sites/faa.gov/files/107W-2025-00358%20Bart%20Bauer%20-%20CoW.pdf,exclude,,False,ok,19905
+2025-04-16,107W-2025-00606,Overhead Intelligence,https://www.faa.gov/sites/faa.gov/files/107W-2025-00606%20Roger%20Oneill%20-%20CoW.pdf,exclude,,False,ok,19713
+2025-04-17,107W-2025-00339,Live Nation Entertainment,https://www.faa.gov/sites/faa.gov/files/107W-2025-00339%20John%20Nieman%20-%20CoW.pdf,exclude,,False,ok,16757
+2025-04-17,107W-2025-01333,Burlington Volunteer Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01333%20Stephen%20Michna%20-%20CoW.pdf,exclude,,False,ok,11289
+2025-04-18,107W-2025-01366-Thomas-Frawley-CoW,Upper Valley Wilderness Response Team,https://www.faa.gov/sites/faa.gov/files/107W-2025-01366-Thomas-Frawley-CoW.pdf,exclude,,False,ok,11269
+2025-04-21,107W-2025-00552,ERAU UAS-S Research,https://www.faa.gov/sites/faa.gov/files/107W-2025-00552%20Nickolas%20Macchiarella%20-%20CoW.pdf,exclude,,False,ok,21913
+2025-04-21,107W-2025-01373-James-Toner-CoW,Harris County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-01373-James-Toner-CoW.pdf,exclude,,False,ok,11264
+2025-04-22,107W-2025-00525-Jonas-Jonsson-CoW,NASA Ames Research Center,https://www.faa.gov/sites/faa.gov/files/107W-2025-00525-Jonas-Jonsson-CoW.pdf,exclude,,False,ok,17937
+2025-04-22,107W-2025-00657-Aaron-Chamberlin-CoW,Caltrans Division of Construction,https://www.faa.gov/sites/faa.gov/files/107W-2025-00657-Aaron-Chamberlin-CoW.pdf,exclude,,False,ok,17230
+2025-04-22,107W-2025-00771-Mike-Spengler-CoW,Idaho Power Company,https://www.faa.gov/sites/faa.gov/files/107W-2025-00771-Mike-Spengler-CoW.pdf,exclude,,False,ok,17089
+2025-04-23,107W-2024-04674-Devon-Edwards-CoW,"SB Flight Training, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2024-04674-Devon-Edwards-CoW.pdf,exclude,,False,ok,22904
+2025-04-23,107W-2025-00817,SAN DIEGO GAS & ELECTRIC,https://www.faa.gov/sites/faa.gov/files/107W-2025-00817%20Christine%20Asaro%20-%20CoW.pdf,exclude,,False,ok,17136
+2025-04-23,107W-2025-00848-Heath-McLemore-CoW,Florida Power & Light Company,https://www.faa.gov/sites/faa.gov/files/107W-2025-00848-Heath-McLemore-CoW.pdf,non_geo,nationwide,False,ok,17027
+2025-04-25,107W-2025-01465,Lancaster County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-01465%20Robert%20Marshall%20-%20CoW.pdf,exclude,,False,ok,11275
+2025-04-28,107W-2025-00278B-Andrew-Swift-CoW,Sacramento County Sheriff,https://www.faa.gov/sites/faa.gov/files/107W-2025-00278B-Andrew-Swift-CoW.pdf,exclude,,False,ok,19903
+2025-04-28,107W-2025-00397,"Skydio, INC",https://www.faa.gov/sites/faa.gov/files/107W-2025-00397%20Tim%20Baker%20-%20CoW.pdf,exclude,,False,ok,18701
+2025-04-28,107W-2025-00626,"Lexicon, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-00626%20Andrew%20Ertzberger%20-%20CoW.pdf,exclude,,False,ok,16723
+2025-04-28,107W-2025-00628,"Lexicon, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-00628%20Andrew%20Ertzberger%20-%20CoW.pdf,exclude,,False,ok,17142
+2025-04-28,107W-2025-00629,"Lexicon, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-00629%20Andrew%20Ertzberger%20-%20CoW.pdf,exclude,,False,ok,17086
+2025-04-28,107W-2025-00739,James Royal,https://www.faa.gov/sites/faa.gov/files/107W-2025-00739%20James%20Royal%20-%20CoW.pdf,exclude,,False,ok,15425
+2025-04-28,107W-2025-00849-Madison-Taylor-CoW,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-00849-Madison-Taylor-CoW.pdf,exclude,,False,ok,17470
+2025-04-28,107W-2025-01162-James-Richardson-CoW,Flying Lion Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-01162-James-Richardson-CoW.pdf,exclude,,False,ok,16736
+2025-04-28,107W-2025-01189-James-Richardson-CoW,Flying Lion Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-01189-James-Richardson-CoW.pdf,exclude,,False,ok,16972
+2025-04-29,107W-2025-00841,Mortenson DCS-G+,https://www.faa.gov/sites/faa.gov/files/107W-2025-00841%20Nick%20Kantor%20-%20CoW.pdf,exclude,,False,ok,16512
+2025-04-29,107W-2025-00850-Madison-Taylor-CoW,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-00850-Madison-Taylor-CoW.pdf,exclude,,False,ok,15820
+2025-04-29,107W-2025-00851-Madison-Taylor-CoW,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-00851-Madison-Taylor-CoW.pdf,exclude,,False,ok,16242
+2025-04-29,107W-2025-00852-Madison-Taylor-CoW,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-00852-Madison-Taylor-CoW.pdf,exclude,,False,ok,16090
+2025-04-29,107W-2025-00853-Madison-Taylor-CoW,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-00853-Madison-Taylor-CoW.pdf,exclude,,False,ok,16434
+2025-04-29,107W-2025-01200-Tom-Butler-CoW,Dominion Energy,https://www.faa.gov/sites/faa.gov/files/107W-2025-01200-Tom-Butler-CoW.pdf,exclude,,False,ok,20151
+2025-04-30,107W-2025-00884-Oliver-Cotter-Nannestad-CoW,Alaska Remote Imaging,https://www.faa.gov/sites/faa.gov/files/107W-2025-00884-Oliver-Cotter-Nannestad-CoW.pdf,exclude,,False,ok,16619
+2025-05-01,107W-2025-00612,Pilot Institute,https://www.faa.gov/sites/faa.gov/files/107W-2025-00612%20Jason%20Wood%20-%20CoW.pdf,exclude,,False,ok,24835
+2025-05-01,107W-2025-01477-John-Ankenbrand-CoW,City of Pittston - Bureau of Fire,https://www.faa.gov/sites/faa.gov/files/107W-2025-01477-John-Ankenbrand-CoW.pdf,exclude,,False,ok,11262
+2025-05-01,107W-2025-01479-Jeremy-Moore-CoW,McMinn County Emergency and Rescue Squad INC,https://www.faa.gov/sites/faa.gov/files/107W-2025-01479-Jeremy-Moore-CoW.pdf,exclude,,False,ok,11284
+2025-05-05,107W-2025-01542-Alex-Pachikov-CoW,Sunflower Labs,https://www.faa.gov/sites/faa.gov/files/107W-2025-01542-Alex-Pachikov-CoW.pdf,exclude,,False,ok,19262
+2025-05-05,107W-2025-01568,York County R.O.V.E.R. Team,https://www.faa.gov/sites/faa.gov/files/107W-2025-01568%20Kenneth%20Elliot%20-%20CoW.pdf,exclude,,False,ok,11252
+2025-05-06,107W-2025-00784-Michael-McGee-CoW,University of Texas at El Paso,https://www.faa.gov/sites/faa.gov/files/107W-2025-00784-Michael-McGee-CoW.pdf,exclude,,False,ok,16565
+2025-05-06,107W-2025-01579-Camryn-Huff-CoW,"LandSkyAI, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2025-01579-Camryn-Huff-CoW.pdf,exclude,,False,ok,19367
+2025-05-06,107W-2025-01581-Camryn-Huff-CoW,"LandSkyAI, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2025-01581-Camryn-Huff-CoW.pdf,exclude,,False,ok,19368
+2025-05-07,107W-2025-00857-Heath-McLemore-CoW,Florida Power & Light Company,https://www.faa.gov/sites/faa.gov/files/107W-2025-00857-Heath-McLemore-CoW.pdf,non_geo,nationwide,False,ok,13920
+2025-05-07,107W-2025-01598-Sean-Lucas-CoW,Aerial Innovation Solutions LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-01598-Sean-Lucas-CoW.pdf,exclude,,False,ok,19509
+2025-05-07,107W-2025-01608-Scott-Rose-CoW,Freetown Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01608-Scott-Rose-CoW.pdf,exclude,,False,ok,11249
+2025-05-07,107W-2025-01621-Billy-Simerson-CoW,Tyro Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01621-Billy-Simerson-CoW.pdf,exclude,,False,ok,11239
+2025-05-09,107W-2025-01627-Ryan-Duntzee-CoW,Abington Township Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01627-Ryan-Duntzee-CoW.pdf,exclude,,False,ok,11265
+2025-05-12,107W-2025-00968-Heath-McLemore-CoW,Florida Power & Light Company,https://www.faa.gov/sites/faa.gov/files/107W-2025-00968-Heath-McLemore-CoW.pdf,exclude,,False,ok,10928
+2025-05-12,107W-2025-01655-Justin-Scott-CoW,Washington County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-01655-Justin-Scott-CoW.pdf,exclude,,False,ok,11265
+2025-05-13,107W-2025-00906-Gregory-McNiff-CoW,Atlanta Police Foundation,https://www.faa.gov/sites/faa.gov/files/107W-2025-00906-Gregory-McNiff-CoW.pdf,exclude,,False,ok,16530
+2025-05-13,107W-2025-00969-Joshua-Ortiz-CoW,Fowado Technology Group,https://www.faa.gov/sites/faa.gov/files/107W-2025-00969-Joshua-Ortiz-CoW.pdf,exclude,,False,ok,16606
+2025-05-13,107W-2025-01403-Tyler-Sterkel-CoW,Anduril Industries,https://www.faa.gov/sites/faa.gov/files/107W-2025-01403-Tyler-Sterkel-CoW.pdf,exclude,,False,ok,23917
+2025-05-14,107W-2025-00897-Stephen-Warr-CoW,Stephen Warr,https://www.faa.gov/sites/faa.gov/files/107W-2025-00897-Stephen-Warr-CoW.pdf,exclude,,False,ok,18515
+2025-05-14,107W-2025-01097-Stephen-Bossert-CoW,Zeitview,https://www.faa.gov/sites/faa.gov/files/107W-2025-01097-Stephen-Bossert-CoW.pdf,exclude,,False,ok,17185
+2025-05-14,107W-2025-01204-Tanner-Beard-CoW,Tanner Beard,https://www.faa.gov/sites/faa.gov/files/107W-2025-01204-Tanner-Beard-CoW.pdf,exclude,,False,ok,20580
+2025-05-14,107W-2025-01672-David-Wheeler-CoW,Rockbridge Regional Public Safety Communications Center,https://www.faa.gov/sites/faa.gov/files/107W-2025-01672-David-Wheeler-CoW.pdf,exclude,,False,ok,11308
+2025-05-15,107W-2025-01268-James-Peverill-CoW,GreenSight Agronomics,https://www.faa.gov/sites/faa.gov/files/107W-2025-01268-James-Peverill-CoW.pdf,exclude,,False,ok,18750
+2025-05-16,107W-2025-01740-Carcheri-Gingrasso-CoW,Friendship Fire Company #2,https://www.faa.gov/sites/faa.gov/files/107W-2025-01740-Carcheri-Gingrasso-CoW.pdf,exclude,,False,ok,11257
+2025-05-19,107W-2025-01775-Leon-Sosnoski-CoW,Susquehanna Regional Police,https://www.faa.gov/sites/faa.gov/files/107W-2025-01775-Leon-Sosnoski-CoW.pdf,exclude,,False,ok,11252
+2025-05-19,107W-2025-01785-Mark-Riley-CoW,Mequon Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01785-Mark-Riley-CoW.pdf,exclude,,False,ok,11245
+2025-05-20,107W-2025-00979-Devin-Allen-CoW,Unmanned Safety Institute,https://www.faa.gov/sites/faa.gov/files/107W-2025-00979-Devin-Allen-CoW.pdf,exclude,,False,ok,21932
+2025-05-21,107W-2025-01626-Daniel-Cavanagh-CoW,Gerrittsen Beach Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01626-Daniel-Cavanagh-CoW.pdf,exclude,,False,ok,20337
+2025-05-21,107W-2025-01633-Christopher-Bailey-CoW,Massachusetts Dept of Transportation - Aeronautics Division UAS,https://www.faa.gov/sites/faa.gov/files/107W-2025-01633-Christopher-Bailey-CoW.pdf,exclude,,False,ok,19132
+2025-05-22,107W-2025-00866-Rob-Knochenhauer-CoW,Censys Technologies,https://www.faa.gov/sites/faa.gov/files/107W-2025-00866-Rob-Knochenhauer-CoW.pdf,exclude,,False,ok,25217
+2025-05-22,107W-2025-01236-Adam-McGhee-CoW,Adam McGhee,https://www.faa.gov/sites/faa.gov/files/107W-2025-01236-Adam-McGhee-CoW.pdf,exclude,,False,ok,16575
+2025-05-22,107W-2025-01686-Nick-Kantor-CoW,Mortenson DCS-G+,https://www.faa.gov/sites/faa.gov/files/107W-2025-01686-Nick-Kantor-CoW.pdf,exclude,,False,ok,16616
+2025-05-23,107W-2025-00892-Kieran-Christian-CoW,Kieran Christian,https://www.faa.gov/sites/faa.gov/files/107W-2025-00892-Kieran-Christian-CoW.pdf,exclude,,False,ok,18540
+2025-05-23,107W-2025-01894-Roger-Moua-CoW,Minneapolis Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01894-Roger-Moua-CoW.pdf,exclude,,False,ok,11258
+2025-05-27,107W-2025-01094-Estiward-Medina-CoW,MTA Bridges and Tunnels,https://www.faa.gov/sites/faa.gov/files/107W-2025-01094-Estiward-Medina-CoW.pdf,exclude,,False,ok,17792
+2025-05-27,107W-2025-01473-Brad-Johnston-CoW,Brad Johnston,https://www.faa.gov/sites/faa.gov/files/107W-2025-01473-Brad-Johnston-CoW.pdf,exclude,,False,ok,11264
+2025-05-28,107W-2025-01178-Brian-Knights-CoW,MidAmerican Energy Company,https://www.faa.gov/sites/faa.gov/files/107W-2025-01178-Brian-Knights-CoW.pdf,exclude,,False,ok,17837
+2025-05-29,107W-2025-01158-Brett-Tiagwad-CoW,Brett Tiagwad,https://www.faa.gov/sites/faa.gov/files/107W-2025-01158-Brett-Tiagwad-CoW.pdf,exclude,,False,ok,23971
+2025-06-01,107W-2025-01949-Kevin-Forman-CoW,Goochland County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-01949-Kevin-Forman-CoW.pdf,exclude,,False,ok,11267
+2025-06-05,107W-2025-02008-Jonathan-Wiggins-CoW,City of Odenville Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-02008-Jonathan-Wiggins-CoW.pdf,exclude,,False,ok,11275
+2025-06-10,107W-2025-01845-Aaron-Zeff-CoW,"Community Oriented Patrol & Security, Inc",https://www.faa.gov/sites/faa.gov/files/107W-2025-01845-Aaron-Zeff-CoW.pdf,exclude,,False,ok,17716
+2025-06-11,107W-2025-01255-Gary-Chapman-CoW,Turner Construction,https://www.faa.gov/sites/faa.gov/files/107W-2025-01255-Gary-Chapman-CoW.pdf,exclude,,False,ok,18208
+2025-06-11,107W-2025-02073-Patrick-Thessing-CoW,City of North Little Rock,https://www.faa.gov/sites/faa.gov/files/107W-2025-02073-Patrick-Thessing-CoW.pdf,exclude,,False,ok,11264
+2025-06-11,107W-2025-02074-Jeff-Hagar-CoW,Sherwood Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-02074-Jeff-Hagar-CoW.pdf,exclude,,False,ok,11249
+2025-06-12,107W-2025-01275-Andrew-Regnier-CoW,Great River Energy,https://www.faa.gov/sites/faa.gov/files/107W-2025-01275-Andrew-Regnier-CoW.pdf,exclude,,False,ok,18499
+2025-06-12,107W-2025-01285-Aaron-Tyler-CoW,Tyton Aviation,https://www.faa.gov/sites/faa.gov/files/107W-2025-01285-Aaron-Tyler-CoW.pdf,exclude,,False,ok,16560
+2025-06-13,107W-2025-02153-Todd-Conforti-CoW,Montclair Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-02153-Todd-Conforti-CoW.pdf,exclude,,False,ok,11258
+2025-06-16,107W-2025-01747-Jordon-Porlier-CoW,Drone Express,https://www.faa.gov/sites/faa.gov/files/107W-2025-01747-Jordon-Porlier-CoW.pdf,exclude,,False,ok,23446
+2025-06-17,107W-2025-01402A-Sebastian-Ibanez-CoW,SUNY Upstate,https://www.faa.gov/sites/faa.gov/files/107W-2025-01402A-Sebastian-Ibanez-CoW.pdf,exclude,,False,ok,19699
+2025-06-18,107W-2025-00558A-Grant-Williams-CoW,University of Maryland UAS Test Site,https://www.faa.gov/sites/faa.gov/files/107W-2025-00558A-Grant-Williams-CoW.pdf,exclude,,False,ok,20929
+2025-06-18,107W-2025-01362-Chris-Smith-CoW,Koch Industries Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-01362-Chris-Smith-CoW.pdf,exclude,,False,ok,19196
+2025-06-18,107W-2025-02019-Jude-Sawyer-CoW,Trumann Police Dept.,https://www.faa.gov/sites/faa.gov/files/107W-2025-02019-Jude-Sawyer-CoW.pdf,exclude,,False,ok,11247
+2025-06-20,107W-2025-02165-Brandon-Arrick-CoW,Dacono Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-02165-Brandon-Arrick-CoW.pdf,exclude,,False,ok,11246
+2025-06-25,107W-2025-01066-Nicholas-Woehrel-CoW,DPR Construction,https://www.faa.gov/sites/faa.gov/files/107W-2025-01066-Nicholas-Woehrel-CoW.pdf,exclude,,False,ok,16874
+2025-06-26,107W-2025-01512-Travis-Waibel-CoW,ADVEXURE LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-01512-Travis-Waibel-CoW.pdf,exclude,,False,ok,16399
+2025-06-26,107W-2025-01522-Mitchell-McArthur-CoW,RWE,https://www.faa.gov/sites/faa.gov/files/107W-2025-01522-Mitchell-McArthur-CoW.pdf,exclude,,False,ok,16563
+2025-06-26,107W-2025-01577-Robert-Mancill-CoW,"Brasfield & Gorrie, L.L.C.",https://www.faa.gov/sites/faa.gov/files/107W-2025-01577-Robert-Mancill-CoW.pdf,exclude,,False,ok,18117
+2025-06-26,107W-2025-02332-Jacob-Gardner-CoW,Rock County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-02332-Jacob-Gardner-CoW.pdf,exclude,,False,ok,11256
+2025-06-30,107W-2025-01583-Mattheus-de-Waard-CoW,Michels Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-01583-Mattheus-de-Waard-CoW.pdf,exclude,,False,ok,17834
+2025-07-01,107W-2025-01744-Bert-Bossman-CoW,GeoWings L.L.C.,https://www.faa.gov/sites/faa.gov/files/107W-2025-01744-Bert-Bossman-CoW.pdf,exclude,,False,ok,16733
+2025-07-01,107W-2025-01753-Michael-Hurlbut-CoW,Pleasant Hill Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01753-Michael-Hurlbut-CoW.pdf,exclude,,False,ok,17179
+2025-07-01,107W-2025-01802-Julien-Alameda-CoW,Arch Aerial LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-01802-Julien-Alameda-CoW.pdf,exclude,,False,ok,19595
+2025-07-01,107W-2025-02360-Thomas-Sniffen-CoW,Long Valley First Aid Squad,https://www.faa.gov/sites/faa.gov/files/107W-2025-02360-Thomas-Sniffen-CoW.pdf,exclude,,False,ok,11256
+2025-07-02,107W-2025-01890-Luke-Butler-CoW,"FlyGuys, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-01890-Luke-Butler-CoW.pdf,exclude,,False,ok,19439
+2025-07-03,107W-2025-02462-Chris-Wilkerson-CoW,Bolivar Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-02462-Chris-Wilkerson-CoW.pdf,exclude,,False,ok,11253
+2025-07-07,107W-2025-01865-Ian-Perry-CoW,CTRL USA,https://www.faa.gov/sites/faa.gov/files/107W-2025-01865-Ian-Perry-CoW.pdf,exclude,,False,ok,17304
+2025-07-07,107W-2025-01877-Daniel-Kammer-CoW,The Ohio Department of Transportation,https://www.faa.gov/sites/faa.gov/files/107W-2025-01877-Daniel-Kammer-CoW.pdf,exclude,,False,ok,15313
+2025-07-08,107W-2025-01878-Aharon-Levi-CoW,Blip Delivery Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-01878-Aharon-Levi-CoW.pdf,exclude,,False,ok,16609
+2025-07-08,107W-2025-01900-Howard-Mui-CoW,Attollo Defense,https://www.faa.gov/sites/faa.gov/files/107W-2025-01900-Howard-Mui-CoW.pdf,exclude,,False,ok,17510
+2025-07-08,107W-2025-02504-Gerald-Lyons-CoW,Oxford Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-02504-Gerald-Lyons-CoW.pdf,exclude,,False,ok,11247
+2025-07-09,107W-2025-01336-Christopher-Sorrentini-CoW,United Utility AirOps,https://www.faa.gov/sites/faa.gov/files/107W-2025-01336-Christopher-Sorrentini-CoW.pdf,exclude,,False,ok,19454
+2025-07-09,107W-2025-01986-Robert-Mancill-CoW,"Brasfield & Gorrie, L.L.C.",https://www.faa.gov/sites/faa.gov/files/107W-2025-01986-Robert-Mancill-CoW.pdf,exclude,,False,ok,16614
+2025-07-09,107W-2025-02275-Antoine-Tissier-CoW,"Clayco, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-02275-Antoine-Tissier-CoW.pdf,exclude,,False,ok,17120
+2025-07-09,107W-2025-02309-Hiam-Naiditch-CoW,MAGEN Chicago,https://www.faa.gov/sites/faa.gov/files/107W-2025-02309-Hiam-Naiditch-CoW.pdf,exclude,,False,ok,17685
+2025-07-10,107W-2025-01884-Riley-DeMattos-CoW,Riley De Mattos,https://www.faa.gov/sites/faa.gov/files/107W-2025-01884-Riley-DeMattos-CoW.pdf,exclude,,False,ok,17760
+2025-07-10,107W-2025-01985-Robert-Mancill-CoW,"Brasfield & Gorrie, L.L.C.",https://www.faa.gov/sites/faa.gov/files/107W-2025-01985-Robert-Mancill-CoW.pdf,exclude,,False,ok,17939
+2025-07-10,107W-2025-02337-Matthew-Rybar-CoW,Unmanned Vehicle Technologies,https://www.faa.gov/sites/faa.gov/files/107W-2025-02337-Matthew-Rybar-CoW.pdf,exclude,,False,ok,25809
+2025-07-14,107W-2025-01731-Keith-Craft-CoW,Houma Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-01731-Keith-Craft-CoW.pdf,exclude,,False,ok,11240
+2025-07-14,107W-2025-02013-Jason-Goodick-CoW,Entergy UAS,https://www.faa.gov/sites/faa.gov/files/107W-2025-02013-Jason-Goodick-CoW.pdf,exclude,,False,ok,17294
+2025-07-14,107W-2025-02441-Cody-Shafer-CoW,Blue Origin LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-02441-Cody-Shafer-CoW.pdf,exclude,,False,ok,18749
+2025-07-16,107W-2025-01857-Jordan-Boetcher-CoW,Omaha Public Power District,https://www.faa.gov/sites/faa.gov/files/107W-2025-01857-Jordan-Boetcher-CoW.pdf,exclude,,False,ok,18364
+2025-07-17,107W-2025-02176-Craig-Grunenfelder-CoW,GPTLHB,https://www.faa.gov/sites/faa.gov/files/107W-2025-02176-Craig-Grunenfelder-CoW.pdf,exclude,,False,ok,16994
+2025-07-18,107W-2025-02606-Kevin-Watts-CoW,Union Pacific Railroad,https://www.faa.gov/sites/faa.gov/files/107W-2025-02606-Kevin-Watts-CoW.pdf,exclude,,False,ok,11275
+2025-07-18,107W-2025-02610-Justin-Brannon-CoW,Union Public Safety Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-02610-Justin-Brannon-CoW.pdf,exclude,,False,ok,11256
+2025-07-22,107W-2025-02166-Brent-York-CoW,BNSF Railway,https://www.faa.gov/sites/faa.gov/files/107W-2025-02166-Brent-York-CoW.pdf,exclude,,False,ok,20267
+2025-07-23,107W-2025-02364-Jonathon-Gruenewald-CoW,Pogue Construction,https://www.faa.gov/sites/faa.gov/files/107W-2025-02364-Jonathon-Gruenewald-CoW.pdf,exclude,,False,ok,17193
+2025-07-23,107W-2025-02435-Nino-Efendic-CoW,Aerial Prospex LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-02435-Nino-Efendic-CoW.pdf,exclude,,False,ok,19206
+2025-07-23,107W-2025-02656-Robert-Damuth-CoW,El Paso County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-02656-Robert-Damuth-CoW.pdf,exclude,,False,ok,11269
+2025-07-25,107W-2025-02493-John-OKeefe-CoW,El Dorado County Search and Rescue Council Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-02493-John-OKeefe-CoW.pdf,exclude,,False,ok,11298
+2025-07-25,107W-2025-02762-Patrick-Fish-CoW,West Plainfield Fire Protection District,https://www.faa.gov/sites/faa.gov/files/107W-2025-02762-Patrick-Fish-CoW.pdf,exclude,,False,ok,11277
+2025-07-28,107W-2025-01942-Jonathan-Harris-CoW,Osmose Utilities Services,https://www.faa.gov/sites/faa.gov/files/107W-2025-01942-Jonathan-Harris-CoW.pdf,exclude,,False,ok,15873
+2025-07-28,107W-2025-02128-Timothy-Smith-CoW,MLGW,https://www.faa.gov/sites/faa.gov/files/107W-2025-02128-Timothy-Smith-CoW.pdf,exclude,,False,ok,19235
+2025-07-28,107W-2025-02208-Lauren-Morin-CoW,Firmatek Team,https://www.faa.gov/sites/faa.gov/files/107W-2025-02208-Lauren-Morin-CoW.pdf,exclude,,False,ok,16424
+2025-07-28,107W-2025-02324-Aaron-Zeff-CoW,"Community Oriented Patrol & Security, Inc",https://www.faa.gov/sites/faa.gov/files/107W-2025-02324-Aaron-Zeff-CoW.pdf,exclude,,False,ok,18049
+2025-07-28,107W-2025-02693-Matthew-Rybar-CoW,RYENT L.L.C.,https://www.faa.gov/sites/faa.gov/files/107W-2025-02693-Matthew-Rybar-CoW.pdf,exclude,,False,ok,20228
+2025-07-29,107W-2025-02398-Lauren-Morin-CoW,Firmatek Team,https://www.faa.gov/sites/faa.gov/files/107W-2025-02398-Lauren-Morin-CoW.pdf,exclude,,False,ok,16996
+2025-07-30,107W-2025-02298,Flying Lion Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-02298%20James%20Richardson%20-%20CoW.pdf,exclude,,False,ok,16533
+2025-07-31,107W-2025-02442-Tyler-Gibson-CoW,Helios Visions,https://www.faa.gov/sites/faa.gov/files/107W-2025-02442-Tyler-Gibson-CoW.pdf,exclude,,False,ok,15637
+2025-08-01,107W-2025-02450-Charles-Lupton-CoW,Air Views Media LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-02450-Charles-Lupton-CoW.pdf,exclude,,False,ok,20002
+2025-08-01,107W-2025-02858-Claude-Langham-CoW,City of Pea Ridge,https://www.faa.gov/sites/faa.gov/files/107W-2025-02858-Claude-Langham-CoW.pdf,exclude,,False,ok,11238
+2025-08-06,107W-2025-02290-Brian-Owens-CoW,Joshua Marriott,https://www.faa.gov/sites/faa.gov/files/107W-2025-02290-Brian-Owens-CoW.pdf,exclude,,False,ok,15598
+2025-08-06,107W-2025-02714,Highlands County Sheriffs Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-02714%20Glenn%20Burnsed%20-%20CoW.pdf,exclude,,False,ok,11275
+2025-08-06,107W-2025-02917,West Milwaukee Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-02917%20Travis%20Day%20-%20CoW.pdf,exclude,,False,ok,11270
+2025-08-07,107W-2025-02810-Andrew-Regnier-CoW,Great River Energy,https://www.faa.gov/sites/faa.gov/files/107W-2025-02810-Andrew-Regnier-CoW.pdf,exclude,,False,ok,22774
+2025-08-07,107W-2025-02879-Santos-Guerra-CoW,Energix Renewables,https://www.faa.gov/sites/faa.gov/files/107W-2025-02879-Santos-Guerra-CoW.pdf,exclude,,False,ok,18112
+2025-08-12,107W-2025-02171,Chevron North America,https://www.faa.gov/sites/faa.gov/files/107W-2025-02171%20Richard%20Hurley%20-%20CoW.pdf,exclude,,False,ok,18709
+2025-08-13,107W-2025-02525-Tyson-Harrison-CoW,St. Lucie County Sheriff,https://www.faa.gov/sites/faa.gov/files/107W-2025-02525-Tyson-Harrison-CoW.pdf,exclude,,False,ok,19641
+2025-08-13,107W-2025-02572-Daniel-Kammer-CoW,The Ohio Department of Transportation,https://www.faa.gov/sites/faa.gov/files/107W-2025-02572-Daniel-Kammer-CoW.pdf,exclude,,False,ok,17588
+2025-08-13,107W-2025-02662-Roy-Dove-CoW,Dove Aerial Services LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-02662-Roy-Dove-CoW.pdf,exclude,,False,ok,23285
+2025-08-13,107W-2025-02671-Anders-Faurholdt-CoW,GATX Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-02671-Anders-Faurholdt-CoW.pdf,exclude,,False,ok,18587
+2025-08-18,107W-2025-01441-Gino-Basilotta-CoW,BRINC,https://www.faa.gov/sites/faa.gov/files/107W-2025-01441-Gino-Basilotta-CoW.pdf,exclude,,False,ok,19036
+2025-08-18,107W-2025-02135-James-Pierce-CoW,Ameren,https://www.faa.gov/sites/faa.gov/files/107W-2025-02135-James-Pierce-CoW.pdf,exclude,,False,ok,16177
+2025-08-19,107W-2025-02106-Tyler-Gibson-CoW,Helios Visions,https://www.faa.gov/sites/faa.gov/files/107W-2025-02106-Tyler-Gibson-CoW.pdf,exclude,,False,ok,19181
+2025-08-19,107W-2025-02779-Matthew-Merced-CoW,"Rising Tide Technology Group, Inc",https://www.faa.gov/sites/faa.gov/files/107W-2025-02779-Matthew-Merced-CoW.pdf,exclude,,False,ok,18305
+2025-08-20,107W-2025-02267-Reggie-Wycoff-CoW,Shell Pipeline Company,https://www.faa.gov/sites/faa.gov/files/107W-2025-02267-Reggie-Wycoff-CoW.pdf,exclude,,False,ok,22141
+2025-08-20,107W-2025-02668-David-Martin-CoW,Springfield Ma Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-02668-David-Martin-CoW.pdf,exclude,,False,ok,11263
+2025-08-20,107W-2025-02700-Dylan-Allen-CoW,Swiflite Aircraft Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-02700-Dylan-Allen-CoW.pdf,exclude,,False,ok,17547
+2025-08-20,107W-2025-02952-Eric-Losey-CoW,Humboldt County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-02952-Eric-Losey-CoW.pdf,exclude,,False,ok,11260
+2025-08-21,107W-2025-02542-Jonathan-Harris-CoW,Osmose Utilities Services,https://www.faa.gov/sites/faa.gov/files/107W-2025-02542-Jonathan-Harris-CoW.pdf,exclude,,False,ok,16758
+2025-08-25,107W-2025-02108-Cristian-Maury-CoW,"Manna Drone Delivery, Inc",https://www.faa.gov/sites/faa.gov/files/107W-2025-02108-Cristian-Maury-CoW.pdf,exclude,,False,ok,24228
+2025-08-25,107W-2025-02363-Girard-Tell-CoW,"General Dynamics Information Technology, Inc",https://www.faa.gov/sites/faa.gov/files/107W-2025-02363-Girard-Tell-CoW.pdf,exclude,,False,ok,18502
+2025-08-25,107W-2025-02453-Charles-Lupton-CoW,Air Views Media LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-02453-Charles-Lupton-CoW.pdf,exclude,,False,ok,11774
+2025-08-25,107W-2025-02951-Russell-Kline-CoW,Drone Express,https://www.faa.gov/sites/faa.gov/files/107W-2025-02951-Russell-Kline-CoW.pdf,exclude,,False,ok,23649
+2025-08-25,107W-2025-03139-John-Harlacker-CoW,Swatara Township Fire Dept,https://www.faa.gov/sites/faa.gov/files/107W-2025-03139-John-Harlacker-CoW.pdf,exclude,,False,ok,11273
+2025-08-26,107W-2025-02543-Ali-Yildiz-CoW,CVE North America Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-02543-Ali-Yildiz-CoW.pdf,exclude,,False,ok,15501
+2025-08-26,107W-2025-02731-Eugene-McGuinness-CoW,Zipline International Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-02731-Eugene-McGuinness-CoW.pdf,exclude,,False,ok,21998
+2025-08-27,107W-2025-02570-Joseph-Boucher-CoW,Robotic Services,https://www.faa.gov/sites/faa.gov/files/107W-2025-02570-Joseph-Boucher-CoW.pdf,exclude,,False,ok,17799
+2025-08-27,107W-2025-02902-Alexander-Norman-Elvenich-CoW,Matternet,https://www.faa.gov/sites/faa.gov/files/107W-2025-02902-Alexander-Norman-Elvenich-CoW.pdf,exclude,,False,ok,21908
+2025-09-01,107W-2025-02840-Roger-Oneill-CoW,Overhead Intelligence,https://www.faa.gov/sites/faa.gov/files/107W-2025-02840-Roger-Oneill-CoW.pdf,exclude,,False,ok,18856
+2025-09-02,107W-2025-01254-Chris-Jackman-CoW,Wing,https://www.faa.gov/sites/faa.gov/files/107W-2025-01254-Chris-Jackman-CoW.pdf,exclude,,False,ok,24203
+2025-09-02,107W-2025-02459-Rhys-Andersen-CoW,OVRWatch,https://www.faa.gov/sites/faa.gov/files/107W-2025-02459-Rhys-Andersen-CoW.pdf,exclude,,False,ok,17271
+2025-09-02,107W-2025-02479-Justin-Macialek-CoW,NC State University,https://www.faa.gov/sites/faa.gov/files/107W-2025-02479-Justin-Macialek-CoW.pdf,exclude,,False,ok,16921
+2025-09-04,107W-2025-02729-Tyler-Friend-CoW,OVRAIR,https://www.faa.gov/sites/faa.gov/files/107W-2025-02729-Tyler-Friend-CoW.pdf,exclude,,False,ok,14359
+2025-09-04,107W-2025-02743-Joseph-Ghiorso-CoW,JOSEPH,https://www.faa.gov/sites/faa.gov/files/107W-2025-02743-Joseph-Ghiorso-CoW.pdf,exclude,,False,ok,16220
+2025-09-08,107W-2025-02540-Madison-Taylor-CoW,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-02540-Madison-Taylor-CoW.pdf,exclude,,False,ok,18024
+2025-09-08,107W-2025-03342-Madison-Taylor-CoW,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-03342-Madison-Taylor-CoW.pdf,exclude,,False,ok,23210
+2025-09-10,107W-2025-01903-Luke-Butler-CoW,"FlyGuys, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-01903-Luke-Butler-CoW.pdf,exclude,,False,ok,19912
+2025-09-10,107W-2025-02588-Dustin-Cole-CoW,Dustin Cole,https://www.faa.gov/sites/faa.gov/files/107W-2025-02588-Dustin-Cole-CoW.pdf,exclude,,False,ok,19880
+2025-09-10,107W-2025-03012-Ryan-Neveau-CoW,Hampton Township Public Safety,https://www.faa.gov/sites/faa.gov/files/107W-2025-03012-Ryan-Neveau-CoW.pdf,exclude,,False,ok,11270
+2025-09-10,107W-2025-03013-Daniel-Landry-CoW,Bronto,https://www.faa.gov/sites/faa.gov/files/107W-2025-03013-Daniel-Landry-CoW.pdf,exclude,,False,ok,18454
+2025-09-10,107W-2025-03036-Ben-Lewis-CoW,Valero Energy Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-03036-Ben-Lewis-CoW.pdf,exclude,,False,ok,18207
+2025-09-10,107W-2025-03318-Jeremy-Hooks-CoW,City of Whiteville Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03318-Jeremy-Hooks-CoW.pdf,exclude,,False,ok,11283
+2025-09-10,107W-2025-03328-Ethan-Weniger-CoW,Normal Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03328-Ethan-Weniger-CoW.pdf,exclude,,False,ok,11256
+2025-09-15,107W-2025-02851-Aharon-Levi-CoW,Blip Delivery Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-02851-Aharon-Levi-CoW.pdf,exclude,,False,ok,20100
+2025-09-15,107W-2025-03420-Dennis-Eckenrode-CoW,Derry Township Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03420-Dennis-Eckenrode-CoW.pdf,exclude,,False,ok,11277
+2025-09-16,107W-2025-02868-Steve-Oscar-CoW,Las Vegas Metropolitan Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-02868-Steve-Oscar-CoW.pdf,exclude,,False,ok,23099
+2025-09-17,107W-2025-02680-Levi-Johnson-CoW,Levi Johnson,https://www.faa.gov/sites/faa.gov/files/107W-2025-02680-Levi-Johnson-CoW.pdf,exclude,,False,ok,18189
+2025-09-17,107W-2025-03231-Mason-McGinty-CoW,Terabase Energy,https://www.faa.gov/sites/faa.gov/files/107W-2025-03231-Mason-McGinty-CoW.pdf,exclude,,False,ok,20830
+2025-09-18,107W-2025-01777-Devon-Edwards-CoW,"SB Flight Training, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2025-01777-Devon-Edwards-CoW.pdf,exclude,,False,ok,23355
+2025-09-18,107W-2025-03047-Robert-John-Ford-CoW,Southern California Edison,https://www.faa.gov/sites/faa.gov/files/107W-2025-03047-Robert-John-Ford-CoW.pdf,exclude,,False,ok,16558
+2025-09-20,107W-2025-02327-Jorge-Sanchez-Hidalgo-CoW,AERIALOOP,https://www.faa.gov/sites/faa.gov/files/107W-2025-02327-Jorge-Sanchez-Hidalgo-CoW.pdf,exclude,,False,ok,21517
+2025-09-22,107W-2025-02276-Justin-Anderson-CoW,EDKO LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-02276-Justin-Anderson-CoW.pdf,exclude,,False,ok,18309
+2025-09-22,107W-2025-02908-Jason-Wood-CoW,Pilot Institute,https://www.faa.gov/sites/faa.gov/files/107W-2025-02908-Jason-Wood-CoW.pdf,exclude,,False,ok,22643
+2025-09-22,107W-2025-03519-Joshua-Greene-CoW,Americus Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03519-Joshua-Greene-CoW.pdf,exclude,,False,ok,11261
+2025-09-22,107W-2025-03555-Christopher-Fischer-CoW,Whitestown Metropolitan Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03555-Christopher-Fischer-CoW.pdf,exclude,,False,ok,11299
+2025-09-23,107W-2025-02734-Leo-Del-Castillo-CoW,Echodyne,https://www.faa.gov/sites/faa.gov/files/107W-2025-02734-Leo-Del-Castillo-CoW.pdf,exclude,,False,ok,18936
+2025-09-23,107W-2025-03060-Brandon-DuMontier-CoW,Marathon Petroleum Co,https://www.faa.gov/sites/faa.gov/files/107W-2025-03060-Brandon-DuMontier-CoW.pdf,exclude,,False,ok,17404
+2025-09-23,107W-2025-03075-Adam-Fyrer-CoW,Adam Fyrer,https://www.faa.gov/sites/faa.gov/files/107W-2025-03075-Adam-Fyrer-CoW.pdf,exclude,,False,ok,16094
+2025-09-23,107W-2025-03236-Arthur-Hernandez-CoW,"AT&T Services, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-03236-Arthur-Hernandez-CoW.pdf,exclude,,False,ok,18036
+2025-09-23,107W-2025-03242-Aaron-Jones-CoW,Morgan Mill Volunteer Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03242-Aaron-Jones-CoW.pdf,exclude,,False,ok,11278
+2025-09-23,107W-2025-03471-Janna-Jackson-CoW,Red Bay Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03471-Janna-Jackson-CoW.pdf,exclude,,False,ok,11255
+2025-09-23,107W-2025-03559-Josh-Humphrey-CoW,Iowa County Emergency Management,https://www.faa.gov/sites/faa.gov/files/107W-2025-03559-Josh-Humphrey-CoW.pdf,exclude,,False,ok,11269
+2025-09-24,107W-2025-03152-David-Martinez-CoW,Flogistix,https://www.faa.gov/sites/faa.gov/files/107W-2025-03152-David-Martinez-CoW.pdf,exclude,,False,ok,20608
+2025-09-25,107W-2025-02684-Brandon-Karr-CoW,Brandon Karr (DroneSense),https://www.faa.gov/sites/faa.gov/files/107W-2025-02684-Brandon-Karr-CoW.pdf,exclude,,False,ok,16055
+2025-09-25,107W-2025-03048-Robert-Ford-CoW,Southern California Edison,https://www.faa.gov/sites/faa.gov/files/107W-2025-03048-Robert-Ford-CoW.pdf,exclude,,False,ok,17281
+2025-09-25,107W-2025-03126-Eric-Ebert-CoW,Falcon Unmanned Systems,https://www.faa.gov/sites/faa.gov/files/107W-2025-03126-Eric-Ebert-CoW.pdf,exclude,,False,ok,22105
+2025-09-25,107W-2025-03171-Cesar-Avila-CoW,"Top Flavor Farms, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-03171-Cesar-Avila-CoW.pdf,exclude,,False,ok,16533
+2025-09-29,107W-2025-03177-Matthew-Lengel-CoW,New York State Canal Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-03177-Matthew-Lengel-CoW.pdf,exclude,,False,ok,18175
+2025-09-29,107W-2025-03581-Michael-Ryan-CoW,Grosse Pointe Farms DPS,https://www.faa.gov/sites/faa.gov/files/107W-2025-03581-Michael-Ryan-CoW.pdf,exclude,,False,ok,11261
+2025-09-29,107W-2025-03582-Shelby-Curtis-CoW,Montgomery County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-03582-Shelby-Curtis-CoW.pdf,exclude,,False,ok,11284
+2025-09-29,107W-2025-03586-William-Weems-CoW,Giddings Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03586-William-Weems-CoW.pdf,exclude,,False,ok,11266
+2025-09-29,107W-2025-03587-Joseph-Rhinier-CoW,Laurel Mountain K9 Search and Rescue,https://www.faa.gov/sites/faa.gov/files/107W-2025-03587-Joseph-Rhinier-CoW.pdf,exclude,,False,ok,11282
+2025-09-29,107W-2025-03611-Jackson-Harris-CoW,Solano County Sheriff’s Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-03611-Jackson-Harris-CoW.pdf,exclude,,False,ok,11275
+2025-09-29,107W-2025-03631-Matt-Kalscheuer-CoW,FOS Drones LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-03631-Matt-Kalscheuer-CoW.pdf,exclude,,False,ok,16847
+2025-09-30,107W-2025-02943-Matthew-Sargeant-CoW,Avol Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-02943-Matthew-Sargeant-CoW.pdf,exclude,,False,ok,21346
+2025-09-30,107W-2025-03118-Jim-Arrowood-CoW,"ONEOK, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-03118-Jim-Arrowood-CoW.pdf,exclude,,False,ok,17358
+2025-09-30,107W-2025-03168-Ryan-Robb-Joseph-CoW,Talon Aerolytics,https://www.faa.gov/sites/faa.gov/files/107W-2025-03168-Ryan-Robb-Joseph-CoW.pdf,exclude,,False,ok,18564
+2025-10-15,107W-2025-03704-Matt-Dill-CoW,Matt Dill,https://www.faa.gov/sites/faa.gov/files/107W-2025-03704-Matt-Dill-CoW.pdf,exclude,,False,ok,20773
+2025-10-16,107W-2025-03662-Kyle-Williams-CoW,Eugene Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03662-Kyle-Williams-CoW.pdf,exclude,,False,ok,11255
+2025-10-16,107W-2025-03672-Nicholas-Chiorello-CoW,Middlesex County Prosecutor's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-03672-Nicholas-Chiorello-CoW.pdf,exclude,,False,ok,11300
+2025-10-16,107W-2025-03771-David-Kivett-CoW,Lewisville Vol Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03771-David-Kivett-CoW.pdf,exclude,,False,ok,11277
+2025-10-16,107W-2025-03783-Mick-Geisser-CoW,Dixon Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03783-Mick-Geisser-CoW.pdf,exclude,,False,ok,11245
+2025-10-16,107W-2025-03799-Joseph-Lefebvre-CoW,Clinton PD,https://www.faa.gov/sites/faa.gov/files/107W-2025-03799-Joseph-Lefebvre-CoW.pdf,exclude,,False,ok,11258
+2025-10-16,107W-2025-03801-Zachary-Adkins-CoW,Valley Fire & Rescue,https://www.faa.gov/sites/faa.gov/files/107W-2025-03801-Zachary-Adkins-CoW.pdf,exclude,,False,ok,11253
+2025-10-16,107W-2025-03802-John-Overacker-CoW,Town of Perinton,https://www.faa.gov/sites/faa.gov/files/107W-2025-03802-John-Overacker-CoW.pdf,exclude,,False,ok,11240
+2025-10-16,107W-2025-03861-Jeffrey-Kubasek-CoW,Worthington Division of Police,https://www.faa.gov/sites/faa.gov/files/107W-2025-03861-Jeffrey-Kubasek-CoW.pdf,exclude,,False,ok,11281
+2025-10-16,107W-2025-03864-Tyler-Redd-CoW,City of Lexington,https://www.faa.gov/sites/faa.gov/files/107W-2025-03864-Tyler-Redd-CoW.pdf,exclude,,False,ok,11239
+2025-10-17,107W-2025-03842-Jonathan-Juhl-CoW,Columbus County Emergency Services UAS Program,https://www.faa.gov/sites/faa.gov/files/107W-2025-03842-Jonathan-Juhl-CoW.pdf,exclude,,False,ok,11304
+2025-10-20,107W-2025-00366-Mike-Laden-CoW,North Port Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00366-Mike-Laden-CoW.pdf,exclude,,False,ok,11262
+2025-10-20,107W-2025-03651-Christopher-Morrow-CoW,"[Amazon.com Services, LLC's](Amazon)",https://www.faa.gov/sites/faa.gov/files/107W-2025-03651-Christopher-Morrow-CoW.pdf,exclude,,False,ok,16997
+2025-10-20,107W-2025-03846-Franz-Hankins-CoW,Monument Fire,https://www.faa.gov/sites/faa.gov/files/107W-2025-03846-Franz-Hankins-CoW.pdf,exclude,,False,ok,11232
+2025-10-21,107W-2025-03215-Scott-Lashmit-CoW,Cyberhawk Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-03215-Scott-Lashmit-CoW.pdf,exclude,,False,ok,20392
+2025-10-22,107W-2025-03230-Nick-Lasko-CoW,Avista Utilities,https://www.faa.gov/sites/faa.gov/files/107W-2025-03230-Nick-Lasko-CoW.pdf,exclude,,False,ok,22151
+2025-10-22,107W-2025-03283-Randall-Langton-CoW,LuluPepper Media LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-03283-Randall-Langton-CoW.pdf,exclude,,False,ok,22581
+2025-10-23,107W-2025-03255-Austin-Hall-CoW,Island Conservation,https://www.faa.gov/sites/faa.gov/files/107W-2025-03255-Austin-Hall-CoW.pdf,exclude,,False,ok,21524
+2025-10-23,107W-2025-03354-Trevor-Adams-CoW,"JV Farms, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-03354-Trevor-Adams-CoW.pdf,exclude,,False,ok,22783
+2025-10-23,107W-2025-03380-Kent-Moyer-CoW,Kent Moyer,https://www.faa.gov/sites/faa.gov/files/107W-2025-03380-Kent-Moyer-CoW.pdf,exclude,,False,ok,23757
+2025-10-28,107W-2025-02925-Joel-Sherman-CoW,"TraceAir Technologies, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2025-02925-Joel-Sherman-CoW.pdf,exclude,,False,ok,17208
+2025-10-28,107W-2025-02958-Bruce-Hudson-CoW,Skyfire AI,https://www.faa.gov/sites/faa.gov/files/107W-2025-02958-Bruce-Hudson-CoW.pdf,exclude,,False,ok,17208
+2025-10-28,107W-2025-02987-Ian-Oliver-CoW,Denver Water,https://www.faa.gov/sites/faa.gov/files/107W-2025-02987-Ian-Oliver-CoW.pdf,exclude,,False,ok,16604
+2025-10-28,107W-2025-03014-William-Moskowitz-CoW,William Moskowitz,https://www.faa.gov/sites/faa.gov/files/107W-2025-03014-William-Moskowitz-CoW.pdf,exclude,,False,ok,18702
+2025-10-28,107W-2025-03091-Austin-Lay-CoW,Layton Construction,https://www.faa.gov/sites/faa.gov/files/107W-2025-03091-Austin-Lay-CoW.pdf,exclude,,False,ok,19504
+2025-10-28,107W-2025-03711-Andrew-McCauley-CoW,BGE UAS,https://www.faa.gov/sites/faa.gov/files/107W-2025-03711-Andrew-McCauley-CoW.pdf,exclude,,False,ok,17353
+2025-10-29,107W-2025-03436-Patrick-Kerscher-CoW,El Paso County Search and Rescue UAS,https://www.faa.gov/sites/faa.gov/files/107W-2025-03436-Patrick-Kerscher-CoW.pdf,exclude,,False,ok,18976
+2025-10-29,107W-2025-03911-Michael-Rigby-CoW,Zipline International Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-03911-Michael-Rigby-CoW.pdf,exclude,,False,ok,21544
+2025-10-29,107W-2025-03919-Michael-Rigby-CoW,Zipline International Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-03919-Michael-Rigby-CoW.pdf,exclude,,False,ok,21247
+2025-10-30,107W-2025-03422-Kyle-Seppanen-CoW,Kyle Seppanen,https://www.faa.gov/sites/faa.gov/files/107W-2025-03422-Kyle-Seppanen-CoW.pdf,exclude,,False,ok,17198
+2025-10-30,107W-2025-03574-Robert-Eguires-CoW,Robert Eguires,https://www.faa.gov/sites/faa.gov/files/107W-2025-03574-Robert-Eguires-CoW.pdf,exclude,,False,ok,20329
+2025-11-01,107W-2025-04009-Robert-Eguires-CoW,Starkville Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-04009-Robert-Eguires-CoW.pdf,exclude,,False,ok,11264
+2025-11-03,107W-2025-04030-Jerome-Roberts-CoW,Baldwin County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-04030-Jerome-Roberts-CoW.pdf,exclude,,False,ok,11485
+2025-11-05,107W-2025-03018-Abram-Huey-CoW,Abram Huey,https://www.faa.gov/sites/faa.gov/files/107W-2025-03018-Abram-Huey-CoW.pdf,exclude,,False,ok,21364
+2025-11-05,107W-2025-03254-Zachary-Roach-CoW,Xcel Energy,https://www.faa.gov/sites/faa.gov/files/107W-2025-03254-Zachary-Roach-CoW.pdf,exclude,,False,ok,23495
+2025-11-05,107W-2025-03889-Caleb-Kiser-CoW,BHE Renewables LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-03889-Caleb-Kiser-CoW.pdf,exclude,,False,ok,17409
+2025-11-06,107W-2025-03745-Victor-Moss-CoW,Moss Photography,https://www.faa.gov/sites/faa.gov/files/107W-2025-03745-Victor-Moss-CoW.pdf,exclude,,False,ok,19879
+2025-11-07,107W-2025-04071-Raviv-Raz-CoW,Percepto Robotics Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-04071-Raviv-Raz-CoW.pdf,exclude,,False,ok,14317
+2025-11-12,107W-2025-03298-Dylan-Bloechel-CoW,Kennecott Utah Copper LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-03298-Dylan-Bloechel-CoW.pdf,exclude,,False,ok,24230
+2025-11-12,107W-2025-03579-Jacob-Guin-CoW,Public Service Company of New Mexico,https://www.faa.gov/sites/faa.gov/files/107W-2025-03579-Jacob-Guin-CoW.pdf,exclude,,False,ok,17136
+2025-11-12,107W-2025-03636-Joseph-Bowman-CoW,Cannon Beach Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03636-Joseph-Bowman-CoW.pdf,exclude,,False,ok,11271
+2025-11-12,107W-2025-03940-Tyler-Lupkes-CoW,Hennepin Healthcare EMS,https://www.faa.gov/sites/faa.gov/files/107W-2025-03940-Tyler-Lupkes-CoW.pdf,exclude,,False,ok,11266
+2025-11-12,107W-2025-03957-Dustin-Moe-CoW,Nevada County Sheriff,https://www.faa.gov/sites/faa.gov/files/107W-2025-03957-Dustin-Moe-CoW.pdf,exclude,,False,ok,11245
+2025-11-12,107W-2025-03983-Joseph-Puterbaugh-CoW,Teays Valley Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-03983-Joseph-Puterbaugh-CoW.pdf,exclude,,False,ok,11272
+2025-11-12,107W-2025-04028-Zach-Cicillian-CoW,Skyland Fire and Rescue,https://www.faa.gov/sites/faa.gov/files/107W-2025-04028-Zach-Cicillian-CoW.pdf,exclude,,False,ok,11253
+2025-11-12,107W-2025-04072-Raviv-Raz-CoW,Percepto Robotics Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-04072-Raviv-Raz-CoW.pdf,exclude,,False,ok,21204
+2025-11-12,107W-2025-04081-Rocky-Buffum-CoW,Cass County Emergency Management Agency,https://www.faa.gov/sites/faa.gov/files/107W-2025-04081-Rocky-Buffum-CoW.pdf,exclude,,False,ok,11290
+2025-11-12,107W-2025-04115-Joseph-Hope-CoW,Old Lycoming Volunteer Fire Company,https://www.faa.gov/sites/faa.gov/files/107W-2025-04115-Joseph-Hope-CoW.pdf,exclude,,False,ok,11276
+2025-11-12,107W-2025-04163-John-Lester-CoW,City of Sartell Public Safety Division,https://www.faa.gov/sites/faa.gov/files/107W-2025-04163-John-Lester-CoW.pdf,exclude,,False,ok,11281
+2025-11-12,107W-2025-04180-Lemuel-White-CoW,Somerset County Sheriff Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-04180-Lemuel-White-CoW.pdf,exclude,,False,ok,11267
+2025-11-12,107W-2025-04187-Aaron-Williams-CoW,City of New Bern Aviation Unit,https://www.faa.gov/sites/faa.gov/files/107W-2025-04187-Aaron-Williams-CoW.pdf,exclude,,False,ok,11268
+2025-11-13,107W-2025-03708-Robert-Wilhite-CoW,LJA,https://www.faa.gov/sites/faa.gov/files/107W-2025-03708-Robert-Wilhite-CoW.pdf,exclude,,False,ok,19779
+2025-11-13,107W-2025-03811-Andrew-McCauley-CoW,BGE UAS,https://www.faa.gov/sites/faa.gov/files/107W-2025-03811-Andrew-McCauley-CoW.pdf,exclude,,False,ok,18180
+2025-11-13,107W-2025-04191-Sherif-Zaiton-CoW,Watchung Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-04191-Sherif-Zaiton-CoW.pdf,exclude,,False,ok,11261
+2025-11-17,107W-2025-03208-Josh-Ward-CoW,Josh Ward,https://www.faa.gov/sites/faa.gov/files/107W-2025-03208-Josh-Ward-CoW.pdf,exclude,,False,ok,16636
+2025-11-17,107W-2025-03900-Justin-Padgett-CoW,Justin Padgett,https://www.faa.gov/sites/faa.gov/files/107W-2025-03900-Justin-Padgett-CoW.pdf,exclude,,False,ok,18288
+2025-11-18,107W-2025-01251-Jeff-McBrayer-CoW,Netarts Oceanside RFPD,https://www.faa.gov/sites/faa.gov/files/107W-2025-01251-Jeff-McBrayer-CoW.pdf,exclude,,False,ok,11298
+2025-11-18,107W-2025-0397-Robert-Russell-CoW,2A Tactical,https://www.faa.gov/sites/faa.gov/files/107W-2025-0397-Robert-Russell-CoW.pdf,exclude,,False,ok,18712
+2025-11-18,107W-2025-03988-Curtis-Lary-CoW,Hex Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-03988-Curtis-Lary-CoW.pdf,exclude,,False,ok,16796
+2025-11-19,107W-2025-03912-Michael-Rigby-CoW,Zipline International Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-03912-Michael-Rigby-CoW.pdf,exclude,,False,ok,23284
+2025-11-19,107W-2025-04035-Charles-Watts-CoW,New York City Office of Technology & Innovation,https://www.faa.gov/sites/faa.gov/files/107W-2025-04035-Charles-Watts-CoW.pdf,exclude,,False,ok,19546
+2025-11-19,107W-2025-04205-Luke-McVay-CoW,Crawfordsville Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-04205-Luke-McVay-CoW.pdf,exclude,,False,ok,11275
+2025-12-01,107W-2025-02759-Lauren-Morin-CoW,Firmatek Team,https://www.faa.gov/sites/faa.gov/files/107W-2025-02759-Lauren-Morin-CoW.pdf,exclude,,False,ok,20438
+2025-12-01,107W-2025-02871-Roger-Oneill-CoW,Overhead Intelligence,https://www.faa.gov/sites/faa.gov/files/107W-2025-02871-Roger-Oneill-CoW.pdf,exclude,,False,ok,19204
+2025-12-01,107W-2025-03952-Bryan-Buchelt-CoW,NiSource Corporate Services Company,https://www.faa.gov/sites/faa.gov/files/107W-2025-03952-Bryan-Buchelt-CoW.pdf,exclude,,False,ok,18670
+2025-12-02,107W-2025-04403-Daniel-Savard-CoW,Addieville Community Fire Protection District,https://www.faa.gov/sites/faa.gov/files/107W-2025-04403-Daniel-Savard-CoW.pdf,exclude,,False,ok,11302
+2025-12-03,107W-2025-03463-Jackson-Frankenhoff-CoW,ISight Drone Services,https://www.faa.gov/sites/faa.gov/files/107W-2025-03463-Jackson-Frankenhoff-CoW.pdf,exclude,,False,ok,20591
+2025-12-03,107W-2025-03665-Noel-Silva-CoW,GBR Drone and Robotics Team (DART),https://www.faa.gov/sites/faa.gov/files/107W-2025-03665-Noel-Silva-CoW.pdf,exclude,,False,ok,18530
+2025-12-04,107W-2025-01958-Aaron-Sykes-CoW,Grand Sky Airfield Operations LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-01958-Aaron-Sykes-CoW.pdf,exclude,,False,ok,26776
+2025-12-04,107W-2025-04020-Bryce-Allcorn-CoW,Bryce Allcorn,https://www.faa.gov/sites/faa.gov/files/107W-2025-04020-Bryce-Allcorn-CoW.pdf,exclude,,False,ok,18578
+2025-12-05,107W-2025-03214-Clarence-Shockley-CoW,Leidos Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-03214-Clarence-Shockley-CoW.pdf,exclude,,False,ok,23175
+2025-12-05,107W-2025-03216-Clarence-Shockley-CoW,ISAR Services,https://www.faa.gov/sites/faa.gov/files/107W-2025-03216-Clarence-Shockley-CoW.pdf,exclude,,False,ok,23168
+2025-12-08,107W-2025-03928-John-Helenberg-CoW,Milam County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2025-03928-John-Helenberg-CoW.pdf,exclude,,False,ok,11272
+2025-12-08,107W-2025-03978-Brad-Treas-CoW,Commissioners of Public Works of the City of Greenville,https://www.faa.gov/sites/faa.gov/files/107W-2025-03978-Brad-Treas-CoW.pdf,exclude,,False,ok,17807
+2025-12-08,107W-2025-04451-Jacob-Ulickey-CoW,Racine Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-04451-Jacob-Ulickey-CoW.pdf,exclude,,False,ok,11252
+2025-12-08,107W-2025-04482-Michael-Clark-CoW,Piedmont Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-04482-Michael-Clark-CoW.pdf,exclude,,False,ok,11257
+2025-12-09,107W-2025-03930-Anthony-Sam-CoW,Anthony Sam,https://www.faa.gov/sites/faa.gov/files/107W-2025-03930-Anthony-Sam-CoW.pdf,exclude,,False,ok,20963
+2025-12-09,107W-2025-04487-Lee-Brannon-CoW,Union County Emergency Management,https://www.faa.gov/sites/faa.gov/files/107W-2025-04487-Lee-Brannon-CoW.pdf,exclude,,False,ok,11272
+2025-12-11,107W-2025-04537-Samuel-Dixon-CoW,Prince William County Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-04537-Samuel-Dixon-CoW.pdf,exclude,,False,ok,11289
+2025-12-12,107W-2025-02038A-Alberto-Post-CoW,Airspace Link,https://www.faa.gov/sites/faa.gov/files/107W-2025-02038A-Alberto-Post-CoW.pdf,exclude,,False,ok,20155
+2025-12-16,107W-2025-04195-Tom-Prentice-CoW,Granite Defense Technologies,https://www.faa.gov/sites/faa.gov/files/107W-2025-04195-Tom-Prentice-CoW.pdf,exclude,,False,ok,16217
+2025-12-17,107W-2025-04064-Edward-Beckendorf-CoW,American Water,https://www.faa.gov/sites/faa.gov/files/107W-2025-04064-Edward-Beckendorf-CoW.pdf,exclude,,False,ok,17121
+2025-12-17,107W-2025-04172-Ezekiel-Naifeh-CoW,HF Sinclair,https://www.faa.gov/sites/faa.gov/files/107W-2025-04172-Ezekiel-Naifeh-CoW.pdf,exclude,,False,ok,17284
+2025-12-18,107W-2025-03174-Ryan-White-CoW,"SkyReach Drones, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2025-03174-Ryan-White-CoW.pdf,exclude,,False,ok,18781
+2025-12-18,107W-2025-04021-Bryce-Allcorn-CoW,Bryce Allcorn,https://www.faa.gov/sites/faa.gov/files/107W-2025-04021-Bryce-Allcorn-CoW.pdf,exclude,,False,ok,18748
+2025-12-18,107W-2025-04075-Joseph-Wiggins-CoW,Wiggins Family LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-04075-Joseph-Wiggins-CoW.pdf,exclude,,False,ok,18632
+2025-12-18,107W-2025-04089-Heather-Moran-CoW,Level Ascent Solutions LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-04089-Heather-Moran-CoW.pdf,exclude,,False,ok,19317
+2025-12-18,107W-2025-04230-Bryan-Salazar-CoW,Lyondellbasell,https://www.faa.gov/sites/faa.gov/files/107W-2025-04230-Bryan-Salazar-CoW.pdf,exclude,,False,ok,21009
+2025-12-18,107W-2025-04239-Nathaniel-Forton-CoW,HSV MW,https://www.faa.gov/sites/faa.gov/files/107W-2025-04239-Nathaniel-Forton-CoW.pdf,exclude,,False,ok,18625
+2025-12-19,107W-2025-04186-Edward-Ashley-CoW,Edward Ashley,https://www.faa.gov/sites/faa.gov/files/107W-2025-04186-Edward-Ashley-CoW.pdf,exclude,,False,ok,18816
+2025-12-19,107W-2025-04238-Matthew-Feinberg-CoW,Minooka Fire Protection District,https://www.faa.gov/sites/faa.gov/files/107W-2025-04238-Matthew-Feinberg-CoW.pdf,exclude,,False,ok,11273
+2025-12-23,107W-2025-04404-Camryn-Huff-CoW,"LandSkyAI, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2025-04404-Camryn-Huff-CoW.pdf,exclude,,False,ok,20190
+2025-12-23,107W-2025-04491-Andre-Louis-Ferdinand-CoW,Raptor Maps Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-04491-Andre-Louis-Ferdinand-CoW.pdf,exclude,,False,ok,19255
+2026-01-05,107W-2025-04092-Charles-Karlewicz-CoW,Vyanet Operating Group Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-04092-Charles-Karlewicz-CoW.pdf,exclude,,False,ok,17300
+2026-01-05,107W-2025-04097-Julien-Alameda-CoW,Arch Aerial LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-04097-Julien-Alameda-CoW.pdf,exclude,,False,ok,22500
+2026-01-05,107W-2025-04166-Angelo-Niforatos-CoW,ResilienX Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-04166-Angelo-Niforatos-CoW.pdf,exclude,,False,ok,21368
+2026-01-05,107W-2025-04598-Darren-Keralla-CoW,"Douglas County Search and Rescue Team, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-04598-Darren-Keralla-CoW.pdf,exclude,,False,ok,11291
+2026-01-06,107W-2025-04217-Pedro-Hernandez-CoW,Pedro Hernandez,https://www.faa.gov/sites/faa.gov/files/107W-2025-04217-Pedro-Hernandez-CoW.pdf,exclude,,False,ok,17569
+2026-01-07,107W-2025-04262-Thomas-Keary-CoW,"Titan Monitoring, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-04262-Thomas-Keary-CoW.pdf,exclude,,False,ok,19052
+2026-01-07,107W-2025-04287-Peter-Kalaitzidis-CoW,New York Power Authority,https://www.faa.gov/sites/faa.gov/files/107W-2025-04287-Peter-Kalaitzidis-CoW.pdf,exclude,,False,ok,20298
+2026-01-07,107W-2025-04308-Raymond-Debita-CoW,HF Sinclair,https://www.faa.gov/sites/faa.gov/files/107W-2025-04308-Raymond-Debita-CoW.pdf,exclude,,False,ok,17339
+2026-01-07,107W-2025-04322-Matthew-Stott-CoW,Matthew Stott,https://www.faa.gov/sites/faa.gov/files/107W-2025-04322-Matthew-Stott-CoW.pdf,exclude,,False,ok,18416
+2026-01-08,107W-2025-04277-Jon-Thies-CoW,National Grid Aviation Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-04277-Jon-Thies-CoW.pdf,exclude,,False,ok,24494
+2026-01-12,107W-2025-04090-Chris-Dolly-CoW,Eye-bot Aerial Solutions,https://www.faa.gov/sites/faa.gov/files/107W-2025-04090-Chris-Dolly-CoW.pdf,exclude,,False,ok,20379
+2026-01-12,107W-2025-04267-Lucas-Fiene-CoW,Edge Consulting Engineers,https://www.faa.gov/sites/faa.gov/files/107W-2025-04267-Lucas-Fiene-CoW.pdf,exclude,,False,ok,16294
+2026-01-12,107W-2025-04296-John-Sohl,PowderSkiPatrol,https://www.faa.gov/sites/faa.gov/files/107W-2025-04296-John-Sohl%20-CoW.pdf,exclude,,False,ok,19099
+2026-01-12,107W-2025-04424-Ramasadagopan-Periathiruvadi-CoW,Levit Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-04424-Ramasadagopan-Periathiruvadi-CoW.pdf,exclude,,False,ok,18834
+2026-01-14,107W-2025-04534-Jonathan-Frith-CoW,Enhanced Patrol LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-04534-Jonathan-Frith-CoW.pdf,exclude,,False,ok,31092
+2026-01-20,107W-2025-02320-Samuel-Adams-CoW,"Eagle-Eye Aerial Solutions, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2025-02320-Samuel-Adams-CoW.pdf,exclude,,False,ok,22577
+2026-01-20,107W-2026-00050-John-Curran-CoW,Pueblo of Pojoaque Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2026-00050-John-Curran-CoW.pdf,exclude,,False,ok,11280
+2026-01-21,107W-2025-05073-Russell-F-Osgood-CoW,Ogunquit Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-05073-Russell-F-Osgood-CoW.pdf,exclude,,False,ok,11254
+2026-01-21,107W-2026-00053-Jeffery-Wayne-Robitaille-CoW,Kerrville Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2026-00053-Jeffery-Wayne-Robitaille-CoW.pdf,exclude,,False,ok,11262
+2026-01-21,107W-2026-00058-Joshua-McCartan-CoW,University of Rochester Department of Public Safety,https://www.faa.gov/sites/faa.gov/files/107W-2026-00058-Joshua-McCartan-CoW.pdf,exclude,,False,ok,11317
+2026-01-21,107W-2026-00098-Ronald-Chivas-Clayton-CoW,Bedford County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2026-00098-Ronald-Chivas-Clayton-CoW.pdf,exclude,,False,ok,11280
+2026-01-22,107W-2025-05071-Ricky-Whaley-CoW,Flowery Branch Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-05071-Ricky-Whaley-CoW.pdf,exclude,,False,ok,11274
+2026-01-27,107W-2025-03831-Rob-Robertson-CoW,Deus X Defense,https://www.faa.gov/sites/faa.gov/files/107W-2025-03831-Rob-Robertson-CoW.pdf,exclude,,False,ok,19901
+2026-01-27,107W-2025-04463-Jenness-Keller-CoW,Jenness Keller,https://www.faa.gov/sites/faa.gov/files/107W-2025-04463-Jenness-Keller-CoW.pdf,exclude,,False,ok,18516
+2026-01-28,107W-2025-04069A-Devon-Edwards-CoW,"SB Flight Training, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2025-04069A-Devon-Edwards-CoW.pdf,exclude,,False,ok,19632
+2026-01-28,107W-2025-04306-Jonathan-Collazo-CoW,FireBot Labs Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-04306-Jonathan-Collazo-CoW.pdf,exclude,,False,ok,20612
+2026-01-28,107W-2026-00237-Anthony-Dean-Heady-CoW,Artesia Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2026-00237-Anthony-Dean-Heady-CoW.pdf,exclude,,False,ok,11261
+2026-01-28,107W-2026-00244-Micaiah-Joseph-Ledford-CoW,Albemarle County Fire Rescue,https://www.faa.gov/sites/faa.gov/files/107W-2026-00244-Micaiah-Joseph-Ledford-CoW.pdf,exclude,,False,ok,11288
+2026-01-29,107W-2025-04343-Justin-Nelson-CoW,Justin Nelson,https://www.faa.gov/sites/faa.gov/files/107W-2025-04343-Justin-Nelson-CoW.pdf,exclude,,False,ok,17876
+2026-01-29,107W-2025-04420-Dallas-Goodnight-CoW,Blue Ridge Electric Membership Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-04420-Dallas-Goodnight-CoW.pdf,exclude,,False,ok,21047
+2026-01-29,107W-2025-04590-Eohan-George-CoW,SkyMul,https://www.faa.gov/sites/faa.gov/files/107W-2025-04590-Eohan-George-CoW.pdf,exclude,,False,ok,17205
+2026-01-30,107W-2025-04290-Robert-Kuhn-CoW,GCU Public Safety Drone Team,https://www.faa.gov/sites/faa.gov/files/107W-2025-04290-Robert-Kuhn-CoW.pdf,exclude,,False,ok,22877
+2026-01-30,107W-2025-04333-Jeff-Goetzke-CoW,CHS INC,https://www.faa.gov/sites/faa.gov/files/107W-2025-04333-Jeff-Goetzke-CoW.pdf,exclude,,False,ok,16858
+2026-01-30,107W-2025-04439-William-Portash-CoW,"Enel North America, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-04439-William-Portash-CoW.pdf,exclude,,False,ok,17595
+2026-01-31,107W-2025-04589-Alexander-Norman-Elvenich-CoW,Matternet,https://www.faa.gov/sites/faa.gov/files/107W-2025-04589-Alexander-Norman-Elvenich-CoW.pdf,exclude,,False,ok,20086
+2026-02-01,107W-2025-04026-Catherine-Self-CoW,"Matador UAS Logistics, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2025-04026-Catherine-Self-CoW.pdf,exclude,,False,ok,18629
+2026-02-02,107W-2025-04352-Christopher-Morrow-CoW,"[Amazon.com Services, LLC's](Amazon)",https://www.faa.gov/sites/faa.gov/files/107W-2025-04352-Christopher-Morrow-CoW.pdf,exclude,,False,ok,23019
+2026-02-02,107W-2025-04445-John-Hutto-CoW,John Hutto,https://www.faa.gov/sites/faa.gov/files/107W-2025-04445-John-Hutto-CoW.pdf,exclude,,False,ok,17688
+2026-02-02,107W-2026-00280-Teddy-D-Wolfe-CoW,Orangeburg County Fire District,https://www.faa.gov/sites/faa.gov/files/107W-2026-00280-Teddy-D-Wolfe-CoW.pdf,exclude,,False,ok,11273
+2026-02-03,107W-2025-04280-Glenn-Johnson-CoW,Trust Automation Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-04280-Glenn-Johnson-CoW.pdf,exclude,,False,ok,18235
+2026-02-03,107W-2025-04479-Marvin-Browning-CoW,IOHK Drone Program,https://www.faa.gov/sites/faa.gov/files/107W-2025-04479-Marvin-Browning-CoW.pdf,exclude,,False,ok,19163
+2026-02-03,107W-2025-04509-John-Buvala-CoW,AirFoxPhotographyLLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-04509-John-Buvala-CoW.pdf,exclude,,False,ok,14460
+2026-02-04,107W-2025-04511-Brooke-Miller-CoW,Maverick Drone Systems LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-04511-Brooke-Miller-CoW.pdf,exclude,,False,ok,16958
+2026-02-04,107W-2026-00035-Thomas-Butler-CoW,Dominion Energy Unmanned Systems Group,https://www.faa.gov/sites/faa.gov/files/107W-2026-00035-Thomas-Butler-CoW.pdf,exclude,,False,ok,22902
+2026-02-05,107W-2025-04536-Andrew-Schwartz-CoW,New Jersey Transit Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-04536-Andrew-Schwartz-CoW.pdf,exclude,,False,ok,22879
+2026-02-05,107W-2025-04543-Austin-Kappes-CoW,AECOM Hunt,https://www.faa.gov/sites/faa.gov/files/107W-2025-04543-Austin-Kappes-CoW.pdf,exclude,,False,ok,20334
+2026-02-05,107W-2025-04545-Austin-Kappes-CoW,AECOM Hunt,https://www.faa.gov/sites/faa.gov/files/107W-2025-04545-Austin-Kappes-CoW.pdf,exclude,,False,ok,19606
+2026-02-06,107W-2025-04370-Jonathan-Collazo-CoW,FireBot Labs Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-04370-Jonathan-Collazo-CoW.pdf,exclude,,False,ok,19110
+2026-02-06,107W-2025-04541-Richard-Fox-CoW,The Ohio Department of Transportation,https://www.faa.gov/sites/faa.gov/files/107W-2025-04541-Richard-Fox-CoW.pdf,exclude,,False,ok,23054
+2026-02-11,107W-2025-04329-Samuel-Turner-CoW,Kentucky Transportation Cabinet,https://www.faa.gov/sites/faa.gov/files/107W-2025-04329-Samuel-Turner-CoW.pdf,exclude,,False,ok,17960
+2026-02-11,107W-2025-05003-Lance-Geren-CoW,Mesa Associates Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-05003-Lance-Geren-CoW.pdf,exclude,,False,ok,22590
+2026-02-11,107W-2026-00069-Jason-Demark-CoW,Humphreys County Sheriff’s Office,https://www.faa.gov/sites/faa.gov/files/107W-2026-00069-Jason-Demark-CoW.pdf,exclude,,False,ok,15566
+2026-02-11,107W-2026-00302-Bradley-Carlson-CoW,Pine County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2026-00302-Bradley-Carlson-CoW.pdf,exclude,,False,ok,15570
+2026-02-11,107W-2026-00305-Christopher-Renshaw-CoW,University of Connecticut Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2026-00305-Christopher-Renshaw-CoW.pdf,exclude,,False,ok,15592
+2026-02-11,107W-2026-00342-Christopher-Stanton-CoW,"University of Maryland, Baltimore Office of Emergency Management",https://www.faa.gov/sites/faa.gov/files/107W-2026-00342-Christopher-Stanton-CoW.pdf,exclude,,False,ok,15634
+2026-02-11,107W-2026-00343-Gregory-West-CoW,Richfield Fire Department,https://www.faa.gov/sites/faa.gov/files/107W-2026-00343-Gregory-West-CoW.pdf,exclude,,False,ok,15548
+2026-02-11,107W-2026-00368-Kyle-Yeh-CoW,Burlington Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2026-00368-Kyle-Yeh-CoW.pdf,exclude,,False,ok,15545
+2026-02-11,107W-2026-00370-Justin-Bellen-CoW,Strafford County Sheriff's Office,https://www.faa.gov/sites/faa.gov/files/107W-2026-00370-Justin-Bellen-CoW.pdf,exclude,,False,ok,15564
+2026-02-11,107W-2026-00374-Timothy-Justin-Crews-CoW,Salisbury Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2026-00374-Timothy-Justin-Crews-CoW.pdf,exclude,,False,ok,15566
+2026-02-12,107W-2025-05006-Thomas-F-Butler-CoW,Dominion Energy Unmanned Systems Group,https://www.faa.gov/sites/faa.gov/files/107W-2025-05006-Thomas-F-Butler-CoW.pdf,exclude,,False,ok,18734
+2026-02-13,107W-2025-05019-Peyton-Smith-CoW,R.B. Jergens,https://www.faa.gov/sites/faa.gov/files/107W-2025-05019-Peyton-Smith-CoW.pdf,exclude,,False,ok,18099
+2026-02-13,107W-2025-05022-Kaleb-Gould-CoW,Flock Group Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-05022-Kaleb-Gould-CoW.pdf,exclude,,False,ok,16992
+2026-02-15,107W-2025-04440A-Sam-Kim-CoW,Rainmaker Technology Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-04440A-Sam-Kim-CoW.pdf,exclude,,False,ok,20691
+2026-02-17,107W-2025-05013-Victor-Hugo-Migliore-CoW,ComEd UxS Program,https://www.faa.gov/sites/faa.gov/files/107W-2025-05013-Victor-Hugo-Migliore-CoW.pdf,exclude,,False,ok,16949
+2026-02-19,107W-2025-05035-Christopher-Bailey-CoW,MassDOT Aeronautics,https://www.faa.gov/sites/faa.gov/files/107W-2025-05035-Christopher-Bailey-CoW.pdf,exclude,,False,ok,22551
+2026-02-19,107W-2026-00279-Patrick-Rackley-CoW,American Electric Power,https://www.faa.gov/sites/faa.gov/files/107W-2026-00279-Patrick-Rackley-CoW.pdf,exclude,,False,ok,22572

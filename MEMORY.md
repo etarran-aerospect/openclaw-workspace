@@ -15,3 +15,6 @@
 - Desktop: agent identity `Claw-Desktop`.
 - Laptop: separate OpenClaw instance named `Claw-Laptop`.
 - Conway integration for this setup uses `mcporter` + `conway-terminal` (not `mcpServers` in `openclaw.json` on current tested builds).
+
+## Active project notes
+- AeroSpect website migration prep completed on 2026-02-26 with a packaged handoff for Lovable in `reports/website-handoff-2026-02-26/` (prompts, NDVI overlay TypeScript data, and asset checklist). Continue from this package in the next session.

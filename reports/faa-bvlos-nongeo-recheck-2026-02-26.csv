@@ -1,0 +1,227 @@
+issue,waiver_id,company,url,class,reason,text_len
+2023-11-03,107W-2023-02725,"ReadyMonitor, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2023-02725_Jesse_Stepler_CoW.pdf,non_geo,multi[-\s]?location; non[-\s]?geo,14149
+2025-04-23,107W-2025-00848-Heath-McLemore-CoW,Florida Power & Light Company,https://www.faa.gov/sites/faa.gov/files/107W-2025-00848-Heath-McLemore-CoW.pdf,non_geo,nationwide,17027
+2025-05-07,107W-2025-00857-Heath-McLemore-CoW,Florida Power & Light Company,https://www.faa.gov/sites/faa.gov/files/107W-2025-00857-Heath-McLemore-CoW.pdf,non_geo,nationwide,13920
+2022-02-08,107W-2022-00025,Christopher Duncan,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00025_Christopher_Duncan_CoW.pdf,geo_single,singular location limitation phrase,13793
+2022-04-04,107W-2022-00214,Massachusetts Dept of Transportation - Aeronautics Division UAS,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00214_Jeffrey_DeCarlo_CoW.pdf,geo_single,singular location limitation phrase,14197
+2022-04-07,107W-2022-00254,Unmanned Safety Institute,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00254_Devin_Allen_CoW.pdf,geo_single,singular location limitation phrase,13854
+2022-04-13,107W-2022-00133,Treeswift,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00133_Ian_Cameron_CoW.pdf,exclude,no explicit phrase match,13849
+2022-04-20,107W-2022-00623,Northern Plains UAS Test Site,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00623_Erin_Roesler_CoW.pdf,geo_single,singular location limitation phrase,13840
+2022-05-03,107W-2022-00219,SkyBridge Tactical,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00219_Bryan_Andrews_CoW.pdf,geo_single,singular location limitation phrase,13837
+2022-05-10,107W-2022-00350,Asylon,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00350_Brent_McLaughlin_CoW.pdf,non_geo,operations conducted under this waiver are limited to the locations described in the waiver application; limited to the locations described in the waiver application,20318
+2022-05-13,107W-2022-00607,New Jersey Transit Corporation,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00607_Andrew_Schwartz_CoW.pdf,geo_single,singular location limitation phrase,13849
+2022-05-24,107W-2022-00538,"Delek US Holdings, Inc.",https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00538_Grigor_Bambekov_CoW.pdf,exclude,no explicit phrase match,16652
+2022-05-24,107W-2022-00539,"Delek US Holdings, Inc.",https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00539_Grigor_Bambekov_CoW.pdf,exclude,no explicit phrase match,16651
+2022-07-01,107W-2022-01172,42air,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01172_Russell_Randol_CoW.pdf,geo_single,singular location limitation phrase,16686
+2022-07-01,107W-2022-01204,Kansas State University,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01204_Spencer_Schrader_CoW.pdf,geo_single,singular location limitation phrase,16535
+2022-07-07,107W-2022-01103,American Water,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01103_Christopher_Kahn_CoW.pdf,geo_single,singular location limitation phrase,16429
+2022-07-18,107W-2022-00970,Asylon,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-00970_Brent_McLaughlin_CoW.pdf,geo_single,singular location limitation phrase,17732
+2022-07-18,107W-2022-01031,Evergy,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01031_Michael_Kelly_CoW.pdf,geo_single,singular location limitation phrase,16491
+2022-07-18,107W-2022-01129,Thomas Walls,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01129_Thomas_Walls_CoW.pdf,geo_single,singular location limitation phrase,16473
+2022-07-18,107W-2022-01194,Weather Modification LLC,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01194_Alex_Sailsbury_CoW.pdf,geo_single,singular location limitation phrase,16731
+2022-07-19,107W-2022-01284,Davey Resource Group,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01284_Rachel_Miller_CoW.pdf,non_geo,operations conducted under this waiver are limited to the locations described in the waiver application; limited to the locations described in the waiver application,16480
+2022-07-29,107W-2022-01308,Valmont,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01308_Joseph_George_CoW.pdf,exclude,no explicit phrase match,52424
+2022-08-12,107W-2022-01705,The MITRE Corporation,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01705_Carrie_Rebhuhn_CoW.pdf,geo_single,singular location limitation phrase,17279
+2022-09-01,107W-2022-01798,Soaring Eagle Technologies,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01798_Noah_Ruiz_CoW.pdf,geo_single,singular location limitation phrase,16465
+2022-09-06,107W-2022-01785,Southern Company Services INC,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01785_Johnathan_Hitchcock_CoW.pdf,geo_single,singular location limitation phrase,16559
+2022-09-14,107W-2022-01839,"Alliance Engineering + Planning, LLC",https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01839_Robert_Wilhite_CoW.pdf,geo_single,singular location limitation phrase,16765
+2022-09-22,107W-2022-01841,Valmont,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01841_Joseph_George_CoW.pdf,geo_single,singular location limitation phrase,16570
+2022-10-17,107W-2022-01952,Koch Industries Inc,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01952_Tim_Shanfelt_CoW.pdf,geo_single,singular location limitation phrase,13972
+2022-10-19,107W-2022-01953,Koch Industries Inc,https://www.faa.gov/sites/faa.gov/files/faa_migrate/part-107-waiver/media/107W-2022-01953_Tim_Shanfelt_CoW.pdf,geo_single,singular location limitation phrase,13972
+2022-10-20,107W-2022-01958,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2022-01958_Nicole_Bonk_CoW.pdf,geo_single,singular location limitation phrase,16716
+2022-10-25,107W-2022-02032,Electric Power Board of Chattanooga,https://www.faa.gov/sites/faa.gov/files/107W-2022-02032_Gregory_Phillips_CoW.pdf,geo_single,singular location limitation phrase,16567
+2022-10-26,107W-2022-02126,AviSight,https://www.faa.gov/sites/faa.gov/files/107W-2022-02126_William_Odonnell_CoW.pdf,geo_single,singular location limitation phrase,14050
+2022-10-27,107W-2022-02234,Pacific Gas and Electric,https://www.faa.gov/sites/faa.gov/files/107W-2022-02234_Kellen_Kirk_CoW.pdf,geo_single,singular location limitation phrase,16628
+2022-11-01,107W-2022-02235,Pacific Gas and Electric,https://www.faa.gov/sites/faa.gov/files/107W-2022-02235_Kellen_Kirk_CoW.pdf,geo_single,singular location limitation phrase,16572
+2022-11-03,107W-2022-02312,Asylon,https://www.faa.gov/sites/faa.gov/files/107W-2022-02312_Brent_McLaughlin_CoW.pdf,geo_single,singular location limitation phrase,17390
+2022-11-17,107W-2022-02062,Thomas Swoyer,https://www.faa.gov/sites/faa.gov/files/107W-2022-02062_Thomas_Swoyer_CoW.pdf,geo_single,singular location limitation phrase,16748
+2022-12-14,107W-2022-00386,InDro Robotics Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2022-00386_Philip_Reece_CoW.pdf,non_geo,operations conducted under this waiver are limited to the locations described in the waiver application; limited to the locations described in the waiver application,16575
+2023-02-07,107W-2022-02628,Aims Community College,https://www.faa.gov/sites/faa.gov/files/107W-2022-02628_Jacob_Marshall_CoW.pdf,non_geo,operations conducted under this waiver are limited to the locations described in the waiver application; limited to the locations described in the waiver application,16478
+2023-02-07,107W-2023-00074,Areion UAS,https://www.faa.gov/sites/faa.gov/files/107W-2023-00074_John_Huguley_CoW.pdf,geo_single,singular location limitation phrase,16503
+2023-02-08,107W-2023-00001,Asylon,https://www.faa.gov/sites/faa.gov/files/107W-2023-00001_Brent_McLaughlin_CoW.pdf,geo_single,singular location limitation phrase,17422
+2023-03-06,107W-2023-00071,SkyBridge Tactical,https://www.faa.gov/sites/faa.gov/files/107W-2023-00071_Bryan_Andrews_CoW.pdf,geo_single,singular location limitation phrase,16531
+2023-03-28,107W-2023-00403,Tesla Inc,https://www.faa.gov/sites/faa.gov/files/107W-2023-00403_Alistair_Weddell_CoW.pdf,geo_single,singular location limitation phrase,16439
+2023-03-30,107W-2023-00258,Aerodyne Measure,https://www.faa.gov/sites/faa.gov/files/107W-2023-00258_Andy_Justicia_CoW.pdf,geo_single,singular location limitation phrase,16460
+2023-04-18,107W-2023-00310,Southern Company Services INC,https://www.faa.gov/sites/faa.gov/files/107W-2023-00310_Daniel_Humphries_CoW.pdf,exclude,no explicit phrase match,16729
+2023-04-28,107W-2023-00278,BGE UAS,https://www.faa.gov/sites/faa.gov/files/107W-2023-00278_Andrew_McCauley_CoW.pdf,geo_single,singular location limitation phrase,16440
+2023-04-28,107W-2023-00465,Phillip A.B. McCoy,https://www.faa.gov/sites/faa.gov/files/107W-2023-00465_Phillip_McCoy_CoW.pdf,non_geo,operations conducted under this waiver are limited to the locations described in the waiver application; limited to the locations described in the waiver application,16535
+2023-05-25,107W-2023-00847,Xcel Energy,https://www.faa.gov/sites/faa.gov/files/107W-2023-00847_Thomas_Stegge_CoW.pdf,geo_single,singular location limitation phrase,13338
+2023-05-25,107W-2023-00993,Xcel Energy,https://www.faa.gov/sites/faa.gov/files/107W-2023-00993_Thomas_Stegge_CoW.pdf,geo_single,singular location limitation phrase,13370
+2023-05-25,107W-2023-01262,Asylon,https://www.faa.gov/sites/faa.gov/files/107W-2023-01262_Brent_McLaughlin_CoW.pdf,non_geo,operations conducted under this waiver are limited to the locations described in the waiver application; limited to the locations described in the waiver application,17432
+2023-06-05,107W-2023-00812,Austin Seback,https://www.faa.gov/sites/faa.gov/files/107W-2023-00812_Austin_Seback_CoW.pdf,geo_single,singular location limitation phrase,16471
+2023-06-06,107W-2023-01236,Areion UAS,https://www.faa.gov/sites/faa.gov/files/107W-2023-01236_John_Huguley_CoW.pdf,geo_single,singular location limitation phrase,16704
+2023-06-29,107W-2023-00674,"Westwood Professional Services, Inc",https://www.faa.gov/sites/faa.gov/files/107W-2023-00674_Mark_Treon_CoW.pdf,exclude,no explicit phrase match,16498
+2023-07-12,107W-2023-01367,Jose Leandro,https://www.faa.gov/sites/faa.gov/files/107W-2023-01367_Jose_Leandro_CoW.pdf,geo_single,singular location limitation phrase,16550
+2023-07-13,107W-2023-00822,ERAU UAS-S Research,https://www.faa.gov/sites/faa.gov/files/107W-2023-00822_Nickolas_Macchiarella_CoW.pdf,geo_single,singular location limitation phrase,16622
+2023-07-28,107W-2023-01602,Caltrans DOC,https://www.faa.gov/sites/faa.gov/files/107W-2023-01602_Aaron_Chamberlin_CoW.pdf,geo_single,singular location limitation phrase,16479
+2023-07-28,107W-2023-01641,Florida Power & Light Company,https://www.faa.gov/sites/faa.gov/files/107W-2023-01641_Eric_Schwartz_CoW.pdf,geo_single,singular location limitation phrase,16508
+2023-07-30,107W-2023-01075,ComEd,https://www.faa.gov/sites/faa.gov/files/107W-2023-01075_Victor_Migliore_CoW.pdf,geo_single,singular location limitation phrase,16661
+2023-07-31,107W-2023-01131,Davey Resource Group,https://www.faa.gov/sites/faa.gov/files/107W-2023-01131_Rachel_Miller_CoW.pdf,exclude,no explicit phrase match,16776
+2023-08-02,107W-2023-01290,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2023-01290_Nicole_Bonk_CoW.pdf,geo_single,singular location limitation phrase,16696
+2023-08-04,107W-2023-01907,Areion UAS,https://www.faa.gov/sites/faa.gov/files/107W-2023-01907_John_Huguley_CoW.pdf,geo_single,singular location limitation phrase,16710
+2023-08-22,107W-2023-01737,Pilot Institute,https://www.faa.gov/sites/faa.gov/files/107W-2023-01737_Jason_Wood_CoW.pdf,geo_single,singular location limitation phrase,16848
+2023-10-03,107W-2023-01991,"AECOM Technical Services, Inc",https://www.faa.gov/sites/faa.gov/files/107W-2023-01991_Matthew_Nanney_CoW.pdf,exclude,no explicit phrase match,16840
+2023-10-19,107W-2023-02605,Choctaw Nation of Oklahoma,https://www.faa.gov/sites/faa.gov/files/107W-2023-02605_Marcus_Hartman_CoW.pdf,geo_single,singular location limitation phrase,16982
+2023-10-25,107W-2023-02015,EpiSci,https://www.faa.gov/sites/faa.gov/files/107W-2023-02015_Rohit_Pillai_CoW.pdf,geo_single,singular location limitation phrase,16693
+2023-11-08,107W-2023-02016,"Percheron Professional Services, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2023-02016_Jeff_Wilkie_CoW.pdf,exclude,no explicit phrase match,16969
+2023-11-08,107W-2023-02142,Pacific Gas and Electric,https://www.faa.gov/sites/faa.gov/files/107W-2023-02142_Kellen_Kirk_CoW.pdf,exclude,no explicit phrase match,17547
+2023-12-15,107W-2023-02588,Valmont,https://www.faa.gov/sites/faa.gov/files/107W-2023-02588_Brad_Wood_CoW.pdf,exclude,no explicit phrase match,17025
+2024-01-10,107W-2024-00078,Zipline International Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-00078_Eugene_McGuinness_CoW.pdf,non_geo,operations conducted under this waiver are limited to the locations described in the waiver application; limited to the locations described in the waiver application,20302
+2024-01-12,107W-2023-02400,Eversource Energy,https://www.faa.gov/sites/faa.gov/files/107W-2023-02400_Stephen_Michna_CoW_1.pdf,exclude,no explicit phrase match,18153
+2024-01-18,107W-2023-03430,The Ohio Department of Transportation,https://www.faa.gov/sites/faa.gov/files/107W-2023-03430_Daniel_Kammer_CoW.pdf,exclude,no explicit phrase match,19528
+2024-01-31,107W-2023-02566,Data Blanket,https://www.faa.gov/sites/faa.gov/files/107W-2023-02566_Gur_Kimchi_CoW.pdf,geo_single,singular location limitation phrase,16729
+2024-02-09,107W-2024-00333,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-00333_Gregory_Bushey_CoW.pdf,exclude,no explicit phrase match,18107
+2024-02-27,107W-2023-03407,"American Robotics, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2023-03407_James_Gonzalez_CoW.pdf,geo_single,singular location limitation phrase,16831
+2024-02-28,107W-2023-03494,Big Sky Aerial Solutions,https://www.faa.gov/sites/faa.gov/files/107W-2023-03494_Austin_Seback_CoW.pdf,geo_single,singular location limitation phrase,16797
+2024-02-29,107W-2023-03403,HighPoint AeroTechnologies,https://www.faa.gov/sites/faa.gov/files/107W-2023-03403_John_McClelland_CoW.pdf,geo_single,singular location limitation phrase,16529
+2024-03-07,107W-2023-03310,East Central Energy,https://www.faa.gov/sites/faa.gov/files/107W-2023-03310_Kyle_Palmer_CoW.pdf,exclude,no explicit phrase match,15791
+2024-03-13,107W-2024-00023,COLSA,https://www.faa.gov/sites/faa.gov/files/107W-2024-00023_Christopher_Cline_CoW.pdf,geo_single,singular location limitation phrase,17157
+2024-03-15,107W-2023-03012A,TVA UAS,https://www.faa.gov/sites/faa.gov/files/107W-2023-03012A_Zackary_Whittle_CoW.pdf,exclude,no explicit phrase match,18717
+2024-03-15,107W-2024-00344A,Zipline International Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2024-00344A_Eugene_McGuinness_CoW.pdf,exclude,no explicit phrase match,21551
+2024-03-22,107W-2024-00265,DroneUp LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-00265_Sky_Andrew_CoW.pdf,exclude,no explicit phrase match,18706
+2024-04-04,107W-2024-00490,DJI,https://www.faa.gov/sites/faa.gov/files/107W-2024-00490_Javier_Caina_CoW.pdf,exclude,no explicit phrase match,16232
+2024-04-22,107W-2024-00619,University of Alaska Fairbanks,https://www.faa.gov/sites/faa.gov/files/107W-2024-00619_Nicholas_Adkins_CoW.pdf,exclude,no explicit phrase match,16176
+2024-04-24,107W-2024-01077,CDM Smith,https://www.faa.gov/sites/faa.gov/files/107W-2024-01077_Brendan_Brown_CoW.pdf,exclude,no explicit phrase match,17850
+2024-05-01,107W-2024-00782,A-Cam Aerials,https://www.faa.gov/sites/faa.gov/files/107W-2024-00782_Thomas_Sugahara_CoW.pdf,exclude,no explicit phrase match,16524
+2024-05-01,107W-2024-01095,American Bird Conservancy,https://www.faa.gov/sites/faa.gov/files/107W-2024-01095_Adam_Knox_CoW.pdf,exclude,no explicit phrase match,17095
+2024-05-02,107W-2024-00828,Florida Power & Light Company,https://www.faa.gov/sites/faa.gov/files/107W-2024-00828_Eric_Schwartz_CoW.pdf,exclude,no explicit phrase match,16403
+2024-05-03,107W-2024-00795,EpiSci,https://www.faa.gov/sites/faa.gov/files/107W-2024-00795_Rohit_Pillai_CoW.pdf,geo_single,singular location limitation phrase,16509
+2024-05-07,107W-2024-00783,Department of Aviation,https://www.faa.gov/sites/faa.gov/files/107W-2024-00783_Thomas_Sugahara_CoW.pdf,exclude,no explicit phrase match,16551
+2024-05-08,107W-2024-00585,American Electric Power,https://www.faa.gov/sites/faa.gov/files/107W-2024-00585_Kenner_Prillaman_CoW.pdf,exclude,no explicit phrase match,16035
+2024-05-13,107W-2024-01201,AgriBugs LLC.,https://www.faa.gov/sites/faa.gov/files/107W-2024-01201_Darren_Rajendranath_CoW.pdf,exclude,no explicit phrase match,17351
+2024-05-20,107W-2024-00551,Warren County Community College,https://www.faa.gov/sites/faa.gov/files/107W-2024-00551_William_Austin_CoW.pdf,exclude,no explicit phrase match,18633
+2024-05-23,107W-2024-01149,Pilot Institute,https://www.faa.gov/sites/faa.gov/files/107W-2024-01149_Jason_Wood_CoW.pdf,exclude,no explicit phrase match,16973
+2024-06-07,107W-2024-00700,SEAKdrones LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-00700_Dennis_Sylvia_CoW.pdf,geo_single,singular location limitation phrase,16383
+2024-06-25,107W-2024-01928,Turner Construction,https://www.faa.gov/sites/faa.gov/files/107W-2024-01928_Gary_Chapman_CoW.pdf,exclude,no explicit phrase match,17541
+2024-07-23,107W-2024-01564,Xcel Energy,https://www.faa.gov/sites/faa.gov/files/107W-2024-01564%20Thomas%20Stegge%20-%20CoW.pdf,exclude,no explicit phrase match,16777
+2024-07-29,107W-2024-01814,Caltrans Division of Construction,https://www.faa.gov/sites/faa.gov/files/107W-2024-01814%20Aaron%20Chamberlin%20-%20CoW.pdf,exclude,no explicit phrase match,19602
+2024-07-31,107W-2024-01783,Ryan Rash,https://www.faa.gov/sites/faa.gov/files/107W-2024-01783%20Ryan%20Rash%20-%20CoW.pdf,exclude,no explicit phrase match,17674
+2024-08-06,107W-2024-01934,Keith Aubin,https://www.faa.gov/sites/faa.gov/files/107W-2024-01934%20Keith%20Aubin%20-%20CoW.pdf,exclude,no explicit phrase match,18634
+2024-08-08,107W-2024-02025,Archer Daniels Midland,https://www.faa.gov/sites/faa.gov/files/107W-2024-02025%20Alex%20Powers%20-%20CoW.pdf,exclude,no explicit phrase match,17556
+2024-08-27,107W-2024-02302,Boeing sUAS Operations,https://www.faa.gov/sites/faa.gov/files/107W-2024-02302%20Richard%20Bratt%20-%20CoW.pdf,exclude,no explicit phrase match,18633
+2024-08-29,107W-2024-02612,Dominion Energy,https://www.faa.gov/sites/faa.gov/files/107W-2024-02612%20Tom%20Butler%20-%20CoW.pdf,exclude,no explicit phrase match,18313
+2024-09-06,107W-2024-03224,FAA Flight Program Operations,https://www.faa.gov/sites/faa.gov/files/107W-2024-03224%20Autumn%20Alderdice%20-%20CoW.pdf,exclude,no explicit phrase match,17911
+2024-09-11,107W-2024-02356,Dylan Collins,https://www.faa.gov/sites/faa.gov/files/107W-2024-02356%20Dylan%20Collins%20-%20CoW.pdf,exclude,no explicit phrase match,17678
+2024-09-13,107W-2024-02438,LJA,https://www.faa.gov/sites/faa.gov/files/107W-2024-02438%20Robert%20Wilhite%20-%20CoW.pdf,exclude,no explicit phrase match,18233
+2024-09-16,107W-2024-02467,Dylan Collins,https://www.faa.gov/sites/faa.gov/files/107W-2024-02467%20Dylan%20Collins%20-%20CoW.pdf,exclude,no explicit phrase match,17678
+2024-10-01,107W-2024-02593,American Electric Power,https://www.faa.gov/sites/faa.gov/files/107W-2024-02593%20Randy%20Lowe%20-%20CoW.pdf,exclude,no explicit phrase match,17787
+2024-10-07,107W-2024-03422,"Phoenix Air Unmanned, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2024-03422%20William%20Lovett%20-%20CoW.pdf,exclude,no explicit phrase match,19842
+2024-10-07,107W-2024-03793,Datapoint,https://www.faa.gov/sites/faa.gov/files/107W-2024-03793%20Michael%20Wight%20-%20CoW.pdf,exclude,no explicit phrase match,19103
+2024-10-08,107W-2024-02758,Troy Sakihara,https://www.faa.gov/sites/faa.gov/files/107W-2024-02758%20Troy%20Sakihara%20-%20CoW.pdf,exclude,no explicit phrase match,17486
+2024-10-08,107W-2024-02766,RTX BBN,https://www.faa.gov/sites/faa.gov/files/107W-2024-02766%20Aaron%20Adler%20-%20CoW.pdf,exclude,no explicit phrase match,18981
+2024-10-09,107W-2024-02776,Unmanned Vehicle Technologies,https://www.faa.gov/sites/faa.gov/files/107W-2024-02776%20Matthew%20Rybar%20-%20CoW.pdf,exclude,no explicit phrase match,18713
+2024-10-16,107W-2024-02474,Valentine Brand,https://www.faa.gov/sites/faa.gov/files/107W-2024-02474%20Robert%20Valentine%20-%20CoW.pdf,exclude,no explicit phrase match,19381
+2024-10-22,107W-2024-03020,COLSA,https://www.faa.gov/sites/faa.gov/files/107W-2024-03020%20Christopher%20Cline%20-%20CoW.pdf,exclude,no explicit phrase match,18923
+2024-10-28,107W-2024-03166,"ArgenTech Solutions, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2024-03166%20Rita%20Castonguay-Hunt%20-%20CoW.pdf,exclude,no explicit phrase match,17605
+2024-10-28,107W-2024-03266A,Cooperative Energy,https://www.faa.gov/sites/faa.gov/files/107W-2024-03266A%20Stephen%20McCain%20-%20CoW.pdf,exclude,no explicit phrase match,17913
+2024-11-06,107W-2024-04031,Aerius Focus LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-04031%20Suzanne%20Herring%20-%20CoW.pdf,exclude,no explicit phrase match,18539
+2024-11-12,107W-2024-02900,Joseph Lankford,https://www.faa.gov/sites/faa.gov/files/107W-2024-02900%20Joseph%20Lankford%20-%20CoW.pdf,exclude,no explicit phrase match,18344
+2024-11-12,107W-2024-03322,Marc Wrolsen,https://www.faa.gov/sites/faa.gov/files/107W-2024-03322%20Marc%20Wrolsen%20-%20CoW.pdf,exclude,no explicit phrase match,17903
+2024-11-14,107W-2024-03506,Paul Shepard,https://www.faa.gov/sites/faa.gov/files/107W-2024-03506%20Paul%20Shepard%20-%20CoW.pdf,exclude,no explicit phrase match,18075
+2024-11-15,107W-2024-03490,Remnant Technology Inc,https://www.faa.gov/sites/faa.gov/files/107W-2024-03490%20Joel%20Jones%20-%20CoW.pdf,exclude,no explicit phrase match,18127
+2024-11-25,107W-2024-03701,"Carotene, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2024-03701%20Marcell%20Haywood%20-%20CoW.pdf,exclude,no explicit phrase match,19263
+2024-12-02,107W-2024-02949,Liberty University,https://www.faa.gov/sites/faa.gov/files/107W-2024-02949%20Brayden%20Johnson%20-%20CoW.pdf,exclude,no explicit phrase match,18297
+2024-12-05,107W-2024-03529,Florida Highway Patrol,https://www.faa.gov/sites/faa.gov/files/107W-2024-03529%20Robert%20Dooley%20-%20CoW.pdf,exclude,no explicit phrase match,18829
+2024-12-12,107W-2024-03833,HighPoint AeroTechnologies,https://www.faa.gov/sites/faa.gov/files/107W-2024-03833%20Christopher%20Lucas%20-%20CoW.pdf,exclude,no explicit phrase match,19039
+2025-01-02,107W-2024-04592,Anduril Industies,https://www.faa.gov/sites/faa.gov/files/107W-2024-04592%20Brad%20Burnett%20-%20CoW.pdf,exclude,no explicit phrase match,21737
+2025-01-06,107W-2024-04638,Flagler County BOCC,https://www.faa.gov/sites/faa.gov/files/107W-2024-04638%20Seth%20Cribben%20-%20CoW.pdf,exclude,no explicit phrase match,19787
+2025-01-07,107W-2024-04170,Christian Stallings,https://www.faa.gov/sites/faa.gov/files/107W-2024-04170%20Christian%20Stallings%20-%20CoW.pdf,exclude,no explicit phrase match,18365
+2025-01-07,107W-2024-04362,Devon Energy,https://www.faa.gov/sites/faa.gov/files/107W-2024-04362%20Jared%20Markes%20-%20CoW.pdf,exclude,no explicit phrase match,15644
+2025-01-08,107W-2025-00069,Thomas Kirk,https://www.faa.gov/sites/faa.gov/files/107W-2025-00069%20Thomas%20Kirk%20-%20CoW.pdf,exclude,no explicit phrase match,18425
+2025-01-17,107W-2025-00033,Matternet,https://www.faa.gov/sites/faa.gov/files/107W-2025-00033%20Alexander%20Norman-Elvenich%20-%20CoW.pdf,exclude,no explicit phrase match,19247
+2025-01-23,107W-2025-00198,"AKDRONE, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2025-00198%20Thomas%20Tapp%20-%20CoW.pdf,exclude,no explicit phrase match,18683
+2025-01-29,107W-2024-04472,Chris Mullins,https://www.faa.gov/sites/faa.gov/files/107W-2024-04472%20Chris%20Mullins%20-%20CoW.pdf,exclude,no explicit phrase match,22652
+2025-02-10,107W-2024-03816,Eye-bot Aerial Solutions,https://www.faa.gov/sites/faa.gov/files/107W-2024-03816%20Chris%20Dolly%20-%20CoW.pdf,exclude,no explicit phrase match,18702
+2025-02-18,107W-2024-04536,Legacy Restoration LLC,https://www.faa.gov/sites/faa.gov/files/107W-2024-04536%20Kyle%20Lautz%20-%20CoW.pdf,exclude,no explicit phrase match,20841
+2025-02-21,107W-2024-04702,Avol,https://www.faa.gov/sites/faa.gov/files/107W-2024-04702%20Nathan%20Poon%20-%20CoW.pdf,exclude,no explicit phrase match,20159
+2025-02-24,107W-2024-04639,Pogue Construction,https://www.faa.gov/sites/faa.gov/files/107W-2024-04639%20Jonathon%20Gruenewald%20-%20CoW.pdf,exclude,no explicit phrase match,18765
+2025-02-24,107W-2024-04640,Pogue Construction,https://www.faa.gov/sites/faa.gov/files/107W-2024-04640%20Jonathon%20Gruenewald%20-%20CoW.pdf,exclude,no explicit phrase match,18722
+2025-02-24,107W-2025-00393,NUAIR Alliance,https://www.faa.gov/sites/faa.gov/files/107W-2025-00393%20Eric%20Fleckten%20-%20CoW.pdf,exclude,no explicit phrase match,19009
+2025-02-26,107W-2025-00062,"Aerial Pet Recovery, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-00062%20Stuart%20Stakoff%20-%20CoW.pdf,exclude,no explicit phrase match,18177
+2025-02-26,107W-2025-00557,AERIALOOP,https://www.faa.gov/sites/faa.gov/files/107W-2025-00557%20Jorge%20Sanchez%20Hidalgo%20-%20CoW.pdf,exclude,no explicit phrase match,18486
+2025-03-03,107W-2025-00399,"Harkins Builders, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-00399%20Carlos%20Zuluaga%20-%20CoW.pdf,exclude,no explicit phrase match,20800
+2025-03-04,107W-2025-00071,American Electric Power,https://www.faa.gov/sites/faa.gov/files/107W-2025-00071%20Randy%20Lowe%20-%20CoW.pdf,exclude,no explicit phrase match,21231
+2025-03-05,107W-2025-00417,Santaquin Police Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-00417%20Braydon%20Golding%20-%20CoW.pdf,exclude,no explicit phrase match,11256
+2025-03-05,107W-2025-00420,Owasso Police,https://www.faa.gov/sites/faa.gov/files/107W-2025-00420%20Travis%20Harris%20-%20CoW.pdf,exclude,no explicit phrase match,11229
+2025-03-11,107W-2024-04704,Levi Johnson,https://www.faa.gov/sites/faa.gov/files/107W-2024-04704%20Levi%20Johnson%20-%20CoW.pdf,exclude,no explicit phrase match,18465
+2025-03-11,107W-2025-00244,Dept. of the Army Criminal Investigation Division,https://www.faa.gov/sites/faa.gov/files/107W-2025-00244%20Michal%20Pirog%20-%20CoW.pdf,exclude,no explicit phrase match,19190
+2025-03-13,107W-2025-00728,Rainmaker Technology Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-00728%20Sam%20Kim%20-%20CoW.pdf,exclude,no explicit phrase match,20364
+2025-03-14,107W-2025-00686,GBR Drone and Robotics Team (DART),https://www.faa.gov/sites/faa.gov/files/107W-2025-00686%20Noel%20Silva%20-%20CoW.pdf,exclude,no explicit phrase match,19546
+2025-03-20,107W-2025-00370,Devon Energy,https://www.faa.gov/sites/faa.gov/files/107W-2025-00370%20Jared%20Markes%20-%20CoW.pdf,exclude,no explicit phrase match,15641
+2025-04-02,107W-2025-00564,Drones Made Easy,https://www.faa.gov/sites/faa.gov/files/107W-2025-00564%20Brian%20Yates%20-%20CoW.pdf,exclude,no explicit phrase match,18484
+2025-04-03,107W-2025-00329,SAM LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-00329%20Gary%20Niemeyer%20-%20CoW.pdf,exclude,no explicit phrase match,18731
+2025-04-07,107W-2025-00608,SAN DIEGO GAS & ELECTRIC,https://www.faa.gov/sites/faa.gov/files/107W-2025-00608%20Christine%20Asaro%20-%20CoW.pdf,exclude,no explicit phrase match,18473
+2025-04-21,107W-2025-00552,ERAU UAS-S Research,https://www.faa.gov/sites/faa.gov/files/107W-2025-00552%20Nickolas%20Macchiarella%20-%20CoW.pdf,exclude,no explicit phrase match,21913
+2025-04-28,107W-2025-00849-Madison-Taylor-CoW,Skydio Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-00849-Madison-Taylor-CoW.pdf,exclude,no explicit phrase match,17470
+2025-04-29,107W-2025-01200-Tom-Butler-CoW,Dominion Energy,https://www.faa.gov/sites/faa.gov/files/107W-2025-01200-Tom-Butler-CoW.pdf,exclude,no explicit phrase match,20151
+2025-05-07,107W-2025-01598-Sean-Lucas-CoW,Aerial Innovation Solutions LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-01598-Sean-Lucas-CoW.pdf,exclude,no explicit phrase match,19509
+2025-05-13,107W-2025-01403-Tyler-Sterkel-CoW,Anduril Industries,https://www.faa.gov/sites/faa.gov/files/107W-2025-01403-Tyler-Sterkel-CoW.pdf,exclude,no explicit phrase match,23917
+2025-05-14,107W-2025-00897-Stephen-Warr-CoW,Stephen Warr,https://www.faa.gov/sites/faa.gov/files/107W-2025-00897-Stephen-Warr-CoW.pdf,exclude,no explicit phrase match,18515
+2025-05-14,107W-2025-01204-Tanner-Beard-CoW,Tanner Beard,https://www.faa.gov/sites/faa.gov/files/107W-2025-01204-Tanner-Beard-CoW.pdf,exclude,no explicit phrase match,20580
+2025-05-15,107W-2025-01268-James-Peverill-CoW,GreenSight Agronomics,https://www.faa.gov/sites/faa.gov/files/107W-2025-01268-James-Peverill-CoW.pdf,exclude,no explicit phrase match,18750
+2025-05-20,107W-2025-00979-Devin-Allen-CoW,Unmanned Safety Institute,https://www.faa.gov/sites/faa.gov/files/107W-2025-00979-Devin-Allen-CoW.pdf,exclude,no explicit phrase match,21932
+2025-05-22,107W-2025-00866-Rob-Knochenhauer-CoW,Censys Technologies,https://www.faa.gov/sites/faa.gov/files/107W-2025-00866-Rob-Knochenhauer-CoW.pdf,exclude,no explicit phrase match,25217
+2025-06-12,107W-2025-01275-Andrew-Regnier-CoW,Great River Energy,https://www.faa.gov/sites/faa.gov/files/107W-2025-01275-Andrew-Regnier-CoW.pdf,exclude,no explicit phrase match,18499
+2025-06-16,107W-2025-01747-Jordon-Porlier-CoW,Drone Express,https://www.faa.gov/sites/faa.gov/files/107W-2025-01747-Jordon-Porlier-CoW.pdf,exclude,no explicit phrase match,23446
+2025-06-18,107W-2025-01362-Chris-Smith-CoW,Koch Industries Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-01362-Chris-Smith-CoW.pdf,exclude,no explicit phrase match,19196
+2025-06-30,107W-2025-01583-Mattheus-de-Waard-CoW,Michels Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-01583-Mattheus-de-Waard-CoW.pdf,exclude,no explicit phrase match,17834
+2025-07-01,107W-2025-01802-Julien-Alameda-CoW,Arch Aerial LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-01802-Julien-Alameda-CoW.pdf,exclude,no explicit phrase match,19595
+2025-07-02,107W-2025-01890-Luke-Butler-CoW,"FlyGuys, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-01890-Luke-Butler-CoW.pdf,exclude,no explicit phrase match,19439
+2025-07-09,107W-2025-01336-Christopher-Sorrentini-CoW,United Utility AirOps,https://www.faa.gov/sites/faa.gov/files/107W-2025-01336-Christopher-Sorrentini-CoW.pdf,exclude,no explicit phrase match,19454
+2025-07-10,107W-2025-01884-Riley-DeMattos-CoW,Riley De Mattos,https://www.faa.gov/sites/faa.gov/files/107W-2025-01884-Riley-DeMattos-CoW.pdf,exclude,no explicit phrase match,17760
+2025-07-10,107W-2025-02337-Matthew-Rybar-CoW,Unmanned Vehicle Technologies,https://www.faa.gov/sites/faa.gov/files/107W-2025-02337-Matthew-Rybar-CoW.pdf,exclude,no explicit phrase match,25809
+2025-07-14,107W-2025-02441-Cody-Shafer-CoW,Blue Origin LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-02441-Cody-Shafer-CoW.pdf,exclude,no explicit phrase match,18749
+2025-08-07,107W-2025-02810-Andrew-Regnier-CoW,Great River Energy,https://www.faa.gov/sites/faa.gov/files/107W-2025-02810-Andrew-Regnier-CoW.pdf,exclude,no explicit phrase match,22774
+2025-08-13,107W-2025-02525-Tyson-Harrison-CoW,St. Lucie County Sheriff,https://www.faa.gov/sites/faa.gov/files/107W-2025-02525-Tyson-Harrison-CoW.pdf,exclude,no explicit phrase match,19641
+2025-08-13,107W-2025-02662-Roy-Dove-CoW,Dove Aerial Services LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-02662-Roy-Dove-CoW.pdf,exclude,no explicit phrase match,23285
+2025-08-20,107W-2025-02267-Reggie-Wycoff-CoW,Shell Pipeline Company,https://www.faa.gov/sites/faa.gov/files/107W-2025-02267-Reggie-Wycoff-CoW.pdf,exclude,no explicit phrase match,22141
+2025-08-25,107W-2025-02363-Girard-Tell-CoW,"General Dynamics Information Technology, Inc",https://www.faa.gov/sites/faa.gov/files/107W-2025-02363-Girard-Tell-CoW.pdf,exclude,no explicit phrase match,18502
+2025-08-25,107W-2025-02951-Russell-Kline-CoW,Drone Express,https://www.faa.gov/sites/faa.gov/files/107W-2025-02951-Russell-Kline-CoW.pdf,exclude,no explicit phrase match,23649
+2025-08-27,107W-2025-02570-Joseph-Boucher-CoW,Robotic Services,https://www.faa.gov/sites/faa.gov/files/107W-2025-02570-Joseph-Boucher-CoW.pdf,exclude,no explicit phrase match,17799
+2025-08-27,107W-2025-02902-Alexander-Norman-Elvenich-CoW,Matternet,https://www.faa.gov/sites/faa.gov/files/107W-2025-02902-Alexander-Norman-Elvenich-CoW.pdf,exclude,no explicit phrase match,21908
+2025-09-01,107W-2025-02840-Roger-Oneill-CoW,Overhead Intelligence,https://www.faa.gov/sites/faa.gov/files/107W-2025-02840-Roger-Oneill-CoW.pdf,exclude,no explicit phrase match,18856
+2025-09-02,107W-2025-01254-Chris-Jackman-CoW,Wing,https://www.faa.gov/sites/faa.gov/files/107W-2025-01254-Chris-Jackman-CoW.pdf,exclude,no explicit phrase match,24203
+2025-09-02,107W-2025-02459-Rhys-Andersen-CoW,OVRWatch,https://www.faa.gov/sites/faa.gov/files/107W-2025-02459-Rhys-Andersen-CoW.pdf,exclude,no explicit phrase match,17271
+2025-09-17,107W-2025-02680-Levi-Johnson-CoW,Levi Johnson,https://www.faa.gov/sites/faa.gov/files/107W-2025-02680-Levi-Johnson-CoW.pdf,exclude,no explicit phrase match,18189
+2025-09-22,107W-2025-02276-Justin-Anderson-CoW,EDKO LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-02276-Justin-Anderson-CoW.pdf,exclude,no explicit phrase match,18309
+2025-09-30,107W-2025-02943-Matthew-Sargeant-CoW,Avol Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-02943-Matthew-Sargeant-CoW.pdf,exclude,no explicit phrase match,21346
+2025-10-15,107W-2025-03704-Matt-Dill-CoW,Matt Dill,https://www.faa.gov/sites/faa.gov/files/107W-2025-03704-Matt-Dill-CoW.pdf,exclude,no explicit phrase match,20773
+2025-10-22,107W-2025-03230-Nick-Lasko-CoW,Avista Utilities,https://www.faa.gov/sites/faa.gov/files/107W-2025-03230-Nick-Lasko-CoW.pdf,exclude,no explicit phrase match,22151
+2025-10-22,107W-2025-03283-Randall-Langton-CoW,LuluPepper Media LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-03283-Randall-Langton-CoW.pdf,exclude,no explicit phrase match,22581
+2025-10-23,107W-2025-03255-Austin-Hall-CoW,Island Conservation,https://www.faa.gov/sites/faa.gov/files/107W-2025-03255-Austin-Hall-CoW.pdf,exclude,no explicit phrase match,21524
+2025-10-23,107W-2025-03354-Trevor-Adams-CoW,"JV Farms, Inc.",https://www.faa.gov/sites/faa.gov/files/107W-2025-03354-Trevor-Adams-CoW.pdf,exclude,no explicit phrase match,22783
+2025-10-23,107W-2025-03380-Kent-Moyer-CoW,Kent Moyer,https://www.faa.gov/sites/faa.gov/files/107W-2025-03380-Kent-Moyer-CoW.pdf,exclude,no explicit phrase match,23757
+2025-10-28,107W-2025-03014-William-Moskowitz-CoW,William Moskowitz,https://www.faa.gov/sites/faa.gov/files/107W-2025-03014-William-Moskowitz-CoW.pdf,exclude,no explicit phrase match,18702
+2025-10-28,107W-2025-03091-Austin-Lay-CoW,Layton Construction,https://www.faa.gov/sites/faa.gov/files/107W-2025-03091-Austin-Lay-CoW.pdf,exclude,no explicit phrase match,19504
+2025-10-30,107W-2025-03574-Robert-Eguires-CoW,Robert Eguires,https://www.faa.gov/sites/faa.gov/files/107W-2025-03574-Robert-Eguires-CoW.pdf,exclude,no explicit phrase match,20329
+2025-11-05,107W-2025-03254-Zachary-Roach-CoW,Xcel Energy,https://www.faa.gov/sites/faa.gov/files/107W-2025-03254-Zachary-Roach-CoW.pdf,exclude,no explicit phrase match,23495
+2025-11-12,107W-2025-03298-Dylan-Bloechel-CoW,Kennecott Utah Copper LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-03298-Dylan-Bloechel-CoW.pdf,exclude,no explicit phrase match,24230
+2025-11-13,107W-2025-03708-Robert-Wilhite-CoW,LJA,https://www.faa.gov/sites/faa.gov/files/107W-2025-03708-Robert-Wilhite-CoW.pdf,exclude,no explicit phrase match,19779
+2025-11-17,107W-2025-03900-Justin-Padgett-CoW,Justin Padgett,https://www.faa.gov/sites/faa.gov/files/107W-2025-03900-Justin-Padgett-CoW.pdf,exclude,no explicit phrase match,18288
+2025-11-18,107W-2025-0397-Robert-Russell-CoW,2A Tactical,https://www.faa.gov/sites/faa.gov/files/107W-2025-0397-Robert-Russell-CoW.pdf,exclude,no explicit phrase match,18712
+2025-12-01,107W-2025-02871-Roger-Oneill-CoW,Overhead Intelligence,https://www.faa.gov/sites/faa.gov/files/107W-2025-02871-Roger-Oneill-CoW.pdf,exclude,no explicit phrase match,19204
+2025-12-09,107W-2025-03930-Anthony-Sam-CoW,Anthony Sam,https://www.faa.gov/sites/faa.gov/files/107W-2025-03930-Anthony-Sam-CoW.pdf,exclude,no explicit phrase match,20963
+2025-12-18,107W-2025-04230-Bryan-Salazar-CoW,Lyondellbasell,https://www.faa.gov/sites/faa.gov/files/107W-2025-04230-Bryan-Salazar-CoW.pdf,exclude,no explicit phrase match,21009
+2025-12-19,107W-2025-04186-Edward-Ashley-CoW,Edward Ashley,https://www.faa.gov/sites/faa.gov/files/107W-2025-04186-Edward-Ashley-CoW.pdf,exclude,no explicit phrase match,18816
+2026-01-05,107W-2025-04097-Julien-Alameda-CoW,Arch Aerial LLC,https://www.faa.gov/sites/faa.gov/files/107W-2025-04097-Julien-Alameda-CoW.pdf,exclude,no explicit phrase match,22500
+2026-01-05,107W-2025-04166-Angelo-Niforatos-CoW,ResilienX Inc.,https://www.faa.gov/sites/faa.gov/files/107W-2025-04166-Angelo-Niforatos-CoW.pdf,exclude,no explicit phrase match,21368
+2026-01-08,107W-2025-04277-Jon-Thies-CoW,National Grid Aviation Department,https://www.faa.gov/sites/faa.gov/files/107W-2025-04277-Jon-Thies-CoW.pdf,exclude,no explicit phrase match,24494
+2026-01-12,107W-2025-04090-Chris-Dolly-CoW,Eye-bot Aerial Solutions,https://www.faa.gov/sites/faa.gov/files/107W-2025-04090-Chris-Dolly-CoW.pdf,exclude,no explicit phrase match,20379
+2026-01-12,107W-2025-04296-John-Sohl,PowderSkiPatrol,https://www.faa.gov/sites/faa.gov/files/107W-2025-04296-John-Sohl%20-CoW.pdf,exclude,no explicit phrase match,19099
+2026-01-20,107W-2025-02320-Samuel-Adams-CoW,"Eagle-Eye Aerial Solutions, LLC",https://www.faa.gov/sites/faa.gov/files/107W-2025-02320-Samuel-Adams-CoW.pdf,exclude,no explicit phrase match,22577
+2026-01-27,107W-2025-04463-Jenness-Keller-CoW,Jenness Keller,https://www.faa.gov/sites/faa.gov/files/107W-2025-04463-Jenness-Keller-CoW.pdf,exclude,no explicit phrase match,18516
+2026-01-29,107W-2025-04343-Justin-Nelson-CoW,Justin Nelson,https://www.faa.gov/sites/faa.gov/files/107W-2025-04343-Justin-Nelson-CoW.pdf,exclude,no explicit phrase match,17876
+2026-01-29,107W-2025-04420-Dallas-Goodnight-CoW,Blue Ridge Electric Membership Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-04420-Dallas-Goodnight-CoW.pdf,exclude,no explicit phrase match,21047
+2026-01-31,107W-2025-04589-Alexander-Norman-Elvenich-CoW,Matternet,https://www.faa.gov/sites/faa.gov/files/107W-2025-04589-Alexander-Norman-Elvenich-CoW.pdf,exclude,no explicit phrase match,20086
+2026-02-03,107W-2025-04280-Glenn-Johnson-CoW,Trust Automation Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-04280-Glenn-Johnson-CoW.pdf,exclude,no explicit phrase match,18235
+2026-02-03,107W-2025-04479-Marvin-Browning-CoW,IOHK Drone Program,https://www.faa.gov/sites/faa.gov/files/107W-2025-04479-Marvin-Browning-CoW.pdf,exclude,no explicit phrase match,19163
+2026-02-04,107W-2026-00035-Thomas-Butler-CoW,Dominion Energy Unmanned Systems Group,https://www.faa.gov/sites/faa.gov/files/107W-2026-00035-Thomas-Butler-CoW.pdf,exclude,no explicit phrase match,22902
+2026-02-05,107W-2025-04536-Andrew-Schwartz-CoW,New Jersey Transit Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-04536-Andrew-Schwartz-CoW.pdf,exclude,no explicit phrase match,22879
+2026-02-05,107W-2025-04543-Austin-Kappes-CoW,AECOM Hunt,https://www.faa.gov/sites/faa.gov/files/107W-2025-04543-Austin-Kappes-CoW.pdf,exclude,no explicit phrase match,20334
+2026-02-05,107W-2025-04545-Austin-Kappes-CoW,AECOM Hunt,https://www.faa.gov/sites/faa.gov/files/107W-2025-04545-Austin-Kappes-CoW.pdf,exclude,no explicit phrase match,19606
+2026-02-11,107W-2025-05003-Lance-Geren-CoW,Mesa Associates Inc,https://www.faa.gov/sites/faa.gov/files/107W-2025-05003-Lance-Geren-CoW.pdf,exclude,no explicit phrase match,22590
+2026-02-12,107W-2025-05006-Thomas-F-Butler-CoW,Dominion Energy Unmanned Systems Group,https://www.faa.gov/sites/faa.gov/files/107W-2025-05006-Thomas-F-Butler-CoW.pdf,exclude,no explicit phrase match,18734
+2026-02-13,107W-2025-05019-Peyton-Smith-CoW,R.B. Jergens,https://www.faa.gov/sites/faa.gov/files/107W-2025-05019-Peyton-Smith-CoW.pdf,exclude,no explicit phrase match,18099
+2026-02-15,107W-2025-04440A-Sam-Kim-CoW,Rainmaker Technology Corporation,https://www.faa.gov/sites/faa.gov/files/107W-2025-04440A-Sam-Kim-CoW.pdf,exclude,no explicit phrase match,20691
+2026-02-19,107W-2025-05035-Christopher-Bailey-CoW,MassDOT Aeronautics,https://www.faa.gov/sites/faa.gov/files/107W-2025-05035-Christopher-Bailey-CoW.pdf,exclude,no explicit phrase match,22551
+2026-02-19,107W-2026-00279-Patrick-Rackley-CoW,American Electric Power,https://www.faa.gov/sites/faa.gov/files/107W-2026-00279-Patrick-Rackley-CoW.pdf,exclude,no explicit phrase match,22572

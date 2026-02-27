@@ -1,0 +1,239 @@
+# FAA Part 107 BVLOS “Non-Geo” Likely Waivers (Working Analysis)
+
+- Generated: 2026-02-25 12:03:55
+- Total issued rows scraped: **1891**
+- Rows including §107.31 (BVLOS): **771**
+- High confidence (explicit phrase in PDF): **3**
+- Medium confidence (broad-scope indicators): **223**
+- Likely non-geo set (High + Medium): **226**
+
+> This is an analytical estimate, not an FAA official “non-geo” count.
+
+| Issue | Waiver ID | Company | Reg | Confidence | Evidence |
+|---|---|---|---|---|---|
+| 2023-11-03 | 107W-2023-02725 | ReadyMonitor, LLC | 107.31 | High | non-geo |
+| 2025-04-23 | 107W-2025-00848-Heath-McLemore-CoW | Florida Power & Light Company | 107.145, 107.31, 107.35, 107.39 | High | nationwide |
+| 2025-05-07 | 107W-2025-00857-Heath-McLemore-CoW | Florida Power & Light Company | 107.145, 107.31, 107.35, 107.39 | High | nationwide |
+| 2022-02-08 | 107W-2022-00025 | Christopher Duncan | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2022-04-04 | 107W-2022-00214 | Massachusetts Dept of Transportation - Aeronautics Division UAS | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2022-04-07 | 107W-2022-00254 | Unmanned Safety Institute | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2022-04-13 | 107W-2022-00133 | Treeswift | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-04-20 | 107W-2022-00623 | Northern Plains UAS Test Site | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-05-03 | 107W-2022-00219 | SkyBridge Tactical | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2022-05-10 | 107W-2022-00350 | Asylon | 107.31, 107.33(b)(c)(2), 107.39, 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2022-05-13 | 107W-2022-00607 | New Jersey Transit Corporation | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-05-24 | 107W-2022-00538 | Delek US Holdings, Inc. | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-05-24 | 107W-2022-00539 | Delek US Holdings, Inc. | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-07-01 | 107W-2022-01172 | 42air | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-07-01 | 107W-2022-01204 | Kansas State University | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-07-07 | 107W-2022-01103 | American Water | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-07-18 | 107W-2022-00970 | Asylon | 107.31, 107.33(b)(c)(2), 107.39, 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2022-07-18 | 107W-2022-01031 | Evergy | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-07-18 | 107W-2022-01129 | Thomas Walls | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-07-18 | 107W-2022-01194 | Weather Modification LLC | 107.31, 107.33(b)(c)(2), 107.51(c), 107.51(d) | Medium | includes 107.33; >=2.5y duration |
+| 2022-07-19 | 107W-2022-01284 | Davey Resource Group | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-07-29 | 107W-2022-01308 | Valmont | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2022-08-12 | 107W-2022-01705 | The MITRE Corporation | 107.31, 107.33(b)&(c)(2), 107.35 | Medium | includes 107.33; >=2.5y duration |
+| 2022-09-01 | 107W-2022-01798 | Soaring Eagle Technologies | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2022-09-06 | 107W-2022-01785 | Southern Company Services INC | 107.31, 107.33, 107.51(c) | Medium | includes 107.33; >=2.5y duration |
+| 2022-09-14 | 107W-2022-01839 | Alliance Engineering + Planning, LLC | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-09-22 | 107W-2022-01841 | Valmont | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-10-17 | 107W-2022-01952 | Koch Industries Inc | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-10-19 | 107W-2022-01953 | Koch Industries Inc | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-10-20 | 107W-2022-01958 | Skydio Inc. | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-10-25 | 107W-2022-02032 | Electric Power Board of Chattanooga | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-10-26 | 107W-2022-02126 | AviSight | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-10-27 | 107W-2022-02234 | Pacific Gas and Electric | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-11-01 | 107W-2022-02235 | Pacific Gas and Electric | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-11-03 | 107W-2022-02312 | Asylon | 107.31, 107.33(b)(c)(2), 107.39, 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2022-11-17 | 107W-2022-02062 | Thomas Swoyer | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2022-12-14 | 107W-2022-00386 | InDro Robotics Inc. | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-02-07 | 107W-2022-02628 | Aims Community College | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-02-07 | 107W-2023-00074 | Areion UAS | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-02-08 | 107W-2023-00001 | Asylon | 107.31, 107.33(b)(c)(2), 107.39, 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2023-03-06 | 107W-2023-00071 | SkyBridge Tactical | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-03-28 | 107W-2023-00403 | Tesla Inc | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-03-30 | 107W-2023-00258 | Aerodyne Measure | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-04-18 | 107W-2023-00310 | Southern Company Services INC | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-04-28 | 107W-2023-00278 | BGE UAS | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-04-28 | 107W-2023-00465 | Phillip A.B. McCoy | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-05-25 | 107W-2023-00847 | Xcel Energy | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-05-25 | 107W-2023-00993 | Xcel Energy | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-05-25 | 107W-2023-01262 | Asylon | 107.31, 107.33(b)&(c)(2), 107.35 | Medium | includes 107.33; >=2.5y duration |
+| 2023-06-05 | 107W-2023-00812 | Austin Seback | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-06-06 | 107W-2023-01236 | Areion UAS | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-06-29 | 107W-2023-00674 | Westwood Professional Services, Inc | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-07-12 | 107W-2023-01367 | Jose Leandro | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-07-13 | 107W-2023-00822 | ERAU UAS-S Research | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-07-28 | 107W-2023-01602 | Caltrans DOC | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-07-28 | 107W-2023-01641 | Florida Power & Light Company | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-07-30 | 107W-2023-01075 | ComEd | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-07-31 | 107W-2023-01131 | Davey Resource Group | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-08-02 | 107W-2023-01290 | Skydio Inc. | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-08-04 | 107W-2023-01907 | Areion UAS | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-08-22 | 107W-2023-01737 | Pilot Institute | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-10-03 | 107W-2023-01991 | AECOM Technical Services, Inc | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-10-19 | 107W-2023-02605 | Choctaw Nation of Oklahoma | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-10-25 | 107W-2023-02015 | EpiSci | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-11-08 | 107W-2023-02016 | Percheron Professional Services, LLC | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-11-08 | 107W-2023-02142 | Pacific Gas and Electric | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2023-12-15 | 107W-2023-02588 | Valmont | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-01-10 | 107W-2024-00078 | Zipline International Inc. | 107.31, 107.33(b)(c)(2), 107.35 | Medium | includes 107.33; >=2.5y duration |
+| 2024-01-12 | 107W-2023-02400 | Eversource Energy | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-01-18 | 107W-2023-03430 | The Ohio Department of Transportation | 107.31, 107.33(b)(c)(2), 107.39, 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2024-01-31 | 107W-2023-02566 | Data Blanket | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-02-09 | 107W-2024-00333 | Skydio Inc. | 107.31, 107.33(b)&(c)(2), 107.35 | Medium | includes 107.33; >=2.5y duration |
+| 2024-02-27 | 107W-2023-03407 | American Robotics, Inc. | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-02-28 | 107W-2023-03494 | Big Sky Aerial Solutions | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-02-29 | 107W-2023-03403 | HighPoint AeroTechnologies | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-03-07 | 107W-2023-03310 | East Central Energy | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-03-13 | 107W-2024-00023 | COLSA | 107.31, 107.33(b)&(c)(2), 107.35 | Medium | includes 107.33; >=2.5y duration |
+| 2024-03-15 | 107W-2023-03012A | TVA UAS | 107.31, 107.33(b)(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-03-15 | 107W-2024-00344A | Zipline International Inc. | 107.31, 107.33(b)(c)(2), 107.35, 107.51(c), 107.51(d) | Medium | includes 107.33; >=2.5y duration |
+| 2024-03-22 | 107W-2024-00265 | DroneUp LLC | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-04-04 | 107W-2024-00490 | DJI | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-04-22 | 107W-2024-00619 | University of Alaska Fairbanks | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-04-24 | 107W-2024-01077 | CDM Smith | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-05-01 | 107W-2024-00782 | A-Cam Aerials | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-05-01 | 107W-2024-01095 | American Bird Conservancy | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-05-02 | 107W-2024-00828 | Florida Power & Light Company | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-05-03 | 107W-2024-00795 | EpiSci | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-05-07 | 107W-2024-00783 | Department of Aviation | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-05-08 | 107W-2024-00585 | American Electric Power | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-05-13 | 107W-2024-01201 | AgriBugs LLC. | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-05-20 | 107W-2024-00551 | Warren County Community College | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2024-05-23 | 107W-2024-01149 | Pilot Institute | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-06-07 | 107W-2024-00700 | SEAKdrones LLC | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-06-25 | 107W-2024-01928 | Turner Construction | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2024-07-23 | 107W-2024-01564 | Xcel Energy | 107.31, 107.33(b)&(c)(2), 107.51(b) | Medium | includes 107.33; >=2.5y duration |
+| 2024-07-29 | 107W-2024-01814 | Caltrans Division of Construction | 107.31, 107.33(b)&(c)(2), 107.39, 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2024-07-31 | 107W-2024-01783 | Ryan Rash | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-08-06 | 107W-2024-01934 | Keith Aubin | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-08-08 | 107W-2024-02025 | Archer Daniels Midland | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-08-27 | 107W-2024-02302 | Boeing sUAS Operations | 107.31 and 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-08-29 | 107W-2024-02612 | Dominion Energy | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-09-06 | 107W-2024-03224 | FAA Flight Program Operations | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-09-11 | 107W-2024-02356 | Dylan Collins | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-09-13 | 107W-2024-02438 | LJA | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-09-16 | 107W-2024-02467 | Dylan Collins | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-10-01 | 107W-2024-02593 | American Electric Power | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2024-10-07 | 107W-2024-03422 | Phoenix Air Unmanned, LLC | 107.31, 107.33(b)&(c)(2), 107.39, 107.145 | Medium | includes 107.33; includes 107.145 |
+| 2024-10-07 | 107W-2024-03793 | Datapoint | 107.31, 107.33(b)&(c)(2), 107.39, 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2024-10-08 | 107W-2024-02758 | Troy Sakihara | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-10-08 | 107W-2024-02766 | RTX BBN | 107.31, 107.33(b)&(c)(2), 107.35 | Medium | includes 107.33; >=2.5y duration |
+| 2024-10-09 | 107W-2024-02776 | Unmanned Vehicle Technologies | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-10-16 | 107W-2024-02474 | Valentine Brand | 107.31, 107.33(b)&(c)(2), 107.39, 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2024-10-22 | 107W-2024-03020 | COLSA | 107.31, 107.33(b)&(c)(2), 107.35 | Medium | includes 107.33; >=2.5y duration |
+| 2024-10-28 | 107W-2024-03166 | ArgenTech Solutions, Inc. | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-10-28 | 107W-2024-03266A | Cooperative Energy | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-11-06 | 107W-2024-04031 | Aerius Focus LLC | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-11-12 | 107W-2024-02900 | Joseph Lankford | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-11-12 | 107W-2024-03322 | Marc Wrolsen | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-11-14 | 107W-2024-03506 | Paul Shepard | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-11-15 | 107W-2024-03490 | Remnant Technology Inc | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-11-25 | 107W-2024-03701 | Carotene, LLC | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2024-12-02 | 107W-2024-02949 | Liberty University | 107.31, 107.33(b) & (c)(2), 107.39, 107.51(c), 107.51(d), 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2024-12-05 | 107W-2024-03529 | Florida Highway Patrol | 107.31, 107.33(b) & (c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2024-12-12 | 107W-2024-03833 | HighPoint AeroTechnologies | 107.31, 107.33(b)&(c)(2) | Medium | includes 107.33; >=2.5y duration |
+| 2025-01-02 | 107W-2024-04592 | Anduril Industies | 107.31, 107.33, 107.35, 107.51(a) | Medium | includes 107.33; >=2.5y duration |
+| 2025-01-06 | 107W-2024-04638 | Flagler County BOCC | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-01-07 | 107W-2024-04170 | Christian Stallings | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-01-07 | 107W-2024-04362 | Devon Energy | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-01-08 | 107W-2025-00069 | Thomas Kirk | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-01-17 | 107W-2025-00033 | Matternet | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-01-23 | 107W-2025-00198 | AKDRONE, LLC | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-01-29 | 107W-2024-04472 | Chris Mullins | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-02-10 | 107W-2024-03816 | Eye-bot Aerial Solutions | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-02-18 | 107W-2024-04536 | Legacy Restoration LLC | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-02-21 | 107W-2024-04702 | Avol | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-02-24 | 107W-2024-04639 | Pogue Construction | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-02-24 | 107W-2024-04640 | Pogue Construction | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-02-24 | 107W-2025-00393 | NUAIR Alliance | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-02-26 | 107W-2025-00062 | Aerial Pet Recovery, Inc. | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-02-26 | 107W-2025-00557 | AERIALOOP | 107.145, 107.31, 107.33,107.39 | Medium | includes 107.33; includes 107.145 |
+| 2025-03-03 | 107W-2025-00399 | Harkins Builders, Inc. | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-03-04 | 107W-2025-00071 | American Electric Power | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-03-05 | 107W-2025-00417 | Santaquin Police Department | 107.145, 107.31, 107.33 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-03-05 | 107W-2025-00420 | Owasso Police | 107.145, 107.31, 107.33 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-03-11 | 107W-2024-04704 | Levi Johnson | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-03-11 | 107W-2025-00244 | Dept. of the Army Criminal Investigation Division | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-03-13 | 107W-2025-00728 | Rainmaker Technology Corporation | 107.31, 107.33, 107.51(c), 107.51(d) | Medium | includes 107.33; >=2.5y duration |
+| 2025-03-14 | 107W-2025-00686 | GBR Drone and Robotics Team (DART) | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-03-20 | 107W-2025-00370 | Devon Energy | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-04-02 | 107W-2025-00564 | Drones Made Easy | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-04-03 | 107W-2025-00329 | SAM LLC | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-04-07 | 107W-2025-00608 | SAN DIEGO GAS & ELECTRIC | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-04-21 | 107W-2025-00552 | ERAU UAS-S Research | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-04-28 | 107W-2025-00849-Madison-Taylor-CoW | Skydio Inc. | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-04-29 | 107W-2025-01200-Tom-Butler-CoW | Dominion Energy | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-05-07 | 107W-2025-01598-Sean-Lucas-CoW | Aerial Innovation Solutions LLC | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-05-13 | 107W-2025-01403-Tyler-Sterkel-CoW | Anduril Industries | 107.25, 107.31, 107.33, 107.35, 107.51(a) | Medium | includes 107.33; >=2.5y duration |
+| 2025-05-14 | 107W-2025-00897-Stephen-Warr-CoW | Stephen Warr | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-05-14 | 107W-2025-01204-Tanner-Beard-CoW | Tanner Beard | 107.31, 107.33, 107.51(a), 107.51(c), 107.51(d) | Medium | includes 107.33; >=2.5y duration |
+| 2025-05-15 | 107W-2025-01268-James-Peverill-CoW | GreenSight Agronomics | 107.31, 107.33, 107.35 | Medium | includes 107.33; >=2.5y duration |
+| 2025-05-20 | 107W-2025-00979-Devin-Allen-CoW | Unmanned Safety Institute | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-05-22 | 107W-2025-00866-Rob-Knochenhauer-CoW | Censys Technologies | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145 |
+| 2025-06-12 | 107W-2025-01275-Andrew-Regnier-CoW | Great River Energy | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-06-16 | 107W-2025-01747-Jordon-Porlier-CoW | Drone Express | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145 |
+| 2025-06-18 | 107W-2025-01362-Chris-Smith-CoW | Koch Industries Inc | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-06-30 | 107W-2025-01583-Mattheus-de-Waard-CoW | Michels Corporation | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-07-01 | 107W-2025-01802-Julien-Alameda-CoW | Arch Aerial LLC | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-07-02 | 107W-2025-01890-Luke-Butler-CoW | FlyGuys, Inc. | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-07-09 | 107W-2025-01336-Christopher-Sorrentini-CoW | United Utility AirOps | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-07-10 | 107W-2025-01884-Riley-DeMattos-CoW | Riley De Mattos | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-07-10 | 107W-2025-02337-Matthew-Rybar-CoW | Unmanned Vehicle Technologies | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-07-14 | 107W-2025-02441-Cody-Shafer-CoW | Blue Origin LLC | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-08-07 | 107W-2025-02810-Andrew-Regnier-CoW | Great River Energy | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-08-13 | 107W-2025-02525-Tyson-Harrison-CoW | St. Lucie County Sheriff | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-08-13 | 107W-2025-02662-Roy-Dove-CoW | Dove Aerial Services LLC | 107.145, 107.31, 107.33, 107.35, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-08-20 | 107W-2025-02267-Reggie-Wycoff-CoW | Shell Pipeline Company | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-08-25 | 107W-2025-02363-Girard-Tell-CoW | General Dynamics Information Technology, Inc | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-08-25 | 107W-2025-02951-Russell-Kline-CoW | Drone Express | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145 |
+| 2025-08-27 | 107W-2025-02570-Joseph-Boucher-CoW | Robotic Services | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-08-27 | 107W-2025-02902-Alexander-Norman-Elvenich-CoW | Matternet | 107.145, 107.31, 107.33, 107.35, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-09-01 | 107W-2025-02840-Roger-Oneill-CoW | Overhead Intelligence | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-09-02 | 107W-2025-01254-Chris-Jackman-CoW | Wing | 107.145, 107.31, 107.33, 107.35, 107.39, 107.51(c), 107.51(d) | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-09-02 | 107W-2025-02459-Rhys-Andersen-CoW | OVRWatch | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-09-17 | 107W-2025-02680-Levi-Johnson-CoW | Levi Johnson | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-09-22 | 107W-2025-02276-Justin-Anderson-CoW | EDKO LLC | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-09-30 | 107W-2025-02943-Matthew-Sargeant-CoW | Avol Inc. | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-10-15 | 107W-2025-03704-Matt-Dill-CoW | Matt Dill | 107.31, 107.33, 107.51(c), 107.51(d) | Medium | includes 107.33; >=2.5y duration |
+| 2025-10-22 | 107W-2025-03230-Nick-Lasko-CoW | Avista Utilities | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-10-22 | 107W-2025-03283-Randall-Langton-CoW | LuluPepper Media LLC | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-10-23 | 107W-2025-03255-Austin-Hall-CoW | Island Conservation | 107.31, 107.33, 107.51(c), 107.51(d) | Medium | includes 107.33; >=2.5y duration |
+| 2025-10-23 | 107W-2025-03354-Trevor-Adams-CoW | JV Farms, Inc. | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-10-23 | 107W-2025-03380-Kent-Moyer-CoW | Kent Moyer | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-10-28 | 107W-2025-03014-William-Moskowitz-CoW | William Moskowitz | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-10-28 | 107W-2025-03091-Austin-Lay-CoW | Layton Construction | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-10-30 | 107W-2025-03574-Robert-Eguires-CoW | Robert Eguires | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-11-05 | 107W-2025-03254-Zachary-Roach-CoW | Xcel Energy | 107.31, 107.33, 107.35 | Medium | includes 107.33; >=2.5y duration |
+| 2025-11-12 | 107W-2025-03298-Dylan-Bloechel-CoW | Kennecott Utah Copper LLC | 107.145, 107.31, 107.33, 107.39, 107.51(b) | Medium | includes 107.33; includes 107.145 |
+| 2025-11-13 | 107W-2025-03708-Robert-Wilhite-CoW | LJA | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-11-17 | 107W-2025-03900-Justin-Padgett-CoW | Justin Padgett | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-11-18 | 107W-2025-0397-Robert-Russell-CoW | 2A Tactical | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-12-01 | 107W-2025-02871-Roger-Oneill-CoW | Overhead Intelligence | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-12-09 | 107W-2025-03930-Anthony-Sam-CoW | Anthony Sam | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2025-12-18 | 107W-2025-04230-Bryan-Salazar-CoW | Lyondellbasell | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2025-12-19 | 107W-2025-04186-Edward-Ashley-CoW | Edward Ashley | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-01-05 | 107W-2025-04097-Julien-Alameda-CoW | Arch Aerial LLC | 107.25, 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-01-05 | 107W-2025-04166-Angelo-Niforatos-CoW | ResilienX Inc. | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-01-08 | 107W-2025-04277-Jon-Thies-CoW | National Grid Aviation Department | 107.145, 107.31, 107.33, 107.39, 107.51(c), 107.51(d) | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2026-01-12 | 107W-2025-04090-Chris-Dolly-CoW | Eye-bot Aerial Solutions | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-01-12 | 107W-2025-04296-John-Sohl | PowderSkiPatrol | 107.31, 107.33, 107.51(c), 107.51(d) | Medium | includes 107.33; >=2.5y duration |
+| 2026-01-20 | 107W-2025-02320-Samuel-Adams-CoW | Eagle-Eye Aerial Solutions, LLC | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2026-01-27 | 107W-2025-04463-Jenness-Keller-CoW | Jenness Keller | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-01-29 | 107W-2025-04343-Justin-Nelson-CoW | Justin Nelson | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-01-29 | 107W-2025-04420-Dallas-Goodnight-CoW | Blue Ridge Electric Membership Corporation | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-01-31 | 107W-2025-04589-Alexander-Norman-Elvenich-CoW | Matternet | 107.31, 107.33, 107.35 | Medium | includes 107.33; >=2.5y duration |
+| 2026-02-03 | 107W-2025-04280-Glenn-Johnson-CoW | Trust Automation Inc | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-02-03 | 107W-2025-04479-Marvin-Browning-CoW | IOHK Drone Program | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-02-04 | 107W-2026-00035-Thomas-Butler-CoW | Dominion Energy Unmanned Systems Group | 107.31, 107.33, 107.39, 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2026-02-05 | 107W-2025-04536-Andrew-Schwartz-CoW | New Jersey Transit Corporation | 107.145, 107.31, 107.33, 107.39 | Medium | includes 107.33; includes 107.145 |
+| 2026-02-05 | 107W-2025-04543-Austin-Kappes-CoW | AECOM Hunt | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-02-05 | 107W-2025-04545-Austin-Kappes-CoW | AECOM Hunt | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-02-11 | 107W-2025-05003-Lance-Geren-CoW | Mesa Associates Inc | 107.31. 107.33, 107.39, 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2026-02-12 | 107W-2025-05006-Thomas-F-Butler-CoW | Dominion Energy Unmanned Systems Group | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-02-13 | 107W-2025-05019-Peyton-Smith-CoW | R.B. Jergens | 107.31, 107.33 | Medium | includes 107.33; >=2.5y duration |
+| 2026-02-15 | 107W-2025-04440A-Sam-Kim-CoW | Rainmaker Technology Corporation | 107.31, 107.33, 107.51(c), 107.51(d) | Medium | includes 107.33; >=2.5y duration |
+| 2026-02-19 | 107W-2025-05035-Christopher-Bailey-CoW | MassDOT Aeronautics | 107.31, 107.33, 107.39, 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
+| 2026-02-19 | 107W-2026-00279-Patrick-Rackley-CoW | American Electric Power | 107.31, 107.33, 107.39, 107.145 | Medium | includes 107.33; includes 107.145; >=2.5y duration |
