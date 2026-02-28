@@ -34,3 +34,6 @@ config/
 
 # Scratch / experiments (do not sync)
 x402-sim/
+
+# Local scratch downloads / exports
+tmp/
