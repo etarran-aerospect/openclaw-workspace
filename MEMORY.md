@@ -5,6 +5,7 @@
 
 ## Preferences / Boundaries
 - Never delete/overwrite files or folders without explicit approval; do a dry run first.
+- For live website edits, Ethan expects proof-first execution on the exact target URL (small verified changes first, then expand).
 
 ## Workflow
 - OpenClaw workspace is synced via git repo `git@github.com:etarran-aerospect/openclaw-workspace.git`.
