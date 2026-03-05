@@ -1,0 +1,52 @@
+## 2026-03-04
+
+- Late-night website finalization session for AeroSpect in repo `/home/ethantarran/code/aerospect-website-new-manus`.
+- Added/updated key routes/pages:
+  - `/seasonal-services` (separate page)
+  - `/sample` (form gate)
+  - `/sample-report` (Vineyard Intelligence Report)
+- Home flow/nav updated and CTA routing adjusted (Sample Report flows through `/sample` first, then `/sample-report`).
+- Seasonal Services styling adjusted so season heading/focus colors match active season tab.
+- Replaced multiple site/report images with user-provided assets (NDVI, RGB, Thermal, Stress Zones, mapping, contact/how-it-works visuals).
+- User preference reinforced: do not condense or rewrite copy without explicit approval.
+- IONOS deploy attempted manually; live domain still appeared old at one point (likely wrong web root/caching). Follow-up needed on IONOS root verification.
+- Synced current work to GitHub branch:
+  - Branch: `combine-manus-and-local-2026-03-02`
+  - Commit: `babc8c5`
+  - Push: successful to `origin/combine-manus-and-local-2026-03-02`.
+
+- Live IONOS deployment was completed and verified for `www.aerospectinc.com` after correcting webspace folder mapping and uploading proper root/assets/images structure.
+- Added `.htaccess` SPA rewrite fallback so deep routes resolve on static hosting:
+  - `/seasonal-services`, `/sample`, `/sample-report` now route through `index.html` instead of Apache 404.
+- Fixed production bundle mismatch and confirmed assets loading (`/assets/index-*.js`, `/assets/index-*.css`, `/images/*` all resolving after manual folder corrections).
+- Implemented first-pass sample report email gate flow in frontend:
+  - `/sample` submits to FormSubmit (lead email to `hello@aerospectinc.com`)
+  - `/sample-email-sent` confirmation page
+  - `/sample-report` guarded via email-confirmed query/localStorage soft gate.
+- Found and fixed FormSubmit autoresponse issue: removed `_captcha=false` because autoresponse won’t send when reCAPTCHA is disabled.
+- User confirmed post-fix behavior: sample form/email link flow now works.
+- User requested temporary disable of sample pages while iterating report content; prepared 404 rewrite rules for `/sample`, `/sample-report`, `/sample-email-sent` in `.htaccess` (final apply may still require manual paste if relay upload overwrite does not stick).
+- Browser relay instability occurred repeatedly (`tab not found` detaches), requiring intermittent manual user actions during IONOS operations.
+
+## Website deploy checkpoint (2026-03-04, afternoon)
+- Production deploy confirmed live on `www.aerospectinc.com`
+- SPA routing fixed via `.htaccess`
+- Sample flow now uses FormSubmit token endpoint:
+`https://formsubmit.co/1ea4fbaf41ed956ba511c3d9f98167e0`
+- Current behavior: collect lead emails; autoresponse says report is being updated (no live access link)
+- `hello@aerospectinc.com` forwarding fixed
+
+## Website deploy checkpoint (2026-03-04, afternoon)
+- Production deploy confirmed live on `www.aerospectinc.com`
+- SPA routing fixed via `.htaccess`
+- Sample flow now uses FormSubmit token endpoint:
+`https://formsubmit.co/1ea4fbaf41ed956ba511c3d9f98167e0`
+- Current behavior: collect lead emails; autoresponse says report is being updated (no live access link)
+- `hello@aerospectinc.com` forwarding fixed
+## Website deploy checkpoint (2026-03-04, afternoon)
+- Production deploy confirmed live on `www.aerospectinc.com`
+- SPA routing fixed via `.htaccess`
+- Sample flow now uses FormSubmit token endpoint:
+`https://formsubmit.co/1ea4fbaf41ed956ba511c3d9f98167e0`
+- Current behavior: collect lead emails; autoresponse says report is being updated (no live access link)
+- `hello@aerospectinc.com` forwarding fixed
