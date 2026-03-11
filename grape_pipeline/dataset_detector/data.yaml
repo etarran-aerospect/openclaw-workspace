@@ -1,0 +1,6 @@
+path: dataset_detector
+train: images/train
+val: images/val
+
+names:
+  0: grape_cluster

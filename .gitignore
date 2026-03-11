@@ -38,3 +38,21 @@ x402-sim/
 
 # Local scratch downloads / exports
 tmp/
+
+# Local ML/runtime artifacts
+grape_pipeline/.venv-grapes/
+grape_pipeline/incoming_images/
+grape_pipeline/dataset_detector/images/
+grape_pipeline/dataset_detector/labels/
+grape_pipeline/dataset_detector/*.cache
+grape_pipeline/dataset_detector/labels/*.cache
+grape_pipeline/dataset_counter/train/images/
+grape_pipeline/dataset_counter/val/images/
+grape_pipeline/seed_previews/
+grape_pipeline/web_sources/
+grape_pipeline/*.pt
+grape_pipeline/yolov8n.pt
+grape_pipeline/*preview.jpg
+grape_pipeline/annotated_grapes_seed.jpg
+*:Zone.Identifier
+runs/
