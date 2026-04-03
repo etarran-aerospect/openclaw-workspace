@@ -1,0 +1,362 @@
+Mar 20 18:42:23 10.71.60.0 tmp117274716-4743 Connection from 10.71.60.0 port 54016 on 216.250.113.238 port 22 rdomain ""
+Mar 20 18:42:24 10.71.60.0 tmp117274716-4743 Accepted password for tmp117274716-4743 from 10.71.60.0 port 54016 ssh2
+Mar 20 18:42:24 10.71.60.0 tmp117274716-4743 Starting session: subsystem 'sftp' for tmp117274716-4743 from 10.71.60.0 port 54016 id 0
+Mar 20 18:42:24 10.71.60.0 tmp117274716-4743 session opened for local user tmp117274716-4743 from [10.71.60.0]
+Mar 20 18:42:43 10.71.60.0 tmp117274716-4743 open "/.htaccess" flags READ mode 0666
+Mar 20 18:42:44 10.71.60.0 tmp117274716-4743 close "/.htaccess" bytes read 157 written 0
+Mar 20 18:42:44 10.71.60.0 tmp117274716-4743 [10.71.60.0|get|1|157|0|0|0|2f2e6874616363657373|]
+Mar 20 18:46:25 10.71.60.0 tmp117274716-4743 open "/robots.txt" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:46:26 10.71.60.0 tmp117274716-4743 close "/robots.txt" bytes read 0 written 160
+Mar 20 18:46:26 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|1|160|0|0|0|2f726f626f74732e747874|]
+Mar 20 18:46:27 10.71.60.0 tmp117274716-4743 open "/placeholder.svg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:46:28 10.71.60.0 tmp117274716-4743 close "/placeholder.svg" bytes read 0 written 3253
+Mar 20 18:46:28 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|1|3253|0|0|0|2f706c616365686f6c6465722e737667|]
+Mar 20 18:46:28 10.71.60.0 tmp117274716-4743 open "/favicon.ico" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:46:28 10.71.60.0 tmp117274716-4743 close "/favicon.ico" bytes read 0 written 20373
+Mar 20 18:46:28 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|20373|0|0|0|2f66617669636f6e2e69636f|]
+Mar 20 18:46:50 10.71.60.0 tmp117274716-4743 open "/favicon.ico" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:46:50 10.71.60.0 tmp117274716-4743 close "/favicon.ico" bytes read 0 written 20373
+Mar 20 18:46:50 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|20373|0|0|0|2f66617669636f6e2e69636f|]
+Mar 20 18:47:04 10.71.60.0 tmp117274716-4743 open "/favicon.ico" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:47:04 10.71.60.0 tmp117274716-4743 close "/favicon.ico" bytes read 0 written 20373
+Mar 20 18:47:04 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|20373|0|0|0|2f66617669636f6e2e69636f|]
+Mar 20 18:48:34 10.71.60.0 tmp117274716-4743 open "/assets/service-monitoring-BU_Ek5J6.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:34 10.71.60.0 tmp117274716-4743 close "/assets/service-monitoring-BU_Ek5J6.jpg" bytes read 0 written 137904
+Mar 20 18:48:34 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|137904|0|0|0|2f6173736574732f736572766963652d6d6f6e69746f72696e672d42555f456b354a362e6a7067|]
+Mar 20 18:48:36 10.71.60.0 tmp117274716-4743 open "/assets/index-J036UYYE.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:36 10.71.60.0 tmp117274716-4743 close "/assets/index-J036UYYE.js" bytes read 0 written 459854
+Mar 20 18:48:36 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|459854|0|0|0|2f6173736574732f696e6465782d4a303336555959452e6a73|]
+Mar 20 18:48:37 10.71.60.0 tmp117274716-4743 open "/assets/service-3d-CXrZyiHj.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:37 10.71.60.0 tmp117274716-4743 close "/assets/service-3d-CXrZyiHj.jpg" bytes read 0 written 139765
+Mar 20 18:48:37 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|139765|0|0|0|2f6173736574732f736572766963652d33642d4358725a7969486a2e6a7067|]
+Mar 20 18:48:38 10.71.60.0 tmp117274716-4743 open "/assets/service-mapping-fNcNt9Nr.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:38 10.71.60.0 tmp117274716-4743 close "/assets/service-mapping-fNcNt9Nr.jpg" bytes read 0 written 137716
+Mar 20 18:48:38 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|137716|0|0|0|2f6173736574732f736572766963652d6d617070696e672d664e634e74394e722e6a7067|]
+Mar 20 18:48:38 10.71.60.0 tmp117274716-4743 open "/assets/service-photography-CtnubafC.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:38 10.71.60.0 tmp117274716-4743 close "/assets/service-photography-CtnubafC.jpg" bytes read 0 written 65028
+Mar 20 18:48:38 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|65028|0|0|0|2f6173736574732f736572766963652d70686f746f6772617068792d43746e75626166432e6a7067|]
+Mar 20 18:48:38 10.71.60.0 tmp117274716-4743 open "/assets/service-inspections-CVkxRpmN.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:38 10.71.60.0 tmp117274716-4743 close "/assets/service-inspections-CVkxRpmN.jpg" bytes read 0 written 53662
+Mar 20 18:48:38 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|53662|0|0|0|2f6173736574732f736572766963652d696e7370656374696f6e732d43566b7852706d4e2e6a7067|]
+Mar 20 18:48:40 10.71.60.0 tmp117274716-4743 open "/assets/index-Cl5dEuVA.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:40 10.71.60.0 tmp117274716-4743 close "/assets/index-Cl5dEuVA.css" bytes read 0 written 68663
+Mar 20 18:48:40 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|68663|0|0|0|2f6173736574732f696e6465782d436c3564457556412e637373|]
+Mar 20 18:48:41 10.71.60.0 tmp117274716-4743 open "/assets/service-thermal-B9BCLyvy.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:41 10.71.60.0 tmp117274716-4743 close "/assets/service-thermal-B9BCLyvy.jpg" bytes read 0 written 59157
+Mar 20 18:48:41 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|59157|0|0|0|2f6173736574732f736572766963652d746865726d616c2d423942434c7976792e6a7067|]
+Mar 20 18:48:42 10.71.60.0 tmp117274716-4743 open "/assets/stone-ridge-rgb-2-ydM0Cf-S.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:42 10.71.60.0 tmp117274716-4743 close "/assets/stone-ridge-rgb-2-ydM0Cf-S.png" bytes read 0 written 837159
+Mar 20 18:48:42 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|837159|0|0|0|2f6173736574732f73746f6e652d72696467652d7267622d322d79644d3043662d532e706e67|]
+Mar 20 18:48:43 10.71.60.0 tmp117274716-4743 open "/assets/stone-ridge-thermal-BWvnEjRT.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:43 10.71.60.0 tmp117274716-4743 close "/assets/stone-ridge-thermal-BWvnEjRT.png" bytes read 0 written 648831
+Mar 20 18:48:43 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|648831|0|0|0|2f6173736574732f73746f6e652d72696467652d746865726d616c2d4257766e456a52542e706e67|]
+Mar 20 18:48:44 10.71.60.0 tmp117274716-4743 open "/assets/drone-dock-BioK52_M.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:44 10.71.60.0 tmp117274716-4743 close "/assets/drone-dock-BioK52_M.jpg" bytes read 0 written 53191
+Mar 20 18:48:44 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|53191|0|0|0|2f6173736574732f64726f6e652d646f636b2d42696f4b35325f4d2e6a7067|]
+Mar 20 18:48:45 10.71.60.0 tmp117274716-4743 open "/assets/stone-ridge-rgb-DiXsA1sm.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:46 10.71.60.0 tmp117274716-4743 close "/assets/stone-ridge-rgb-DiXsA1sm.png" bytes read 0 written 602562
+Mar 20 18:48:46 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|1|602562|0|0|0|2f6173736574732f73746f6e652d72696467652d7267622d446958734131736d2e706e67|]
+Mar 20 18:48:46 10.71.60.0 tmp117274716-4743 open "/assets/ndvi-map-C25K-dbF.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:47 10.71.60.0 tmp117274716-4743 close "/assets/ndvi-map-C25K-dbF.jpg" bytes read 0 written 2733536
+Mar 20 18:48:47 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|1|2733536|0|0|0|2f6173736574732f6e6476692d6d61702d4332354b2d6462462e6a7067|]
+Mar 20 18:48:48 10.71.60.0 tmp117274716-4743 open "/assets/aircraft-mission-CssKCvi-.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:48 10.71.60.0 tmp117274716-4743 close "/assets/aircraft-mission-CssKCvi-.jpg" bytes read 0 written 118690
+Mar 20 18:48:48 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|118690|0|0|0|2f6173736574732f61697263726166742d6d697373696f6e2d4373734b4376692d2e6a7067|]
+Mar 20 18:48:48 10.71.60.0 tmp117274716-4743 open "/assets/rgb-vineyard-BWeJ2_5H.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:49 10.71.60.0 tmp117274716-4743 close "/assets/rgb-vineyard-BWeJ2_5H.jpg" bytes read 0 written 2639643
+Mar 20 18:48:49 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|1|2639643|0|0|0|2f6173736574732f7267622d76696e65796172642d4257654a325f35482e6a7067|]
+Mar 20 18:48:49 10.71.60.0 tmp117274716-4743 open "/assets/hero-vineyard-D4mkppCW.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:50 10.71.60.0 tmp117274716-4743 close "/assets/hero-vineyard-D4mkppCW.jpg" bytes read 0 written 451970
+Mar 20 18:48:50 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|1|451970|0|0|0|2f6173736574732f6865726f2d76696e65796172642d44346d6b707043572e6a7067|]
+Mar 20 18:48:51 10.71.60.0 tmp117274716-4743 open "/assets/hero-mR-Twn-f.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:51 10.71.60.0 tmp117274716-4743 close "/assets/hero-mR-Twn-f.jpg" bytes read 0 written 222320
+Mar 20 18:48:51 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|222320|0|0|0|2f6173736574732f6865726f2d6d522d54776e2d662e6a7067|]
+Mar 20 18:48:52 10.71.60.0 tmp117274716-4743 open "/assets/stone-ridge-ndvi-BrW_OZMs.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:53 10.71.60.0 tmp117274716-4743 close "/assets/stone-ridge-ndvi-BrW_OZMs.png" bytes read 0 written 825346
+Mar 20 18:48:53 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|1|825346|0|0|0|2f6173736574732f73746f6e652d72696467652d6e6476692d4272575f4f5a4d732e706e67|]
+Mar 20 18:48:54 10.71.60.0 tmp117274716-4743 open "/assets/stone-ridge-multispectral-B5V1GH8r.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:54 10.71.60.0 tmp117274716-4743 close "/assets/stone-ridge-multispectral-B5V1GH8r.png" bytes read 0 written 903292
+Mar 20 18:48:54 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|903292|0|0|0|2f6173736574732f73746f6e652d72696467652d6d756c7469737065637472616c2d42355631474838722e706e67|]
+Mar 20 18:48:54 10.71.60.0 tmp117274716-4743 open "/assets/vineyard-analysis-B4GiS5Mn.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:54 10.71.60.0 tmp117274716-4743 close "/assets/vineyard-analysis-B4GiS5Mn.jpg" bytes read 0 written 218523
+Mar 20 18:48:54 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|218523|0|0|0|2f6173736574732f76696e65796172642d616e616c797369732d4234476953354d6e2e6a7067|]
+Mar 20 18:48:55 10.71.60.0 tmp117274716-4743 open "/assets/visual-observer-BErsSpSs.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:48:55 10.71.60.0 tmp117274716-4743 close "/assets/visual-observer-BErsSpSs.jpg" bytes read 0 written 131052
+Mar 20 18:48:55 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|131052|0|0|0|2f6173736574732f76697375616c2d6f627365727665722d42457273537053732e6a7067|]
+Mar 20 18:52:14 10.71.60.0 tmp117274716-4743 open "/index.html" flags READ mode 0666
+Mar 20 18:52:15 10.71.60.0 tmp117274716-4743 close "/index.html" bytes read 367638 written 0
+Mar 20 18:52:15 10.71.60.0 tmp117274716-4743 [10.71.60.0|get|1|367638|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 18:57:19 10.71.60.0 tmp117274716-4743 open "/index.html" flags READ mode 0666
+Mar 20 18:57:20 10.71.60.0 tmp117274716-4743 close "/index.html" bytes read 367638 written 0
+Mar 20 18:57:20 10.71.60.0 tmp117274716-4743 [10.71.60.0|get|1|367638|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 18:59:03 10.71.60.0 tmp117274716-4743 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 18:59:03 10.71.60.0 tmp117274716-4743 close "/index.html" bytes read 0 written 1294
+Mar 20 18:59:03 10.71.60.0 tmp117274716-4743 [10.71.60.0|put|0|1294|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 19:06:17 10.71.60.0 tmp117274716-4743 session closed for local user tmp117274716-4743 from [10.71.60.0]
+Mar 20 19:06:17 10.71.60.0 tmp117274716-4743 Connection closed by 10.71.60.0 port 54016
+Mar 20 19:12:10 10.71.60.0 tmp117274716-394 Connection from 10.71.60.0 port 41844 on 216.250.113.238 port 22 rdomain ""
+Mar 20 19:12:10 10.71.60.0 tmp117274716-394 Accepted password for tmp117274716-394 from 10.71.60.0 port 41844 ssh2
+Mar 20 19:12:10 10.71.60.0 tmp117274716-394 Starting session: subsystem 'sftp' for tmp117274716-394 from 10.71.60.0 port 41844 id 0
+Mar 20 19:12:10 10.71.60.0 tmp117274716-394 session opened for local user tmp117274716-394 from [10.71.60.0]
+Mar 20 19:20:11 10.71.60.0 tmp117274716-3353 Connection from 10.71.60.0 port 10962 on 216.250.113.238 port 22 rdomain ""
+Mar 20 19:20:11 10.71.60.0 tmp117274716-3353 Accepted password for tmp117274716-3353 from 10.71.60.0 port 10962 ssh2
+Mar 20 19:31:30 10.71.60.0 tmp117274716-3353 Connection closed by 10.71.60.0 port 10962
+Mar 20 19:31:44 10.71.60.0 tmp117274716-83 Connection from 10.71.60.0 port 57612 on 216.250.113.238 port 22 rdomain ""
+Mar 20 19:31:44 10.71.60.0 tmp117274716-83 Accepted password for tmp117274716-83 from 10.71.60.0 port 57612 ssh2
+Mar 20 19:36:46 10.71.60.0 tmp117274716-83 Connection closed by 10.71.60.0 port 57612
+Mar 20 19:37:39 10.71.60.0 tmp117274716-394 session closed for local user tmp117274716-394 from [10.71.60.0]
+Mar 20 19:37:39 10.71.60.0 tmp117274716-394 Connection closed by 10.71.60.0 port 41844
+Mar 20 19:39:08 10.71.60.0 tmp117274716-7446 Connection from 10.71.60.0 port 35748 on 216.250.113.238 port 22 rdomain ""
+Mar 20 19:39:09 10.71.60.0 tmp117274716-7446 Accepted password for tmp117274716-7446 from 10.71.60.0 port 35748 ssh2
+Mar 20 19:39:09 10.71.60.0 tmp117274716-7446 Starting session: subsystem 'sftp' for tmp117274716-7446 from 10.71.60.0 port 35748 id 0
+Mar 20 19:39:09 10.71.60.0 tmp117274716-7446 session opened for local user tmp117274716-7446 from [10.71.60.0]
+Mar 20 19:40:34 10.71.60.0 tmp117274716-1092 Connection from 10.71.60.0 port 59770 on 216.250.113.238 port 22 rdomain ""
+Mar 20 19:40:35 10.71.60.0 tmp117274716-1092 Accepted password for tmp117274716-1092 from 10.71.60.0 port 59770 ssh2
+Mar 20 19:45:06 10.71.60.0 tmp117274716-7446 open "/index.html" flags READ mode 0666
+Mar 20 19:45:07 10.71.60.0 tmp117274716-7446 close "/index.html" bytes read 367638 written 0
+Mar 20 19:45:07 10.71.60.0 tmp117274716-7446 [10.71.60.0|get|1|367638|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 19:46:38 10.71.60.0 tmp117274716-7446 open "/index.html" flags READ mode 0666
+Mar 20 19:46:39 10.71.60.0 tmp117274716-7446 close "/index.html" bytes read 367638 written 0
+Mar 20 19:46:39 10.71.60.0 tmp117274716-7446 [10.71.60.0|get|1|367638|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 19:49:44 10.71.60.0 tmp117274716-1092 Connection closed by 10.71.60.0 port 59770
+Mar 20 19:52:07 10.71.60.0 tmp117274716-7446 open "/index.html" flags READ mode 0666
+Mar 20 19:52:08 10.71.60.0 tmp117274716-7446 close "/index.html" bytes read 367638 written 0
+Mar 20 19:52:08 10.71.60.0 tmp117274716-7446 [10.71.60.0|get|1|367638|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 19:52:37 10.71.60.0 tmp117274716-7446 open "/index.html" flags READ mode 0666
+Mar 20 19:52:37 10.71.60.0 tmp117274716-7446 close "/index.html" bytes read 367638 written 0
+Mar 20 19:52:37 10.71.60.0 tmp117274716-7446 [10.71.60.0|get|0|367638|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 19:53:27 10.71.60.0 tmp117274716-7446 open "/index.html" flags READ mode 0666
+Mar 20 19:53:28 10.71.60.0 tmp117274716-7446 close "/index.html" bytes read 367638 written 0
+Mar 20 19:53:28 10.71.60.0 tmp117274716-7446 [10.71.60.0|get|1|367638|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 19:55:19 10.71.60.0 tmp117274716-7446 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 19:55:20 10.71.60.0 tmp117274716-7446 close "/index.html" bytes read 0 written 367993
+Mar 20 19:55:20 10.71.60.0 tmp117274716-7446 [10.71.60.0|put|1|367993|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:00:25 10.71.60.0 tmp117274716-7446 session closed for local user tmp117274716-7446 from [10.71.60.0]
+Mar 20 20:00:25 10.71.60.0 tmp117274716-7446 Connection closed by 10.71.60.0 port 35748
+Mar 20 20:02:37 10.71.60.0 tmp117274716-9326 Connection from 10.71.60.0 port 59604 on 216.250.113.238 port 22 rdomain ""
+Mar 20 20:02:38 10.71.60.0 tmp117274716-9326 Accepted password for tmp117274716-9326 from 10.71.60.0 port 59604 ssh2
+Mar 20 20:02:38 10.71.60.0 tmp117274716-9326 Starting session: subsystem 'sftp' for tmp117274716-9326 from 10.71.60.0 port 59604 id 0
+Mar 20 20:02:38 10.71.60.0 tmp117274716-9326 session opened for local user tmp117274716-9326 from [10.71.60.0]
+Mar 20 20:02:38 10.71.60.0 tmp117274716-9326 open "/index.html" flags READ mode 0666
+Mar 20 20:02:39 10.71.60.0 tmp117274716-9326 close "/index.html" bytes read 367993 written 0
+Mar 20 20:02:39 10.71.60.0 tmp117274716-9326 [10.71.60.0|get|1|367993|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:07:39 10.71.60.0 tmp117274716-9326 session closed for local user tmp117274716-9326 from [10.71.60.0]
+Mar 20 20:07:39 10.71.60.0 tmp117274716-9326 Connection closed by 10.71.60.0 port 59604
+Mar 20 20:08:00 10.71.60.0 tmp117274716-3156 Connection from 10.71.60.0 port 39234 on 216.250.113.238 port 22 rdomain ""
+Mar 20 20:08:01 10.71.60.0 tmp117274716-3156 Accepted password for tmp117274716-3156 from 10.71.60.0 port 39234 ssh2
+Mar 20 20:08:01 10.71.60.0 tmp117274716-3156 Starting session: subsystem 'sftp' for tmp117274716-3156 from 10.71.60.0 port 39234 id 0
+Mar 20 20:08:01 10.71.60.0 tmp117274716-3156 session opened for local user tmp117274716-3156 from [10.71.60.0]
+Mar 20 20:08:01 10.71.60.0 tmp117274716-3156 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:08:02 10.71.60.0 tmp117274716-3156 close "/index.html" bytes read 0 written 367919
+Mar 20 20:08:02 10.71.60.0 tmp117274716-3156 [10.71.60.0|put|1|367919|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:09:55 10.71.60.0 tmp117274716-3156 open "/index.html" flags READ mode 0666
+Mar 20 20:09:56 10.71.60.0 tmp117274716-3156 close "/index.html" bytes read 367919 written 0
+Mar 20 20:09:56 10.71.60.0 tmp117274716-3156 [10.71.60.0|get|1|367919|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:10:11 10.71.60.0 tmp117274716-3156 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:10:12 10.71.60.0 tmp117274716-3156 close "/index.html" bytes read 0 written 367978
+Mar 20 20:10:12 10.71.60.0 tmp117274716-3156 [10.71.60.0|put|1|367978|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:11:57 10.71.60.0 tmp117274716-3156 open "/index.html" flags READ mode 0666
+Mar 20 20:11:58 10.71.60.0 tmp117274716-3156 close "/index.html" bytes read 367978 written 0
+Mar 20 20:11:58 10.71.60.0 tmp117274716-3156 [10.71.60.0|get|1|367978|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:12:47 10.71.60.0 tmp117274716-3156 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:12:48 10.71.60.0 tmp117274716-3156 close "/index.html" bytes read 0 written 368135
+Mar 20 20:12:48 10.71.60.0 tmp117274716-3156 [10.71.60.0|put|1|368135|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:16:01 10.71.60.0 tmp117274716-3156 open "/index.html" flags READ mode 0666
+Mar 20 20:16:02 10.71.60.0 tmp117274716-3156 close "/index.html" bytes read 368135 written 0
+Mar 20 20:16:02 10.71.60.0 tmp117274716-3156 [10.71.60.0|get|1|368135|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:16:19 10.71.60.0 tmp117274716-3156 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:16:20 10.71.60.0 tmp117274716-3156 close "/index.html" bytes read 0 written 367994
+Mar 20 20:16:20 10.71.60.0 tmp117274716-3156 [10.71.60.0|put|1|367994|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:19:50 10.71.60.0 tmp117274716-3156 open "/index.html" flags READ mode 0666
+Mar 20 20:19:51 10.71.60.0 tmp117274716-3156 close "/index.html" bytes read 367994 written 0
+Mar 20 20:19:51 10.71.60.0 tmp117274716-3156 [10.71.60.0|get|1|367994|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:20:06 10.71.60.0 tmp117274716-3156 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:20:07 10.71.60.0 tmp117274716-3156 close "/index.html" bytes read 0 written 368009
+Mar 20 20:20:07 10.71.60.0 tmp117274716-3156 [10.71.60.0|put|1|368009|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:25:16 10.71.60.0 tmp117274716-3156 session closed for local user tmp117274716-3156 from [10.71.60.0]
+Mar 20 20:25:16 10.71.60.0 tmp117274716-3156 Connection closed by 10.71.60.0 port 39234
+Mar 20 20:26:50 10.71.60.0 tmp117274716-5220 Connection from 10.71.60.0 port 18516 on 216.250.113.238 port 22 rdomain ""
+Mar 20 20:26:50 10.71.60.0 tmp117274716-5220 Accepted password for tmp117274716-5220 from 10.71.60.0 port 18516 ssh2
+Mar 20 20:26:50 10.71.60.0 tmp117274716-5220 Starting session: subsystem 'sftp' for tmp117274716-5220 from 10.71.60.0 port 18516 id 0
+Mar 20 20:26:50 10.71.60.0 tmp117274716-5220 session opened for local user tmp117274716-5220 from [10.71.60.0]
+Mar 20 20:26:51 10.71.60.0 tmp117274716-5220 open "/index.html" flags READ mode 0666
+Mar 20 20:26:52 10.71.60.0 tmp117274716-5220 close "/index.html" bytes read 368009 written 0
+Mar 20 20:26:52 10.71.60.0 tmp117274716-5220 [10.71.60.0|get|1|368009|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:34:16 10.71.60.0 tmp117274716-5220 open "/index.html" flags READ mode 0666
+Mar 20 20:34:16 10.71.60.0 tmp117274716-5220 close "/index.html" bytes read 368009 written 0
+Mar 20 20:34:16 10.71.60.0 tmp117274716-5220 [10.71.60.0|get|0|368009|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:35:00 10.71.60.0 tmp117274716-5220 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:35:01 10.71.60.0 tmp117274716-5220 close "/index.html" bytes read 0 written 367638
+Mar 20 20:35:01 10.71.60.0 tmp117274716-5220 [10.71.60.0|put|1|367638|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:40:10 10.71.60.0 tmp117274716-5220 session closed for local user tmp117274716-5220 from [10.71.60.0]
+Mar 20 20:40:10 10.71.60.0 tmp117274716-5220 Connection closed by 10.71.60.0 port 18516
+Mar 20 20:50:56 10.71.60.0 tmp117274716-9627 Connection from 10.71.60.0 port 34802 on 216.250.113.238 port 22 rdomain ""
+Mar 20 20:50:56 10.71.60.0 tmp117274716-9627 Accepted password for tmp117274716-9627 from 10.71.60.0 port 34802 ssh2
+Mar 20 20:50:56 10.71.60.0 tmp117274716-9627 Starting session: subsystem 'sftp' for tmp117274716-9627 from 10.71.60.0 port 34802 id 0
+Mar 20 20:50:56 10.71.60.0 tmp117274716-9627 session opened for local user tmp117274716-9627 from [10.71.60.0]
+Mar 20 20:52:24 10.71.60.0 tmp117274716-9627 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:52:24 10.71.60.0 tmp117274716-9627 close "/index.html" bytes read 0 written 1294
+Mar 20 20:52:24 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|1294|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 20:56:13 10.71.60.0 tmp117274716-9627 open "/assets/service-photography-CtnubafC.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:13 10.71.60.0 tmp117274716-9627 close "/assets/service-photography-CtnubafC.jpg" bytes read 0 written 65028
+Mar 20 20:56:13 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|65028|0|0|0|2f6173736574732f736572766963652d70686f746f6772617068792d43746e75626166432e6a7067|]
+Mar 20 20:56:14 10.71.60.0 tmp117274716-9627 open "/assets/service-inspections-CVkxRpmN.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:14 10.71.60.0 tmp117274716-9627 close "/assets/service-inspections-CVkxRpmN.jpg" bytes read 0 written 53662
+Mar 20 20:56:14 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|53662|0|0|0|2f6173736574732f736572766963652d696e7370656374696f6e732d43566b7852706d4e2e6a7067|]
+Mar 20 20:56:15 10.71.60.0 tmp117274716-9627 open "/assets/service-mapping-fNcNt9Nr.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:15 10.71.60.0 tmp117274716-9627 close "/assets/service-mapping-fNcNt9Nr.jpg" bytes read 0 written 137716
+Mar 20 20:56:15 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|137716|0|0|0|2f6173736574732f736572766963652d6d617070696e672d664e634e74394e722e6a7067|]
+Mar 20 20:56:17 10.71.60.0 tmp117274716-9627 open "/assets/drone-dock-BioK52_M.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:17 10.71.60.0 tmp117274716-9627 close "/assets/drone-dock-BioK52_M.jpg" bytes read 0 written 53191
+Mar 20 20:56:17 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|53191|0|0|0|2f6173736574732f64726f6e652d646f636b2d42696f4b35325f4d2e6a7067|]
+Mar 20 20:56:17 10.71.60.0 tmp117274716-9627 open "/assets/aircraft-mission-CssKCvi-.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:18 10.71.60.0 tmp117274716-9627 close "/assets/aircraft-mission-CssKCvi-.jpg" bytes read 0 written 118690
+Mar 20 20:56:18 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|1|118690|0|0|0|2f6173736574732f61697263726166742d6d697373696f6e2d4373734b4376692d2e6a7067|]
+Mar 20 20:56:18 10.71.60.0 tmp117274716-9627 open "/assets/stone-ridge-rgb-DiXsA1sm.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:18 10.71.60.0 tmp117274716-9627 close "/assets/stone-ridge-rgb-DiXsA1sm.png" bytes read 0 written 602562
+Mar 20 20:56:18 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|602562|0|0|0|2f6173736574732f73746f6e652d72696467652d7267622d446958734131736d2e706e67|]
+Mar 20 20:56:19 10.71.60.0 tmp117274716-9627 open "/assets/hero-vineyard-D4mkppCW.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:19 10.71.60.0 tmp117274716-9627 close "/assets/hero-vineyard-D4mkppCW.jpg" bytes read 0 written 451970
+Mar 20 20:56:19 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|451970|0|0|0|2f6173736574732f6865726f2d76696e65796172642d44346d6b707043572e6a7067|]
+Mar 20 20:56:20 10.71.60.0 tmp117274716-9627 open "/assets/stone-ridge-multispectral-B5V1GH8r.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:21 10.71.60.0 tmp117274716-9627 close "/assets/stone-ridge-multispectral-B5V1GH8r.png" bytes read 0 written 903292
+Mar 20 20:56:21 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|1|903292|0|0|0|2f6173736574732f73746f6e652d72696467652d6d756c7469737065637472616c2d42355631474838722e706e67|]
+Mar 20 20:56:21 10.71.60.0 tmp117274716-9627 open "/assets/stone-ridge-ndvi-BrW_OZMs.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:22 10.71.60.0 tmp117274716-9627 close "/assets/stone-ridge-ndvi-BrW_OZMs.png" bytes read 0 written 825346
+Mar 20 20:56:22 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|1|825346|0|0|0|2f6173736574732f73746f6e652d72696467652d6e6476692d4272575f4f5a4d732e706e67|]
+Mar 20 20:56:22 10.71.60.0 tmp117274716-9627 open "/assets/index-J036UYYE.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:22 10.71.60.0 tmp117274716-9627 close "/assets/index-J036UYYE.js" bytes read 0 written 459854
+Mar 20 20:56:22 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|459854|0|0|0|2f6173736574732f696e6465782d4a303336555959452e6a73|]
+Mar 20 20:56:22 10.71.60.0 tmp117274716-9627 open "/assets/visual-observer-BErsSpSs.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:23 10.71.60.0 tmp117274716-9627 close "/assets/visual-observer-BErsSpSs.jpg" bytes read 0 written 131052
+Mar 20 20:56:23 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|1|131052|0|0|0|2f6173736574732f76697375616c2d6f627365727665722d42457273537053732e6a7067|]
+Mar 20 20:56:23 10.71.60.0 tmp117274716-9627 open "/assets/stone-ridge-rgb-2-ydM0Cf-S.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:24 10.71.60.0 tmp117274716-9627 close "/assets/stone-ridge-rgb-2-ydM0Cf-S.png" bytes read 0 written 837159
+Mar 20 20:56:24 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|1|837159|0|0|0|2f6173736574732f73746f6e652d72696467652d7267622d322d79644d3043662d532e706e67|]
+Mar 20 20:56:24 10.71.60.0 tmp117274716-9627 open "/assets/stone-ridge-thermal-BWvnEjRT.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:25 10.71.60.0 tmp117274716-9627 close "/assets/stone-ridge-thermal-BWvnEjRT.png" bytes read 0 written 648831
+Mar 20 20:56:25 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|1|648831|0|0|0|2f6173736574732f73746f6e652d72696467652d746865726d616c2d4257766e456a52542e706e67|]
+Mar 20 20:56:26 10.71.60.0 tmp117274716-9627 open "/assets/ndvi-map-C25K-dbF.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:27 10.71.60.0 tmp117274716-9627 close "/assets/ndvi-map-C25K-dbF.jpg" bytes read 0 written 2733536
+Mar 20 20:56:27 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|1|2733536|0|0|0|2f6173736574732f6e6476692d6d61702d4332354b2d6462462e6a7067|]
+Mar 20 20:56:27 10.71.60.0 tmp117274716-9627 open "/assets/hero-mR-Twn-f.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:27 10.71.60.0 tmp117274716-9627 close "/assets/hero-mR-Twn-f.jpg" bytes read 0 written 222320
+Mar 20 20:56:27 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|222320|0|0|0|2f6173736574732f6865726f2d6d522d54776e2d662e6a7067|]
+Mar 20 20:56:28 10.71.60.0 tmp117274716-9627 open "/assets/service-3d-CXrZyiHj.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:28 10.71.60.0 tmp117274716-9627 close "/assets/service-3d-CXrZyiHj.jpg" bytes read 0 written 139765
+Mar 20 20:56:28 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|139765|0|0|0|2f6173736574732f736572766963652d33642d4358725a7969486a2e6a7067|]
+Mar 20 20:56:29 10.71.60.0 tmp117274716-9627 open "/assets/vineyard-analysis-B4GiS5Mn.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:29 10.71.60.0 tmp117274716-9627 close "/assets/vineyard-analysis-B4GiS5Mn.jpg" bytes read 0 written 218523
+Mar 20 20:56:29 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|218523|0|0|0|2f6173736574732f76696e65796172642d616e616c797369732d4234476953354d6e2e6a7067|]
+Mar 20 20:56:29 10.71.60.0 tmp117274716-9627 open "/assets/index-Cl5dEuVA.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:30 10.71.60.0 tmp117274716-9627 close "/assets/index-Cl5dEuVA.css" bytes read 0 written 68663
+Mar 20 20:56:30 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|1|68663|0|0|0|2f6173736574732f696e6465782d436c3564457556412e637373|]
+Mar 20 20:56:30 10.71.60.0 tmp117274716-9627 open "/assets/service-thermal-B9BCLyvy.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:30 10.71.60.0 tmp117274716-9627 close "/assets/service-thermal-B9BCLyvy.jpg" bytes read 0 written 59157
+Mar 20 20:56:30 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|59157|0|0|0|2f6173736574732f736572766963652d746865726d616c2d423942434c7976792e6a7067|]
+Mar 20 20:56:32 10.71.60.0 tmp117274716-9627 open "/assets/rgb-vineyard-BWeJ2_5H.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:33 10.71.60.0 tmp117274716-9627 close "/assets/rgb-vineyard-BWeJ2_5H.jpg" bytes read 0 written 2639643
+Mar 20 20:56:33 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|1|2639643|0|0|0|2f6173736574732f7267622d76696e65796172642d4257654a325f35482e6a7067|]
+Mar 20 20:56:34 10.71.60.0 tmp117274716-9627 open "/assets/service-monitoring-BU_Ek5J6.jpg" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 20:56:34 10.71.60.0 tmp117274716-9627 close "/assets/service-monitoring-BU_Ek5J6.jpg" bytes read 0 written 137904
+Mar 20 20:56:34 10.71.60.0 tmp117274716-9627 [10.71.60.0|put|0|137904|0|0|0|2f6173736574732f736572766963652d6d6f6e69746f72696e672d42555f456b354a362e6a7067|]
+Mar 20 21:01:48 10.71.60.0 tmp117274716-9627 session closed for local user tmp117274716-9627 from [10.71.60.0]
+Mar 20 21:01:48 10.71.60.0 tmp117274716-9627 Connection closed by 10.71.60.0 port 34802
+Mar 20 21:04:42 10.71.60.0 tmp117274716-796 Connection from 10.71.60.0 port 51330 on 216.250.113.238 port 22 rdomain ""
+Mar 20 21:04:43 10.71.60.0 tmp117274716-796 Accepted password for tmp117274716-796 from 10.71.60.0 port 51330 ssh2
+Mar 20 21:04:43 10.71.60.0 tmp117274716-796 Starting session: subsystem 'sftp' for tmp117274716-796 from 10.71.60.0 port 51330 id 0
+Mar 20 21:04:43 10.71.60.0 tmp117274716-796 session opened for local user tmp117274716-796 from [10.71.60.0]
+Mar 20 21:05:00 10.71.60.0 tmp117274716-796 Connection from 10.71.60.0 port 45484 on 216.250.113.238 port 22 rdomain ""
+Mar 20 21:05:00 10.71.60.0 tmp117274716-796 Accepted password for tmp117274716-796 from 10.71.60.0 port 45484 ssh2
+Mar 20 21:14:59 10.71.60.0 tmp117274716-796 Connection closed by 10.71.60.0 port 45484
+Mar 20 21:15:01 10.71.60.0 tmp117274716-796 session closed for local user tmp117274716-796 from [10.71.60.0]
+Mar 20 21:15:01 10.71.60.0 tmp117274716-796 Connection closed by 10.71.60.0 port 51330
+Mar 20 21:34:58 10.71.60.0 tmp117274716-5930 Connection from 10.71.60.0 port 60476 on 216.250.113.238 port 22 rdomain ""
+Mar 20 21:34:58 10.71.60.0 tmp117274716-5930 Accepted password for tmp117274716-5930 from 10.71.60.0 port 60476 ssh2
+Mar 20 21:34:59 10.71.60.0 tmp117274716-5930 Starting session: subsystem 'sftp' for tmp117274716-5930 from 10.71.60.0 port 60476 id 0
+Mar 20 21:34:59 10.71.60.0 tmp117274716-5930 session opened for local user tmp117274716-5930 from [10.71.60.0]
+Mar 20 21:35:20 10.71.60.0 tmp117274716-5930 Connection from 10.71.60.0 port 58532 on 216.250.113.238 port 22 rdomain ""
+Mar 20 21:35:21 10.71.60.0 tmp117274716-5930 Accepted password for tmp117274716-5930 from 10.71.60.0 port 58532 ssh2
+Mar 20 21:40:21 10.71.60.0 tmp117274716-5930 Connection closed by 10.71.60.0 port 58532
+Mar 20 21:42:06 10.71.60.0 tmp117274716-5930 session closed for local user tmp117274716-5930 from [10.71.60.0]
+Mar 20 21:42:06 10.71.60.0 tmp117274716-5930 Connection closed by 10.71.60.0 port 60476
+Mar 20 21:44:04 10.71.60.0 tmp117274716-4622 Connection from 10.71.60.0 port 51754 on 216.250.113.238 port 22 rdomain ""
+Mar 20 21:44:04 10.71.60.0 tmp117274716-4622 Accepted password for tmp117274716-4622 from 10.71.60.0 port 51754 ssh2
+Mar 20 21:44:04 10.71.60.0 tmp117274716-4622 Starting session: subsystem 'sftp' for tmp117274716-4622 from 10.71.60.0 port 51754 id 0
+Mar 20 21:44:04 10.71.60.0 tmp117274716-4622 session opened for local user tmp117274716-4622 from [10.71.60.0]
+Mar 20 21:44:08 10.71.60.0 tmp117274716-4622 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 21:44:09 10.71.60.0 tmp117274716-4622 close "/index.html" bytes read 0 written 367690
+Mar 20 21:44:09 10.71.60.0 tmp117274716-4622 [10.71.60.0|put|1|367690|0|0|0|2f696e6465782e68746d6c|]
+Mar 20 21:45:04 10.71.60.0 tmp117274716-4622 open "/assets/index-XFsu3srj.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 21:45:04 10.71.60.0 tmp117274716-4622 close "/assets/index-XFsu3srj.css" bytes read 0 written 140411
+Mar 20 21:45:04 10.71.60.0 tmp117274716-4622 [10.71.60.0|put|0|140411|0|0|0|2f6173736574732f696e6465782d584673753373726a2e637373|]
+Mar 20 21:45:05 10.71.60.0 tmp117274716-4622 open "/assets/index-DzuXRmcg.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 20 21:45:06 10.71.60.0 tmp117274716-4622 close "/assets/index-DzuXRmcg.js" bytes read 0 written 654526
+Mar 20 21:45:06 10.71.60.0 tmp117274716-4622 [10.71.60.0|put|1|654526|0|0|0|2f6173736574732f696e6465782d447a7558526d63672e6a73|]
+Mar 20 21:48:07 10.71.60.0 tmp117274716-8013 Connection from 10.71.60.0 port 12144 on 216.250.113.238 port 22 rdomain ""
+Mar 20 21:48:08 10.71.60.0 tmp117274716-8013 Accepted password for tmp117274716-8013 from 10.71.60.0 port 12144 ssh2
+Mar 20 21:56:47 10.71.60.0 tmp117274716-8013 Connection closed by 10.71.60.0 port 12144
+Mar 20 21:56:49 10.71.60.0 tmp117274716-4622 session closed for local user tmp117274716-4622 from [10.71.60.0]
+Mar 20 21:56:49 10.71.60.0 tmp117274716-4622 Connection closed by 10.71.60.0 port 51754
+Mar 21 15:42:53 10.71.60.0 tmp117274716-8143 Connection from 10.71.60.0 port 32698 on 216.250.113.238 port 22 rdomain ""
+Mar 21 15:42:54 10.71.60.0 tmp117274716-8143 Accepted password for tmp117274716-8143 from 10.71.60.0 port 32698 ssh2
+Mar 21 15:42:54 10.71.60.0 tmp117274716-8143 Starting session: subsystem 'sftp' for tmp117274716-8143 from 10.71.60.0 port 32698 id 0
+Mar 21 15:42:54 10.71.60.0 tmp117274716-8143 session opened for local user tmp117274716-8143 from [10.71.60.0]
+Mar 21 15:43:29 10.71.60.0 tmp117274716-8143 Connection from 10.71.60.0 port 53698 on 216.250.113.238 port 22 rdomain ""
+Mar 21 15:43:29 10.71.60.0 tmp117274716-8143 Accepted password for tmp117274716-8143 from 10.71.60.0 port 53698 ssh2
+Mar 21 15:48:30 10.71.60.0 tmp117274716-8143 Connection closed by 10.71.60.0 port 53698
+Mar 21 15:49:24 10.71.60.0 tmp117274716-8143 session closed for local user tmp117274716-8143 from [10.71.60.0]
+Mar 21 15:49:24 10.71.60.0 tmp117274716-8143 Connection closed by 10.71.60.0 port 32698
+Mar 21 16:15:13 10.71.60.0 tmp117274716-7803 Connection from 10.71.60.0 port 40244 on 216.250.113.238 port 22 rdomain ""
+Mar 21 16:15:13 10.71.60.0 tmp117274716-7803 Accepted password for tmp117274716-7803 from 10.71.60.0 port 40244 ssh2
+Mar 21 16:15:13 10.71.60.0 tmp117274716-7803 Starting session: subsystem 'sftp' for tmp117274716-7803 from 10.71.60.0 port 40244 id 0
+Mar 21 16:15:13 10.71.60.0 tmp117274716-7803 session opened for local user tmp117274716-7803 from [10.71.60.0]
+Mar 21 16:15:36 10.71.60.0 tmp117274716-7803 Connection from 10.71.60.0 port 54610 on 216.250.113.238 port 22 rdomain ""
+Mar 21 16:15:37 10.71.60.0 tmp117274716-7803 Accepted password for tmp117274716-7803 from 10.71.60.0 port 54610 ssh2
+Mar 21 16:16:05 10.71.60.0 tmp117274716-7803 open "/aerospect-deploy.zip" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 21 16:16:06 10.71.60.0 tmp117274716-7803 close "/aerospect-deploy.zip" bytes read 0 written 320198
+Mar 21 16:16:06 10.71.60.0 tmp117274716-7803 [10.71.60.0|put|1|320198|0|0|0|2f6165726f73706563742d6465706c6f792e7a6970|]
+Mar 21 16:17:08 10.71.60.0 tmp117274716-7803 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 21 16:17:09 10.71.60.0 tmp117274716-7803 close "/index.html" bytes read 0 written 367690
+Mar 21 16:17:09 10.71.60.0 tmp117274716-7803 [10.71.60.0|put|1|367690|0|0|0|2f696e6465782e68746d6c|]
+Mar 21 16:17:58 10.71.60.0 tmp117274716-7803 mkdir name "/assets" mode 0777
+Mar 21 16:17:58 10.71.60.0 tmp117274716-7803 [10.71.60.0|mkdir|0|0|511|0|0|2f617373657473|]
+Mar 21 16:18:22 10.71.60.0 tmp117274716-7803 open "/assets/index-DdOMB8L6.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 21 16:18:23 10.71.60.0 tmp117274716-7803 close "/assets/index-DdOMB8L6.js" bytes read 0 written 645147
+Mar 21 16:18:23 10.71.60.0 tmp117274716-7803 [10.71.60.0|put|1|645147|0|0|0|2f6173736574732f696e6465782d44644f4d42384c362e6a73|]
+Mar 21 16:18:25 10.71.60.0 tmp117274716-7803 open "/assets/index-DrLuOUll.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 21 16:18:25 10.71.60.0 tmp117274716-7803 close "/assets/index-DrLuOUll.css" bytes read 0 written 139202
+Mar 21 16:18:25 10.71.60.0 tmp117274716-7803 [10.71.60.0|put|0|139202|0|0|0|2f6173736574732f696e6465782d44724c754f556c6c2e637373|]
+Mar 21 16:32:36 10.71.60.0 tmp117274716-7803 Connection closed by 10.71.60.0 port 54610
+Mar 21 16:32:38 10.71.60.0 tmp117274716-7803 Connection closed by 10.71.60.0 port 40244
+Mar 21 16:32:38 10.71.60.0 tmp117274716-7803 session closed for local user tmp117274716-7803 from [10.71.60.0]
+Mar 21 16:39:08 10.71.60.0 tmp117274716-1335 Connection from 10.71.60.0 port 16988 on 216.250.113.238 port 22 rdomain ""
+Mar 21 16:39:09 10.71.60.0 tmp117274716-1335 Accepted password for tmp117274716-1335 from 10.71.60.0 port 16988 ssh2
+Mar 21 16:39:09 10.71.60.0 tmp117274716-1335 Starting session: subsystem 'sftp' for tmp117274716-1335 from 10.71.60.0 port 16988 id 0
+Mar 21 16:39:09 10.71.60.0 tmp117274716-1335 session opened for local user tmp117274716-1335 from [10.71.60.0]
+Mar 21 16:39:29 10.71.60.0 tmp117274716-1335 Connection from 10.71.60.0 port 55758 on 216.250.113.238 port 22 rdomain ""
+Mar 21 16:39:29 10.71.60.0 tmp117274716-1335 Accepted password for tmp117274716-1335 from 10.71.60.0 port 55758 ssh2
+Mar 21 16:44:30 10.71.60.0 tmp117274716-1335 Connection closed by 10.71.60.0 port 55758
+Mar 21 16:44:31 10.71.60.0 tmp117274716-1335 session closed for local user tmp117274716-1335 from [10.71.60.0]
+Mar 21 16:44:31 10.71.60.0 tmp117274716-1335 Connection closed by 10.71.60.0 port 16988
+Mar 21 16:48:02 10.71.60.0 tmp117274716-2788 Connection from 10.71.60.0 port 60270 on 216.250.113.238 port 22 rdomain ""
+Mar 21 16:48:03 10.71.60.0 tmp117274716-2788 Accepted password for tmp117274716-2788 from 10.71.60.0 port 60270 ssh2
+Mar 21 16:48:03 10.71.60.0 tmp117274716-2788 Starting session: subsystem 'sftp' for tmp117274716-2788 from 10.71.60.0 port 60270 id 0
+Mar 21 16:48:03 10.71.60.0 tmp117274716-2788 session opened for local user tmp117274716-2788 from [10.71.60.0]
+Mar 21 16:48:06 10.71.60.0 tmp117274716-2788 open "/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+Mar 21 16:48:06 10.71.60.0 tmp117274716-2788 close "/index.html" bytes read 0 written 1294
+Mar 21 16:48:06 10.71.60.0 tmp117274716-2788 [10.71.60.0|put|0|1294|0|0|0|2f696e6465782e68746d6c|]
+Mar 21 16:55:01 10.71.60.0 tmp117274716-2788 Connection closed by 10.71.60.0 port 60270
+Mar 21 16:55:01 10.71.60.0 tmp117274716-2788 session closed for local user tmp117274716-2788 from [10.71.60.0]
+Mar 21 17:46:48 10.71.60.0 tmp117274716-521 Connection from 10.71.60.0 port 40092 on 216.250.113.238 port 22 rdomain ""
+Mar 21 17:46:49 10.71.60.0 tmp117274716-521 Accepted password for tmp117274716-521 from 10.71.60.0 port 40092 ssh2
+Mar 21 17:46:49 10.71.60.0 tmp117274716-521 Starting session: subsystem 'sftp' for tmp117274716-521 from 10.71.60.0 port 40092 id 0
+Mar 21 17:46:49 10.71.60.0 tmp117274716-521 session opened for local user tmp117274716-521 from [10.71.60.0]
+Mar 21 17:49:34 10.71.60.0 tmp117274716-521 open "/_ProviderRestore/index.html" flags READ mode 0666
+Mar 21 17:49:35 10.71.60.0 tmp117274716-521 close "/_ProviderRestore/index.html" bytes read 367638 written 0
+Mar 21 17:49:35 10.71.60.0 tmp117274716-521 [10.71.60.0|get|1|367638|0|0|0|2f5f50726f7669646572526573746f72652f696e6465782e68746d6c|]
+Mar 21 17:49:51 10.71.60.0 tmp117274716-4839 Connection from 10.71.60.0 port 29614 on 216.250.113.238 port 22 rdomain ""
+Mar 21 17:49:51 10.71.60.0 tmp117274716-4839 Accepted password for tmp117274716-4839 from 10.71.60.0 port 29614 ssh2
+Mar 21 17:55:46 10.71.60.0 tmp117274716-4839 Connection closed by 10.71.60.0 port 29614
+Mar 21 17:58:58 10.71.60.0 tmp117274716-4187 Connection from 10.71.60.0 port 54818 on 216.250.113.238 port 22 rdomain ""
+Mar 21 17:58:59 10.71.60.0 tmp117274716-4187 Accepted password for tmp117274716-4187 from 10.71.60.0 port 54818 ssh2

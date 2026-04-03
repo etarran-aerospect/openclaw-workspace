@@ -1,0 +1,8 @@
+Options +Indexes
+RemoveHandler .html
+RemoveType .html
+AddType text/html .html
+AuthType Basic
+AuthName "Access to /logs"
+AuthUserFile /kunden/homepages/15/d1015148785/htpasswd
+Require user u117274716

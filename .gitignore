@@ -56,3 +56,5 @@ grape_pipeline/*preview.jpg
 grape_pipeline/annotated_grapes_seed.jpg
 *:Zone.Identifier
 runs/
+*.zip
+tmp_coreg/
