@@ -1,60 +1,16 @@
-# Ignore nested repos / projects
-aerospect-simplified/
-aerospect-website-manus/
-
-# Ignore node_modules and build artifacts if they exist
-node_modules/
-dist/
-build/
-
-# Ignore OpenClaw internal stuff if any shows up
-.clawhub/
-# Ignore nested repos / projects
-aerospect-simplified/
-aerospect-website/
-aerospect-website-manus/
-
-# Ignore node_modules and build artifacts if they exist
-node_modules/
-dist/
-build/
-
-# Ignore OpenClaw internal stuff if any shows up
-.clawhub/
-website/
-
-# Avoid case-variant duplicate demo folder (keep StoneRidgeDemo/ as canonical)
-stone_ridge_demo/
-
-# Local machine / runtime stuff (do not sync)
-.openclaw/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
 .venv/
+env/
+.env
 
-# Secrets / local MCP configs (do not sync)
-config/
+# Data
+solana-sniper-v2/data/*.json
+solana-sniper-v2/data/*.bak
+prediction-bot-v1/data/*.json
 
-# Scratch / experiments (do not sync)
-x402-sim/
-
-# Local scratch downloads / exports
-tmp/
-
-# Local ML/runtime artifacts
-grape_pipeline/.venv-grapes/
-grape_pipeline/incoming_images/
-grape_pipeline/dataset_detector/images/
-grape_pipeline/dataset_detector/labels/
-grape_pipeline/dataset_detector/*.cache
-grape_pipeline/dataset_detector/labels/*.cache
-grape_pipeline/dataset_counter/train/images/
-grape_pipeline/dataset_counter/val/images/
-grape_pipeline/seed_previews/
-grape_pipeline/web_sources/
-grape_pipeline/*.pt
-grape_pipeline/yolov8n.pt
-grape_pipeline/*preview.jpg
-grape_pipeline/annotated_grapes_seed.jpg
-*:Zone.Identifier
-runs/
-*.zip
-tmp_coreg/
+# OS
+.DS_Store

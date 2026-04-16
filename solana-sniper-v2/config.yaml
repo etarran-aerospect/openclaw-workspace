@@ -1,0 +1,97 @@
+preset: aggressive
+strategy_mode: single_buy
+
+portfolio:
+  max_open_trades: 12
+  max_position_slices: 36
+
+filters:
+  min_age_minutes: 0
+  max_age_minutes: 240
+  min_liquidity_usd: 1000
+  min_volume_5m_usd: 0
+  min_buys_5m: 0
+  require_quote_symbol: SOL
+  blacklist_terms:
+    - test
+    - scam
+    - rug
+    - honeypot
+  block_missing_socials: false
+  min_fdv_usd: 0
+  max_fdv_usd: 10000000
+  max_entry_move_pct: 35
+
+gmgn_filters:
+  enabled: true
+  allowed_launchpad_platforms:
+    - Pump.fun
+    - letsbonk
+  max_open_minutes: 90
+  max_rug_ratio: 0.3
+  max_bundler_rate: 0.45
+  max_top_10_holder_rate: 0.55
+  min_smart_degen_count: 0
+  min_renowned_count: 0
+  min_holder_count: 0
+  require_owner_renounced: false
+  require_socials: false
+  allow_creator_hold: true
+
+pre_migration_filters:
+  enabled: true
+  allowed_buckets:
+    - new_creation
+    - near_completion
+  min_market_cap_usd: 750
+  max_market_cap_usd: 70000
+  min_liquidity_usd: 2000
+  min_holder_count: 3
+  min_progress_pct: 0.15
+  max_progress_pct: 98
+  max_rug_ratio: 0.35
+  max_bundler_rate: 0.45
+  require_socials: false
+
+trade:
+  amount_usdc: 100
+  take_profit_pct: 20
+  stop_loss_pct: 10
+  trailing_stop_pct: 8
+  tp_mode: fixed
+  break_even_after_tp: true
+
+ladder:
+  probe_buy_usdc: 20
+  probe_buy_count: 3
+  probe_spacing_seconds: 8
+  confirm_buy_usdc: 100
+  confirm_min_liquidity_usd: 3000
+  confirm_min_volume_5m_usd: 75
+  confirm_min_buys_5m: 2
+  confirm_max_drawdown_pct: 35
+  require_price_above_probe_avg: false
+  require_liquidity_not_falling: true
+
+monitor:
+  discovery_interval_seconds: 10
+  price_poll_interval_seconds: 5
+  stale_after_seconds: 30
+  min_hold_seconds: 10
+  exit_if_liquidity_below_usd: 2000
+  exit_if_volume_5m_below_usd: 25
+  exit_if_buys_5m_below: 1
+  post_migration_acceptance_window_seconds: 120
+  post_migration_fail_if_pnl_below_pct: -15
+  post_migration_fail_if_liquidity_below_usd: 2500
+  post_migration_fail_if_volume_5m_below_usd: 75
+  post_migration_fail_if_buys_5m_below: 1
+
+discovery:
+  source: gmgn
+  chain: sol
+  api_key: gmgn_d161a296dc9a7d76bd9395044e84f09f
+  rpc_http_url: https://api.mainnet-beta.solana.com
+  poll_interval_seconds: 10
+  fallback_to_dexscreener: true
+  fallback_after_empty_polls: 2

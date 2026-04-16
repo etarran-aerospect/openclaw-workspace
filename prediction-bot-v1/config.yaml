@@ -1,0 +1,33 @@
+market:
+  venue: polymarket
+  recurring_mode: crypto_5m
+  target_assets:
+    - btc
+    - eth
+    - sol
+    - xrp
+    - doge
+    - hype
+    - bnb
+  min_liquidity: 0
+  min_volume: 0
+  avoid_near_resolution_minutes: 0
+
+portfolio:
+  max_open_positions: 5
+  max_position_usdc: 25
+  max_total_exposure_usdc: 100
+
+strategy:
+  mode: paper
+  entry_edge_pct: 0
+  max_entry_price: 0.50
+  min_entry_price: 0.08
+  require_spread_below: 0.10
+  exit_take_profit_pct: 8
+  exit_stop_loss_pct: 6
+  stale_after_seconds: 120
+
+monitor:
+  discovery_interval_seconds: 30
+  poll_interval_seconds: 15
