@@ -58,3 +58,7 @@ grape_pipeline/annotated_grapes_seed.jpg
 runs/
 *.zip
 tmp_coreg/
+
+# External persistent agent memory. In this workspace, AI may be a symlink to ~/AI.
+AI
+AI/
