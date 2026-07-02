@@ -32,6 +32,7 @@ stone_ridge_demo/
 
 # Secrets / local MCP configs (do not sync)
 config/
+ssh-key-*.key
 
 # Scratch / experiments (do not sync)
 x402-sim/

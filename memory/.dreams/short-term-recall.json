@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-22T17:06:58.558Z",
+  "entries": {
+    "memory:memory/2026-03-02.md:1:22": {
+      "key": "memory:memory/2026-03-02.md:1:22",
+      "path": "memory/2026-03-02.md",
+      "startLine": 1,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "# 2026-03-02 ## Remote desktop capability plan (primary goal) Ethan’s primary goal: maximize ability to use OpenClaw + Desktop remotely with as many functions/capabilities as possible. ### Agreed approach / priorities 1) Install Tailscale on **Windows** (Desktop) + Windows laptop for stable remote access. 2) Enable/verify SSH access (prefer Tailscale SSH into Windows). Then use `wsl` from that shell to manage WSL/OpenClaw. 3) Finish ACP Gemini setup on Desktop: - Set `GEMINI_API_KEY` in the **openclaw-gateway systemd service** environment in WSL via `/etc/openclaw/secrets.env` + systemd override `EnvironmentFile=`. - Restart `openclaw-gateway`. - Run a Gemini ACP smoke test. 4) In",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-22T17:06:58.558Z",
+      "lastRecalledAt": "2026-05-22T17:06:58.558Z",
+      "queryHashes": [
+        "3056c9b0e379"
+      ],
+      "recallDays": [
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "gateway",
+        "functions/capabilities",
+        "enable/verify",
+        "wsl/openclaw",
+        "gemini-api-key",
+        "openclaw-gateway",
+        "etc/openclaw/secrets.env",
+        "remote"
+      ]
+    },
+    "memory:memory/2026-03-04.md:29:38": {
+      "key": "memory:memory/2026-03-04.md:29:38",
+      "path": "memory/2026-03-04.md",
+      "startLine": 29,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "- Browser relay instability occurred repeatedly (`tab not found` detaches), requiring intermittent manual user actions during IONOS operations. ## Website deploy checkpoint (2026-03-04, afternoon) - Production deploy confirmed live on `www.aerospectinc.com` - SPA routing fixed via `.htaccess` - Sample flow now uses FormSubmit token endpoint: `https://formsubmit.co/1ea4fbaf41ed956ba511c3d9f98167e0` - Current behavior: collect lead emails; autoresponse says report is being updated (no live access link) - `hello@aerospectinc.com` forwarding fixed",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-22T17:06:58.558Z",
+      "lastRecalledAt": "2026-05-22T17:06:58.558Z",
+      "queryHashes": [
+        "3056c9b0e379"
+      ],
+      "recallDays": [
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "www.aerospectinc.com",
+        "aerospectinc.com",
+        "browser",
+        "relay",
+        "instability",
+        "occurred",
+        "repeatedly",
+        "tab"
+      ]
+    },
+    "memory:memory/2026-03-02.md:215:231": {
+      "key": "memory:memory/2026-03-02.md:215:231",
+      "path": "memory/2026-03-02.md",
+      "startLine": 215,
+      "endLine": 231,
+      "source": "memory",
+      "snippet": "- Instructed user to hard refresh; offered to commit fix immediately. ## 2026-03-02 18:55 (America/Tijuana) — Durable update - User confirmed homepage now looks good and acknowledged strong overall progress for the day. - Assistant summarized completed outcomes: safe Manus+local merge, conflict resolution, real Services image wiring, runtime icon import fix, and successful render. - Proposed final wrap-up step: commit latest icon-import fix and push when user approves. ## 2026-03-02 18:55 (America/Tijuana) — End-of-day sync - User paused work for tonight and requested backup sync to GitHub. - Committed final runtime fix in repo `/home/ethantarran/code/aerospect-website-new-manus`: - `71d",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-22T17:06:58.558Z",
+      "lastRecalledAt": "2026-05-22T17:06:58.558Z",
+      "queryHashes": [
+        "3056c9b0e379"
+      ],
+      "recallDays": [
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "backup",
+        "america/tijuana",
+        "wrap-up",
+        "icon-import",
+        "end-of-day",
+        "instructed",
+        "hard",
+        "refresh"
+      ]
+    },
+    "memory:memory/2026-03-20.md:1:7": {
+      "key": "memory:memory/2026-03-20.md:1:7",
+      "path": "memory/2026-03-20.md",
+      "startLine": 1,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "- Worked on AeroSpect BVLOS page in repo `etarran-aerospect/aerospect` (Vite+React). Implemented major copy/SEO/UI updates, images, reduced whitespace, added LinkedIn badge (personal: https://www.linkedin.com/in/ethan-tarran-10059a7), FAA-authorized badge color tweaks, and hero banner image. - Created/used branch `feat/bvlos-seo-copy` with many commits; PR link template: https://github.com/etarran-aerospect/aerospect/pull/new/feat/bvlos-seo-copy - Canonical/OG URL set to intended primary domain `https://aerospectinc.com/bvlos`. - Added react-helmet-async and wrapped App with HelmetProvider for per-page meta. - Added multiple stock/user-provided images into `src/assets/bvlos/` (hero + How It",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-22T17:06:58.558Z",
+      "lastRecalledAt": "2026-05-22T17:06:58.558Z",
+      "queryHashes": [
+        "3056c9b0e379"
+      ],
+      "recallDays": [
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "etarran-aerospect/aerospect",
+        "copy/seo/ui",
+        "faa-authorized",
+        "created/used",
+        "feat/bvlos-seo-copy",
+        "canonical/og",
+        "aerospectinc.com/bvlos",
+        "react-helmet-async"
+      ]
+    },
+    "memory:memory/2026-03-03.md:1:26": {
+      "key": "memory:memory/2026-03-03.md:1:26",
+      "path": "memory/2026-03-03.md",
+      "startLine": 1,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "# 2026-03-03 ## Website finalization progress (aerospect-website-new-manus) - Working file: `/home/ethantarran/code/aerospect-website-new-manus/client/src/pages/Home.tsx`. - Contact section was redesigned to a split layout with image + content; new contact image added at `client/public/images/contact-vineyard.jpg`. - Contact details updated to: - Phone: `707.619.6961` (tel link `+17076196961`) - Email: `hello@aerospectinc.com` - CTA mailto also updated to `hello@aerospectinc.com`. - Header/nav cleanup completed: - Removed duplicate \"How It Works\" entries. - Nav order now: `What We Deliver`, `How It Works`, `Demo`, `Seasonal Services`, `Contact`. - Anchors normalized: `#approach`",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-22T17:06:58.558Z",
+      "lastRecalledAt": "2026-05-22T17:06:58.558Z",
+      "queryHashes": [
+        "3056c9b0e379"
+      ],
+      "recallDays": [
+        "2026-05-22"
+      ],
+      "conceptTags": [
+        "aerospect-website-new-manus",
+        "707.619.6961",
+        "aerospectinc.com",
+        "header/nav",
+        "website",
+        "finalization",
+        "progress",
+        "aerospect"
+      ]
+    }
+  }
+}
