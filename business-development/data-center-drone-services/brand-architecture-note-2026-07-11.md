@@ -21,6 +21,41 @@ Apex Aerial Intelligence
 
 Initial reaction: directionally good for infrastructure. It sounds more serious than a generic drone-services name and leaves room for mapping, thermal, GIS, and security documentation.
 
+## Naming Recommendation
+
+Best current direction:
+
+```text
+Siteborne Intelligence
+```
+
+Why:
+
+- It leads with sites, not drones.
+- It works for data centers, power, construction, perimeter/security, and other mission-critical infrastructure.
+- It sounds operational rather than cinematic.
+- It leaves room to become either a service company or a software/data platform later.
+- Quick public search did not show the same level of obvious collision as `Apex Aerial`.
+
+Positioning line:
+
+```text
+Aerial site intelligence for mission-critical infrastructure.
+```
+
+Other viable directions:
+
+- `Northline Intelligence` - strong infrastructure/grid feel, but "Northline" has unrelated existing uses and may not be as ownable.
+- `Overline Site Intelligence` - suggests aerial perspective without saying drone; slightly more abstract.
+- `Fieldmark Intelligence` - credible and grounded, but may still feel closer to land/agriculture than data centers.
+- `Clearline Site Intelligence` - clear and operational, but "Clearline" is crowded across AI, media, and pipeline monitoring.
+
+Avoid for now:
+
+- Anything led by `Drone`, `UAV`, `Sky`, or `Aerial Services`.
+- `Apex Aerial Intelligence` unless a deeper legal/domain/social screen comes back clean.
+- Generic `Aerial Intelligence` because that phrase is already used by multiple companies and reads broad.
+
 ## Name Risk
 
 Quick public search found the `Apex Aerial` namespace is crowded:
@@ -80,4 +115,3 @@ Then let company pages do the industry-specific selling.
    - Google search for exact and near-match names
 2. Generate 8-12 alternative names that keep the serious infrastructure tone but are easier to own.
 3. Build a one-page positioning brief before designing the site.
-
