@@ -11,7 +11,7 @@
 - Minimize unnecessary follow-up questions; only ask when the answer materially changes execution or safety requires it.
 
 ## Workflow
-- OpenClaw workspace is synced via git repo `git@github.com:etarran-aerospect/openclaw-workspace.git`.
+- OpenClaw workspace is synced via git repo `https://github.com/mantarran-72/openclaw-workspace.git`.
 - Habit: `git pull --rebase` before starting work; commit + push after sessions so both machines stay in sync.
 - 2026-05-21 reinstall recovery: local workspace was reconnected to `https://github.com/etarran-aerospect/openclaw-workspace.git` after Ethan provided the repo URL. `origin/main` contained the missing long-term and daily memory files, which were restored selectively.
 
