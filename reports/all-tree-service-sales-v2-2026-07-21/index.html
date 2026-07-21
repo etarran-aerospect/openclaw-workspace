@@ -1,0 +1,865 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>All Tree Service | Santa Rosa Tree Trimming, Removal & Cleanup</title>
+  <meta name="description" content="All Tree Service provides tree trimming, removals, emergency cleanup, yard care, and commercial tree work across Santa Rosa and Sonoma County.">
+  <style>
+    :root {
+      --forest: #132515;
+      --pine: #24452a;
+      --leaf: #78b245;
+      --moss: #b7c271;
+      --gold: #e5a937;
+      --cream: #f5f0df;
+      --paper: #fffaf0;
+      --ink: #172016;
+      --muted: #66705f;
+      --line: rgba(23, 32, 22, .16);
+      --shadow: 0 18px 50px rgba(10, 18, 8, .22);
+    }
+
+    * { box-sizing: border-box; }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background: var(--paper);
+      line-height: 1.5;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+      padding: 12px clamp(18px, 4vw, 56px);
+      color: white;
+      background: rgba(19, 37, 21, .96);
+      border-bottom: 1px solid rgba(255, 255, 255, .14);
+      backdrop-filter: blur(12px);
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+      font-weight: 900;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+    }
+
+    .brand img {
+      width: 54px;
+      height: 42px;
+      object-fit: contain;
+      flex: 0 0 auto;
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      font-size: 14px;
+      font-weight: 750;
+    }
+
+    .phone {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      padding: 0 18px;
+      color: #132515;
+      background: var(--gold);
+      border-radius: 999px;
+      font-weight: 950;
+      white-space: nowrap;
+      box-shadow: 0 8px 22px rgba(229, 169, 55, .22);
+    }
+
+    .hero {
+      min-height: 88svh;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(320px, .72fr);
+      gap: clamp(28px, 4vw, 64px);
+      align-items: center;
+      padding: clamp(42px, 7vw, 92px) clamp(18px, 5vw, 72px) clamp(34px, 5vw, 64px);
+      color: white;
+      background:
+        linear-gradient(90deg, rgba(19, 37, 21, .96), rgba(19, 37, 21, .78) 48%, rgba(19, 37, 21, .3)),
+        url("assets/yelp/yelp-photo-09.jpg") center / cover;
+    }
+
+    .hero-copy {
+      max-width: 790px;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      gap: 8px;
+      align-items: center;
+      margin: 0 0 18px;
+      color: #ffe2a1;
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .hero h1 {
+      margin: 0;
+      font-size: clamp(42px, 6vw, 76px);
+      line-height: .98;
+      letter-spacing: 0;
+      max-width: 820px;
+    }
+
+    .hero p {
+      max-width: 650px;
+      margin: 22px 0 0;
+      color: rgba(255, 255, 255, .88);
+      font-size: clamp(18px, 2vw, 22px);
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 30px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 50px;
+      padding: 0 22px;
+      border-radius: 999px;
+      font-weight: 900;
+      border: 1px solid transparent;
+    }
+
+    .button.primary {
+      color: #132515;
+      background: var(--gold);
+    }
+
+    .button.secondary {
+      color: white;
+      border-color: rgba(255, 255, 255, .34);
+      background: rgba(255, 255, 255, .1);
+    }
+
+    .hero-card {
+      justify-self: center;
+      width: min(100%, 390px);
+      padding: 18px;
+      border: 1px solid rgba(255, 255, 255, .16);
+      border-radius: 8px;
+      background: rgba(10, 18, 8, .68);
+      box-shadow: var(--shadow);
+    }
+
+    .hero-card img {
+      width: 100%;
+      height: 250px;
+      object-fit: cover;
+      border-radius: 7px;
+      background: #061006;
+    }
+
+    .hero-proof {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 16px;
+    }
+
+    .proof-item {
+      padding: 12px;
+      border-radius: 6px;
+      background: rgba(255, 255, 255, .08);
+      color: rgba(255, 255, 255, .82);
+      font-weight: 800;
+      font-size: 14px;
+    }
+
+    .proof-item strong {
+      display: block;
+      color: white;
+      font-size: 18px;
+      line-height: 1.1;
+    }
+
+    .section {
+      padding: clamp(46px, 7vw, 88px) clamp(18px, 5vw, 72px);
+    }
+
+    .section.dark {
+      color: white;
+      background: var(--forest);
+    }
+
+    .section.green {
+      background: #e8efda;
+    }
+
+    .wrap {
+      width: min(1160px, 100%);
+      margin: 0 auto;
+    }
+
+    .section-head {
+      display: grid;
+      grid-template-columns: minmax(0, .9fr) minmax(280px, .55fr);
+      gap: 28px;
+      align-items: end;
+      margin-bottom: 28px;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: clamp(30px, 4vw, 48px);
+      line-height: 1.04;
+      letter-spacing: 0;
+    }
+
+    .lead {
+      margin: 0;
+      color: var(--muted);
+      font-size: 17px;
+    }
+
+    .dark .lead {
+      color: rgba(255, 255, 255, .72);
+    }
+
+    .trust-grid {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 12px;
+      transform: translateY(-28px);
+      margin-bottom: -8px;
+    }
+
+    .trust-item {
+      min-height: 128px;
+      padding: 18px;
+      border-radius: 8px;
+      background: white;
+      border: 1px solid var(--line);
+      box-shadow: 0 10px 28px rgba(19, 37, 21, .08);
+    }
+
+    .trust-icon {
+      display: grid;
+      place-items: center;
+      width: 38px;
+      height: 38px;
+      margin-bottom: 14px;
+      border-radius: 50%;
+      color: #132515;
+      background: #dfe9c9;
+      font-weight: 950;
+    }
+
+    .trust-item strong {
+      display: block;
+      font-size: 16px;
+      line-height: 1.24;
+    }
+
+    .trust-item small {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-weight: 650;
+      line-height: 1.35;
+    }
+
+    .services {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .service {
+      min-height: 222px;
+      padding: 22px;
+      border-radius: 8px;
+      color: white;
+      background: linear-gradient(160deg, #1f3b24, #0f1b11);
+      border: 1px solid rgba(255, 255, 255, .1);
+    }
+
+    .service h3 {
+      margin: 0 0 10px;
+      font-size: 23px;
+      line-height: 1.12;
+    }
+
+    .service p {
+      margin: 0;
+      color: rgba(255, 255, 255, .76);
+    }
+
+    .service .num {
+      display: block;
+      margin-bottom: 40px;
+      color: var(--gold);
+      font-weight: 950;
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: minmax(0, .95fr) minmax(320px, .75fr);
+      gap: clamp(24px, 4vw, 54px);
+      align-items: center;
+    }
+
+    .image-panel {
+      overflow: hidden;
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      background: #d6dcc8;
+    }
+
+    .image-panel img {
+      width: 100%;
+      height: 430px;
+      object-fit: cover;
+    }
+
+    .emergency {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 22px;
+      align-items: center;
+      padding: 26px;
+      border-radius: 8px;
+      color: #1a170e;
+      background: var(--gold);
+      box-shadow: var(--shadow);
+    }
+
+    .emergency h2 {
+      font-size: clamp(28px, 4vw, 42px);
+    }
+
+    .emergency p {
+      margin: 8px 0 0;
+      font-weight: 750;
+    }
+
+    .gallery {
+      display: grid;
+      grid-template-columns: 1.15fr .85fr .85fr;
+      gap: 14px;
+    }
+
+    .shot {
+      position: relative;
+      overflow: hidden;
+      min-height: 290px;
+      border-radius: 8px;
+      background: #d9decf;
+    }
+
+    .shot:first-child {
+      grid-row: span 2;
+      min-height: 594px;
+    }
+
+    .shot img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      position: absolute;
+      inset: 0;
+    }
+
+    .caption {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      padding: 18px;
+      color: white;
+      font-weight: 900;
+      background: linear-gradient(0deg, rgba(7, 12, 5, .82), rgba(7, 12, 5, 0));
+    }
+
+    .review-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .quote {
+      padding: 24px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: white;
+      box-shadow: 0 10px 30px rgba(19, 37, 21, .07);
+    }
+
+    .quote p {
+      margin: 0;
+      font-size: 18px;
+    }
+
+    .quote span {
+      display: block;
+      margin-top: 14px;
+      color: var(--muted);
+      font-weight: 850;
+    }
+
+    .quote-steps {
+      display: grid;
+      gap: 12px;
+      margin-top: 22px;
+    }
+
+    .quote-step {
+      display: grid;
+      grid-template-columns: 34px minmax(0, 1fr);
+      gap: 12px;
+      align-items: start;
+      color: rgba(255, 255, 255, .84);
+      font-weight: 750;
+    }
+
+    .quote-step span {
+      display: grid;
+      place-items: center;
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      color: #132515;
+      background: var(--gold);
+      font-weight: 950;
+    }
+
+    .area {
+      display: grid;
+      grid-template-columns: minmax(0, .68fr) minmax(300px, .72fr);
+      gap: 28px;
+      align-items: center;
+    }
+
+    .cities {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 24px;
+    }
+
+    .chip {
+      padding: 9px 12px;
+      border-radius: 999px;
+      background: rgba(120, 178, 69, .18);
+      border: 1px solid rgba(36, 69, 42, .18);
+      font-weight: 800;
+    }
+
+    .map-card {
+      padding: 10px;
+      border-radius: 8px;
+      background: white;
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+    }
+
+    .map-card img {
+      width: 100%;
+      border-radius: 6px;
+    }
+
+    .cta {
+      display: grid;
+      grid-template-columns: minmax(0, .8fr) minmax(310px, .72fr);
+      gap: 30px;
+      align-items: stretch;
+    }
+
+    .form {
+      padding: 24px;
+      border-radius: 8px;
+      background: white;
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+    }
+
+    .field {
+      display: grid;
+      gap: 6px;
+      margin-bottom: 12px;
+    }
+
+    label {
+      font-size: 13px;
+      color: var(--muted);
+      font-weight: 850;
+    }
+
+    input,
+    select,
+    textarea {
+      width: 100%;
+      min-height: 46px;
+      padding: 11px 12px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      color: var(--ink);
+      font: inherit;
+      background: #fbfaf4;
+    }
+
+    textarea {
+      min-height: 88px;
+      resize: vertical;
+    }
+
+    footer {
+      padding: 28px clamp(18px, 5vw, 72px);
+      color: rgba(255, 255, 255, .72);
+      background: #081108;
+    }
+
+    .footer-inner {
+      width: min(1160px, 100%);
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      flex-wrap: wrap;
+      font-size: 14px;
+    }
+
+    @media (max-width: 920px) {
+      .nav { display: none; }
+      .hero,
+      .section-head,
+      .split,
+      .area,
+      .cta {
+        grid-template-columns: 1fr;
+      }
+      .hero {
+        min-height: auto;
+        background:
+          linear-gradient(0deg, rgba(19, 37, 21, .92), rgba(19, 37, 21, .74)),
+          url("assets/maples-wide.jpg") center / cover;
+      }
+      .hero-card {
+        justify-self: start;
+      }
+      .trust-grid,
+      .services,
+      .review-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+      .gallery {
+        grid-template-columns: 1fr 1fr;
+      }
+      .shot:first-child {
+        grid-column: span 2;
+        min-height: 420px;
+      }
+      .emergency {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 620px) {
+      .topbar {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 10px;
+      }
+      .brand span {
+        white-space: normal;
+      }
+      .trust-grid,
+      .services,
+      .review-grid,
+      .gallery {
+        grid-template-columns: 1fr;
+      }
+      .shot:first-child {
+        grid-column: auto;
+        min-height: 360px;
+      }
+      .hero-card {
+        width: 100%;
+      }
+      .hero-proof {
+        grid-template-columns: 1fr;
+      }
+      .image-panel img {
+        height: 320px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="All Tree Service home">
+      <img src="assets/logo-main.jpg" alt="All Tree Service logo">
+      <span>All Tree Service</span>
+    </a>
+    <nav class="nav" aria-label="Primary navigation">
+      <a href="#services">Services</a>
+      <a href="#work">Work</a>
+      <a href="#area">Service Area</a>
+      <a href="#quote">Free Estimate</a>
+    </nav>
+    <a class="phone" href="tel:17078432333">707-843-2333</a>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Licensed tree service in Santa Rosa</p>
+        <h1>Tree trimming, removal, and cleanup without the runaround.</h1>
+        <p>All Tree Service helps homeowners, property managers, and local businesses handle overgrown trees, removals, storm cleanup, hauling, and yard care across Sonoma County.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="tel:17078432333">Call 707-843-2333</a>
+          <a class="button secondary" href="sms:17078432333">Text job photos</a>
+        </div>
+      </div>
+      <aside class="hero-card" aria-label="Business details">
+        <img src="assets/yelp/yelp-photo-01.jpg" alt="All Tree Service tree removal job site with equipment">
+        <div class="hero-proof">
+          <div class="proof-item"><strong>5.0</strong>Yelp rating</div>
+          <div class="proof-item"><strong>#1111482</strong>CSLB license</div>
+          <div class="proof-item"><strong>24/7</strong>Emergency calls</div>
+          <div class="proof-item"><strong>Local</strong>Santa Rosa crew</div>
+        </div>
+      </aside>
+    </section>
+
+    <section class="section green" aria-label="Business highlights">
+      <div class="wrap">
+        <div class="trust-grid">
+          <div class="trust-item"><span class="trust-icon">★</span><strong>5.0 Yelp rating</strong><small>Short, credible review proof near the top.</small></div>
+          <div class="trust-item"><span class="trust-icon">#</span><strong>License #1111482</strong><small>Clear licensing signal for cautious homeowners.</small></div>
+          <div class="trust-item"><span class="trust-icon">$</span><strong>Free estimates</strong><small>Easy first step for price-sensitive callers.</small></div>
+          <div class="trust-item"><span class="trust-icon">!</span><strong>Emergency services</strong><small>Storm damage and urgent access problems.</small></div>
+          <div class="trust-item"><span class="trust-icon">↔</span><strong>Beat or match prices</strong><small>Kept as an offer, not the whole brand.</small></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="services" class="section dark">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>The common tree problems, handled cleanly.</h2>
+          <p class="lead">The page is built around the jobs people search for when they need help now: trimming, removals, emergency cleanup, brush clearing, and commercial maintenance.</p>
+        </div>
+        <div class="services">
+          <article class="service">
+            <span class="num">01</span>
+            <h3>Tree trimming</h3>
+            <p>Selective trimming, canopy cleanup, clearance from roofs and fences, and shape work for residential and commercial properties.</p>
+          </article>
+          <article class="service">
+            <span class="num">02</span>
+            <h3>Tree removal</h3>
+            <p>Removal support for problem trees, dead trees, tight access areas, and cleanup-heavy jobs that need the right equipment.</p>
+          </article>
+          <article class="service">
+            <span class="num">03</span>
+            <h3>Emergency cleanup</h3>
+            <p>24-hour response for fallen limbs, storm damage, blocked driveways, risky branches, and urgent property access issues.</p>
+          </article>
+          <article class="service">
+            <span class="num">04</span>
+            <h3>Yard care</h3>
+            <p>Brush cleanup, hauling, trimming, overgrowth control, and practical exterior cleanup before listing, renting, or inspection.</p>
+          </article>
+          <article class="service">
+            <span class="num">05</span>
+            <h3>Commercial service</h3>
+            <p>Responsive work for apartments, offices, HOAs, managers, contractors, and businesses that need clear scheduling and clean sites.</p>
+          </article>
+          <article class="service">
+            <span class="num">06</span>
+            <h3>Cleanup & hauling</h3>
+            <p>Chipping, loading, debris removal, and final cleanup so the property looks finished when the crew leaves.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap split">
+        <div>
+          <p class="eyebrow" style="color: var(--pine)">Local, equipped, and ready</p>
+          <h2>Real equipment, real job sites, real cleanup.</h2>
+          <p class="lead" style="margin-top: 16px;">This design uses actual All Tree Service job photos instead of stock imagery, so the first impression feels local and trustworthy. The copy stays focused on what customers care about: response time, clean work, safe access, and hauling debris away.</p>
+        </div>
+        <div class="image-panel">
+          <img src="assets/yelp/yelp-photo-03.jpg" alt="All Tree Service crew with chipper equipment">
+        </div>
+      </div>
+    </section>
+
+    <section class="section green">
+      <div class="wrap emergency">
+        <div>
+          <h2>Emergency tree service available 24 hours a day.</h2>
+          <p>Storm damage, dangerous limbs, blocked access, or a tree problem that cannot wait.</p>
+        </div>
+        <a class="button primary" style="background:#132515;color:white;" href="tel:17078432333">Call now</a>
+      </div>
+    </section>
+
+    <section id="work" class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>Recent tree work and cleanup.</h2>
+          <p class="lead">A gallery of real work gives the business instant credibility before a customer ever picks up the phone.</p>
+        </div>
+        <div class="gallery">
+          <figure class="shot">
+            <img src="assets/yelp/yelp-photo-01.jpg" alt="Tree removal site with cut logs and boom equipment">
+            <figcaption class="caption">Large removals with boom equipment and debris cleanup</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="assets/yelp/yelp-photo-02.jpg" alt="All Tree Service cutting a large stump">
+            <figcaption class="caption">Heavy cutting and haul-off work</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="assets/yelp/yelp-photo-09.jpg" alt="Climber trimming a tree near a roof">
+            <figcaption class="caption">Climbing and trimming near structures</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="assets/yelp/yelp-photo-04.jpg" alt="Cleaned-up work area after a large tree removal">
+            <figcaption class="caption">Clean job sites after removal</figcaption>
+          </figure>
+          <figure class="shot">
+            <img src="assets/yelp/yelp-photo-08.jpg" alt="Tall tree before trimming or removal">
+            <figcaption class="caption">Tall tree work for residential properties</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="section green">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>Review highlights.</h2>
+          <p class="lead">Short review snippets keep the proof readable and close to the call-to-action.</p>
+        </div>
+        <div class="review-grid">
+          <blockquote class="quote">
+            <p>"Amazing attention detail, quality and amazing affordable..."</p>
+            <span>Scott R. on Yelp</span>
+          </blockquote>
+          <blockquote class="quote">
+            <p>"They had them down and taken away AND trimmed our ash tree in 4 hours..."</p>
+            <span>Amanda B. on Yelp</span>
+          </blockquote>
+          <blockquote class="quote">
+            <p>"Very pleased with the job. They are friendly and very professional. Reasonably priced."</p>
+            <span>Mary W. on Yelp</span>
+          </blockquote>
+          <blockquote class="quote">
+            <p>"I won't use another tree vendor again."</p>
+            <span>Love S. on Yelp</span>
+          </blockquote>
+        </div>
+      </div>
+    </section>
+
+    <section id="area" class="section">
+      <div class="wrap area">
+        <div>
+          <p class="eyebrow" style="color: var(--pine)">Sonoma County and nearby areas</p>
+          <h2>Serving Santa Rosa, west county, wine country, and the North Bay.</h2>
+          <p class="lead" style="margin-top: 16px;">Customers can quickly confirm whether they are in range before calling. The page also gives Google clearer local signals for Santa Rosa, Sonoma County, and surrounding North Bay searches.</p>
+          <div class="cities" aria-label="Service area cities">
+            <span class="chip">Santa Rosa</span>
+            <span class="chip">Sebastopol</span>
+            <span class="chip">Rohnert Park</span>
+            <span class="chip">Healdsburg</span>
+            <span class="chip">Cloverdale</span>
+            <span class="chip">Sonoma</span>
+            <span class="chip">Petaluma</span>
+            <span class="chip">Calistoga</span>
+            <span class="chip">Napa</span>
+            <span class="chip">Bodega Bay</span>
+          </div>
+        </div>
+        <div class="map-card">
+          <img src="assets/service-area.jpg" alt="All Tree Service service area map">
+        </div>
+      </div>
+    </section>
+
+    <section id="quote" class="section dark">
+      <div class="wrap cta">
+        <div>
+          <p class="eyebrow">Free estimates</p>
+          <h2>Send photos before the crew drives out.</h2>
+          <p class="lead" style="margin-top: 16px;">For urgent jobs, call directly. For planned trimming, removals, yard care, or commercial work, text the address, photos, and what needs to be cleared or trimmed.</p>
+          <div class="quote-steps" aria-label="Photo estimate steps">
+            <div class="quote-step"><span>1</span><div>Wide photo showing the whole tree, yard, driveway, or access route.</div></div>
+            <div class="quote-step"><span>2</span><div>Close photo of broken limbs, stump, fence line, roof clearance, or hazards.</div></div>
+            <div class="quote-step"><span>3</span><div>Address or nearest cross street, plus whether debris needs to be hauled away.</div></div>
+          </div>
+          <div class="hero-actions">
+            <a class="button primary" href="tel:17078432333">707-843-2333</a>
+            <a class="button secondary" href="sms:17078432333">Text photos</a>
+          </div>
+        </div>
+        <aside class="form" aria-label="Estimate information">
+          <div class="field">
+            <label>Best for</label>
+            <input value="Tree trimming, removals, emergency cleanup, brush clearing" readonly>
+          </div>
+          <div class="field">
+            <label>Fastest estimate method</label>
+            <input value="Text photos of the tree, access, and debris pile" readonly>
+          </div>
+          <div class="field">
+            <label>Helpful details</label>
+            <textarea readonly>Tree size, roof/fence clearance, driveway access, hazards, address/city, and whether hauling is needed.</textarea>
+          </div>
+          <a class="button primary" href="sms:17078432333" style="width:100%;">Text job photos</a>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <span>All Tree Service | Tree Trimming & Yard Care</span>
+      <span>License #1111482 | 707-843-2333 | Santa Rosa, CA</span>
+    </div>
+  </footer>
+</body>
+</html>
