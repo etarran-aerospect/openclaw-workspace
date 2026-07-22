@@ -707,6 +707,82 @@
       cursor: not-allowed;
     }
 
+    .estimate-launcher {
+      position: fixed;
+      right: clamp(16px, 3vw, 34px);
+      bottom: clamp(16px, 3vw, 34px);
+      z-index: 40;
+      display: inline-grid;
+      place-items: center;
+      padding: 8px;
+      color: #f7f1df;
+      background: rgba(18, 34, 24, .94);
+      border: 1px solid rgba(239, 192, 97, .42);
+      box-shadow: 0 18px 44px rgba(9, 18, 12, .28);
+      transform: translateZ(0);
+      transition: transform 160ms ease, background 160ms ease, border-color 160ms ease;
+    }
+
+    .estimate-launcher:hover,
+    .estimate-launcher:focus-visible {
+      background: #09120c;
+      border-color: rgba(239, 192, 97, .74);
+      transform: translateY(-2px);
+      outline: 0;
+    }
+
+    .launcher-mark {
+      position: relative;
+      display: grid;
+      place-items: center;
+      width: 54px;
+      height: 54px;
+      background: #f8f5ec;
+      border-radius: 50%;
+    }
+
+    .launcher-mark::after {
+      content: "";
+      position: absolute;
+      right: 6px;
+      top: 8px;
+      width: 10px;
+      height: 10px;
+      background: var(--gold);
+      border: 2px solid var(--green-900);
+      border-radius: 50%;
+    }
+
+    .launcher-mark svg {
+      width: 30px;
+      height: 30px;
+      stroke: var(--green-900);
+    }
+
+    .launcher-copy {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+      clip: rect(0 0 0 0);
+      white-space: nowrap;
+    }
+
+    .launcher-copy strong {
+      font-size: 12px;
+      font-weight: 950;
+      letter-spacing: .1em;
+      line-height: 1;
+      text-transform: uppercase;
+    }
+
+    .launcher-copy span {
+      color: rgba(247, 241, 223, .72);
+      font-size: 12px;
+      font-weight: 800;
+      line-height: 1.2;
+    }
+
     .cta-panel {
       display: grid;
       gap: 16px;
@@ -923,6 +999,23 @@
       .form-actions a {
         width: 100%;
       }
+
+      .estimate-launcher {
+        right: 14px;
+        bottom: 14px;
+        padding: 8px;
+      }
+
+      .launcher-mark {
+        width: 48px;
+        height: 48px;
+      }
+
+      .launcher-mark svg {
+        width: 27px;
+        height: 27px;
+      }
+
     }
   </style>
 </head>
@@ -1106,7 +1199,7 @@
       </div>
     </section>
 
-    <section class="section review-section">
+    <section class="section review-section" id="estimate">
       <div class="inner final-cta">
         <div>
           <p class="kicker">Free estimates</p>
@@ -1226,10 +1319,25 @@
       <span>CSLB #1111482 | 707-843-2333 | Santa Rosa, CA</span>
     </div>
   </footer>
+
+  <a class="estimate-launcher" href="#estimate" aria-label="Open the free estimate form">
+    <span class="launcher-mark" aria-hidden="true">
+      <svg viewBox="0 0 32 32" fill="none">
+        <path d="M9 21.5V12.2C9 9.9 10.9 8 13.2 8h6.6c2.3 0 4.2 1.9 4.2 4.2v4.5c0 2.3-1.9 4.2-4.2 4.2h-5.1L9 25.5v-4Z" stroke-width="2.4" stroke-linejoin="round"/>
+        <path d="M14 14.3h7M14 17.5h4.2" stroke-width="2.4" stroke-linecap="round"/>
+      </svg>
+    </span>
+    <span class="launcher-copy">
+      <strong>Free estimate</strong>
+      <span>Send job photos</span>
+    </span>
+  </a>
+
   <script>
     const estimateForm = document.querySelector('.estimate-flow');
     const estimateSteps = [...document.querySelectorAll('.estimate-step')];
     const progressCells = [...document.querySelectorAll('.flow-progress > *')];
+    const estimateLauncher = document.querySelector('.estimate-launcher');
     let estimateStep = 0;
 
     function showEstimateStep(index) {
@@ -1268,6 +1376,11 @@
 
     estimateForm?.addEventListener('input', updateSmsLink);
     estimateForm?.addEventListener('change', updateSmsLink);
+    estimateLauncher?.addEventListener('click', () => {
+      window.setTimeout(() => {
+        estimateForm?.querySelector('input, select, textarea, button, a')?.focus({ preventScroll: true });
+      }, 420);
+    });
     updateSmsLink();
   </script>
 </body>
